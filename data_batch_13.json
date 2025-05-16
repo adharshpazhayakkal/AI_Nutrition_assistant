@@ -1,0 +1,372 @@
+[
+  {
+    "instruction": "Suggest a breakfast for someone aiming to lose weight on a keto diet.",
+    "input": "I’m trying to lose weight and follow a keto diet. I need a breakfast idea. I like eggs and avocado.",
+    "output": "Here’s a keto-friendly breakfast to support your weight loss:\n\n- **Breakfast**: Two-egg omelet with 1/4 avocado and a handful of spinach, cooked in 1 tsp olive oil. (Approx. 250 kcal, 3g carbs, 15g protein, 20g fat)\n- **Why this works**: Eggs and avocado provide healthy fats and protein to keep you full, while the low carbs (under 5g) help maintain ketosis for fat burning.\n\nTip: Pair with a glass of water to stay hydrated and support your weight loss journey."
+  },
+  {
+    "instruction": "What should I eat for lunch if I have type 2 diabetes?",
+    "input": "I have type 2 diabetes and need a lunch that won’t spike my blood sugar. I prefer savory flavors and like chicken.",
+    "output": "Here’s a diabetes-friendly lunch to keep your blood sugar stable:\n\n- **Lunch**: Grilled chicken breast (120g) with a side of steamed broccoli and 1/2 cup cooked quinoa, drizzled with olive oil. (Approx. 400 kcal, 25g carbs, 35g protein, 15g fat)\n- **Why this works**: Quinoa has a low glycemic index (GI 53) to prevent blood sugar spikes, while chicken and broccoli provide protein and fiber for satiety.\n\nTip: Check your blood sugar 1-2 hours after eating to ensure this meal works for you, and avoid sugary drinks."
+  },
+  {
+    "instruction": "Generate a high-protein vegan dinner for muscle gain.",
+    "input": "I’m vegan and trying to build muscle. I need a high-protein dinner idea. I like beans and quinoa.",
+    "output": "Here’s a high-protein vegan dinner to fuel your muscle gain:\n\n- **Dinner**: Quinoa and black bean bowl – 1 cup cooked quinoa, 1 cup black beans, sautéed with garlic, spinach, and a dash of cumin, topped with 2 tbsp tahini. (Approx. 550 kcal, 70g carbs, 30g protein, 15g fat)\n- **Why this works**: Quinoa and black beans together provide a complete protein (30g total) to support muscle repair, while tahini adds healthy fats for recovery.\n\nTip: Eat this within an hour after your workout to maximize muscle protein synthesis."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for a heart-healthy breakfast.",
+    "input": "I’m focusing on heart health and need a breakfast with a macronutrient breakdown. I like oatmeal and berries.",
+    "output": "Here’s a heart-healthy breakfast with a macronutrient breakdown:\n\n- **Breakfast**: Oatmeal (1/2 cup dry oats, cooked with water) topped with 1/2 cup blueberries, 1 tbsp chia seeds, and a handful of walnuts. (Approx. 350 kcal, 45g carbs, 10g protein, 15g fat, 8g fiber)\n- **Why this works**: Oats lower cholesterol with beta-glucan, while blueberries and walnuts provide antioxidants and omega-3s for heart health.\n\nTip: Use unsweetened oats to avoid added sugars, and pair with a glass of water."
+  },
+  {
+    "instruction": "Can you suggest a meal plan for intermittent fasting?",
+    "input": "I’m doing intermittent fasting with a 16:8 schedule and need a meal plan for my eating window. I prefer plant-based meals.",
+    "output": "Here’s a plant-based meal plan for your 16:8 intermittent fasting eating window (e.g., 12 PM to 8 PM):\n\n- **12 PM (First Meal)**: Chia pudding – 2 tbsp chia seeds soaked in 1 cup almond milk, topped with 1/2 cup raspberries. (Approx. 250 kcal)\n- **3 PM (Snack)**: A handful of almonds (15g) and cucumber slices. (Approx. 100 kcal)\n- **6 PM (Main Meal)**: Grilled tofu (100g) with 1/2 cup quinoa and steamed broccoli, drizzled with olive oil. (Approx. 400 kcal)\n- **Why this works**: This plan provides balanced nutrients within your eating window, with plant-based protein and fiber to keep you full.\n\nTip: Stay hydrated during your fasting window with water or herbal tea to support your fasting goals."
+  },
+  {
+    "instruction": "Suggest a low-FODMAP snack for someone with IBS.",
+    "input": "I have IBS and need a low-FODMAP snack. I like nuts and fruits, but I’m not sure what’s safe.",
+    "output": "Here’s a low-FODMAP snack to support your IBS management:\n\n- **Snack**: A small banana (100g) with 1 tbsp almond butter. (Approx. 150 kcal, 20g carbs, 3g fiber, 8g fat)\n- **Why this works**: Bananas (in small portions) and almond butter are low-FODMAP, making them gentle on your gut while providing a satisfying mix of carbs and fats.\n\nTip: Stick to small portions of fruit to avoid FODMAP overload, and eat slowly to aid digestion."
+  },
+  {
+    "instruction": "What’s a good dairy-free substitute for yogurt in a breakfast recipe?",
+    "input": "I’m dairy-free due to an allergy and need a substitute for yogurt in my breakfast. I usually have yogurt with granola.",
+    "output": "Here’s a dairy-free substitute for your breakfast yogurt:\n\n- **Substitute**: Use coconut yogurt (unsweetened) instead of dairy yogurt. Mix 1 cup coconut yogurt with your granola for a creamy, dairy-free alternative. (Approx. 200 kcal, depending on the granola)\n- **Why this works**: Coconut yogurt provides a similar creamy texture and pairs well with granola, while being naturally dairy-free and safe for your allergy.\n\nTip: Check the label for added sugars, and opt for unsweetened varieties to keep it healthy."
+  },
+  {
+    "instruction": "Generate a post-workout meal for an athlete focusing on recovery.",
+    "input": "I’m an athlete and need a post-workout meal for recovery after a morning run. I like chicken and carbs.",
+    "output": "Here’s a post-workout meal to support your recovery after your morning run:\n\n- **Meal**: Grilled chicken breast (150g) with 1 cup cooked sweet potato and a side of steamed green beans. (Approx. 500 kcal, 50g carbs, 40g protein, 10g fat)\n- **Why this works**: Chicken provides protein (40g) to repair muscles, while sweet potato offers carbs to replenish glycogen stores depleted during your run.\n\nTip: Eat within 30 minutes of your run to optimize recovery, and drink water to rehydrate."
+  },
+  {
+    "instruction": "Suggest a dinner for a pregnant woman in her second trimester.",
+    "input": "I’m in my second trimester of pregnancy and need a dinner idea. I want something nutrient-rich and I like salmon.",
+    "output": "Here’s a nutrient-rich dinner for your second trimester:\n\n- **Dinner**: Baked salmon (120g) with 1/2 cup cooked quinoa and a side of steamed spinach, drizzled with olive oil. (Approx. 450 kcal, 30g carbs, 35g protein, 20g fat)\n- **Why this works**: Salmon provides omega-3s for your baby’s brain development, while quinoa and spinach offer folate and iron, essential for pregnancy.\n\nTip: Ensure the salmon is fully cooked to avoid any risks, and pair with a glass of water to stay hydrated."
+  },
+  {
+    "instruction": "Create a grocery list for a budget-conscious vegan meal plan for one day.",
+    "input": "I’m vegan and on a tight budget. I need a grocery list for a one-day meal plan. I like beans and rice.",
+    "output": "Here’s a budget-friendly grocery list for a one-day vegan meal plan:\n\n- **Grocery List**: 1 can black beans ($1), 1 lb brown rice ($1), 1 bag frozen spinach ($1.50), 1 onion ($0.50), 1 garlic bulb ($0.50), 1 banana ($0.25), 1 small bag oats ($1). Total: ~$5.75\n- **Meal Plan**: Breakfast – oatmeal with banana; Lunch – black bean and rice bowl with spinach; Dinner – same as lunch with added garlic and onion for flavor.\n\nTip: Buy in bulk when possible to save more, and use spices you already have to add variety."
+  },
+  {
+    "instruction": "Suggest a snack for someone with a nut allergy looking to boost energy.",
+    "input": "I need a snack to boost my energy, but I’m allergic to nuts. I like fruits and seeds.",
+    "output": "Here’s a nut-free snack to boost your energy:\n\n- **Snack**: An apple (medium, about 120g) with 1 tbsp sunflower seed butter. (Approx. 150 kcal, 20g carbs, 3g fiber, 8g fat)\n- **Why this works**: Apples provide natural sugars and fiber for a quick energy boost, while sunflower seed butter adds healthy fats and protein, all nut-free.\n\nTip: Double-check the sunflower seed butter label to ensure it’s processed in a nut-free facility."
+  },
+  {
+    "instruction": "What should I eat before a workout to improve performance?",
+    "input": "I’m going to the gym in an hour and need a pre-workout meal for better performance. I prefer carbs and I like bananas.",
+    "output": "Here’s a pre-workout meal to enhance your gym performance:\n\n- **Meal**: A medium banana (120g) with 1 slice of whole-grain toast and a thin spread of almond butter. (Approx. 250 kcal, 40g carbs, 5g protein, 5g fat)\n- **Why this works**: Bananas provide quick-digesting carbs and potassium to fuel your workout and prevent cramps, while the toast adds sustained energy.\n\nTip: Eat this 45-60 minutes before your workout to give your body time to digest."
+  },
+  {
+    "instruction": "Generate a gluten-free dinner for someone following a paleo diet.",
+    "input": "I’m on a paleo diet and need a gluten-free dinner idea. I like beef and veggies.",
+    "output": "Here’s a gluten-free, paleo-friendly dinner for you:\n\n- **Dinner**: Grilled beef steak (150g) with roasted sweet potatoes and a side of steamed broccoli, seasoned with olive oil and herbs. (Approx. 500 kcal, 30g carbs, 40g protein, 20g fat)\n- **Why this works**: Beef provides protein and iron, while sweet potatoes and broccoli offer nutrient-dense carbs and fiber, all naturally gluten-free and paleo-compliant.\n\nTip: Use fresh herbs like rosemary for flavor, and avoid processed seasonings that might contain gluten."
+  },
+  {
+    "instruction": "Suggest a high-protein vegetarian breakfast for muscle gain.",
+    "input": "I’m vegetarian and trying to build muscle. I need a high-protein breakfast idea. I like eggs and cheese.",
+    "output": "Here’s a high-protein vegetarian breakfast to support your muscle gain:\n\n- **Breakfast**: Three-egg omelet with 1/4 cup shredded cheddar cheese, spinach, and a side of 1/2 cup cooked quinoa. (Approx. 400 kcal, 20g carbs, 30g protein, 20g fat)\n- **Why this works**: Eggs and cheese provide 30g of protein to fuel muscle growth, while quinoa adds a bit of carbs for energy without overloading.\n\nTip: Pair with a glass of water to stay hydrated, and consider a post-workout protein shake if needed."
+  },
+  {
+    "instruction": "What’s a good hydration strategy for a marathon runner?",
+    "input": "I’m training for a marathon and need a hydration strategy. I sometimes feel dehydrated during long runs.",
+    "output": "Here’s a hydration strategy to keep you performing at your best during marathon training:\n\n- **Strategy**: Start hydrating 2 hours before your run with 16-20 oz of water. During your run, aim for 4-6 oz of water every 20 minutes, and include an electrolyte drink (like coconut water) for runs over 90 minutes. Post-run, drink 20 oz of water within 30 minutes to rehydrate.\n- **Why this works**: Pre-hydration ensures you start well-hydrated, while consistent sips during the run prevent dehydration. Electrolytes help replace sodium lost through sweat.\n\nTip: Weigh yourself before and after runs to monitor fluid loss—drink 16-24 oz of water for every pound lost."
+  },
+  {
+    "instruction": "Generate a meal prep plan for a busy professional aiming for weight loss.",
+    "input": "I’m a busy professional trying to lose weight. I need a meal prep plan for the week. I like chicken and veggies.",
+    "output": "Here’s a simple meal prep plan for weight loss, designed for a busy week:\n\n- **Meal**: Grill 600g chicken breast (seasoned with herbs) and roast 4 cups of mixed veggies (zucchini, broccoli, carrots) with olive oil. Divide into 5 portions for lunches: each with 120g chicken and 3/4 cup veggies. (Approx. 350 kcal per meal, 5g carbs, 35g protein, 15g fat)\n- **Why this works**: Chicken provides lean protein to keep you full, while veggies are low-calorie and nutrient-dense, helping you stay in a calorie deficit.\n\nTip: Store in airtight containers and reheat only what you need to keep meals fresh throughout the week."
+  },
+  {
+    "instruction": "Suggest a snack for focus during a long study session.",
+    "input": "I’m studying for exams and need a snack to help me focus. I like dark chocolate and nuts.",
+    "output": "Here’s a snack to boost your focus during your study session:\n\n- **Snack**: 2 squares of dark chocolate (70% cocoa, 20g) with a small handful of almonds (15g). (Approx. 200 kcal, 10g carbs, 5g protein, 15g fat)\n- **Why this works**: Dark chocolate contains flavonoids that improve cognitive function, while almonds provide healthy fats and protein for sustained energy.\n\nTip: Pair with a glass of water to stay hydrated, as dehydration can affect concentration."
+  },
+  {
+    "instruction": "What supplements should I consider for muscle gain?",
+    "input": "I’m trying to build muscle and want to know what supplements might help. I work out 5 days a week and eat a balanced diet.",
+    "output": "Here are some supplements to consider for muscle gain:\n\n- **Supplements**: 1) Whey protein powder (20-30g post-workout) to support muscle repair. 2) Creatine monohydrate (3-5g daily) to improve strength and performance. 3) Branched-chain amino acids (BCAAs, 5-10g during workouts) to reduce muscle breakdown.\n- **Why this works**: Whey protein provides a quick source of amino acids, creatine enhances ATP production for better workouts, and BCAAs help with recovery.\n\nTip: Always consult a healthcare professional before starting supplements, and prioritize whole foods in your diet."
+  },
+  {
+    "instruction": "Generate a one-day meal plan for someone following a low-FODMAP diet.",
+    "input": "I’m on a low-FODMAP diet for IBS and need a one-day meal plan. I like eggs and rice.",
+    "output": "Here’s a one-day low-FODMAP meal plan to support your IBS management:\n\n- **Breakfast**: Two-egg omelet with spinach and a side of 1/2 cup cooked rice. (Approx. 250 kcal)\n- **Lunch**: Grilled chicken breast (120g) with 1/2 cup cooked quinoa and steamed carrots. (Approx. 350 kcal)\n- **Snack**: A small banana (100g) with 1 tbsp peanut butter. (Approx. 150 kcal)\n- **Dinner**: Baked salmon (120g) with 1/2 cup rice and steamed zucchini. (Approx. 400 kcal)\n- **Why this works**: All ingredients are low-FODMAP, minimizing IBS symptoms while providing balanced nutrition.\n\nTip: Keep a food diary to track how your body responds, and avoid high-FODMAP foods like garlic or onions."
+  },
+  {
+    "instruction": "Suggest a keto lunch for someone aiming for weight loss.",
+    "input": "I’m on a keto diet to lose weight and need a lunch idea. I like salmon and creamy textures.",
+    "output": "Here’s a keto-friendly lunch to support your weight loss:\n\n- **Lunch**: Grilled salmon (120g) with a creamy avocado dressing (1/2 avocado blended with lemon juice) and a side of sautéed spinach in olive oil. (Approx. 450 kcal, 5g carbs, 30g protein, 35g fat)\n- **Why this works**: Salmon and avocado provide healthy fats to keep you in ketosis, while the low carbs (under 5g) support fat burning for weight loss.\n\nTip: Use minimal seasoning to avoid hidden carbs, and drink water to stay hydrated."
+  },
+  {
+    "instruction": "What should I eat for dinner if I’m trying to improve my heart health?",
+    "input": "I’m focusing on heart health and need a dinner idea. I like fish and olives.",
+    "output": "Here’s a heart-healthy dinner to support your goals:\n\n- **Dinner**: Baked cod (120g) with a side of 1/2 cup cooked farro mixed with chopped olives, spinach, and a drizzle of olive oil. (Approx. 400 kcal, 35g carbs, 30g protein, 15g fat)\n- **Why this works**: Cod provides lean protein and omega-3s, while olives and olive oil offer heart-healthy monounsaturated fats. Farro adds fiber to support cholesterol levels.\n\nTip: Use minimal salt to keep sodium low, and pair with a glass of water."
+  },
+  {
+    "instruction": "Generate a high-protein vegetarian snack for recovery after a workout.",
+    "input": "I’m vegetarian and need a high-protein snack for recovery after a workout. I like cheese and eggs.",
+    "output": "Here’s a high-protein vegetarian snack to aid your post-workout recovery:\n\n- **Snack**: A hard-boiled egg with 1 slice of cheddar cheese (30g) and a few cucumber slices. (Approx. 150 kcal, 2g carbs, 15g protein, 10g fat)\n- **Why this works**: The egg and cheese provide 15g of protein to support muscle repair, while cucumber adds hydration without extra carbs.\n\nTip: Eat this within 30 minutes of your workout to maximize recovery benefits."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for a paleo breakfast.",
+    "input": "I’m on a paleo diet and need a breakfast with a macronutrient breakdown. I like eggs and veggies.",
+    "output": "Here’s a paleo breakfast with a macronutrient breakdown:\n\n- **Breakfast**: Three-egg omelet with sautéed spinach and zucchini, cooked in 1 tsp olive oil, with a side of 1/2 avocado. (Approx. 350 kcal, 10g carbs, 20g protein, 25g fat, 5g fiber)\n- **Why this works**: Eggs provide protein for satiety, while avocado adds healthy fats, all fitting the paleo framework with no grains or dairy.\n\nTip: Use fresh herbs for flavor, and pair with a glass of water to start your day."
+  },
+  {
+    "instruction": "Can you suggest a meal plan for someone doing intermittent fasting with a 18:6 schedule?",
+    "input": "I’m doing an 18:6 intermittent fasting schedule and need a meal plan for my eating window. I like chicken and rice.",
+    "output": "Here’s a meal plan for your 18:6 intermittent fasting eating window (e.g., 2 PM to 8 PM):\n\n- **2 PM (First Meal)**: Grilled chicken breast (120g) with 1/2 cup cooked rice and steamed broccoli. (Approx. 400 kcal)\n- **5 PM (Snack)**: A hard-boiled egg with a few carrot sticks. (Approx. 100 kcal)\n- **7 PM (Main Meal)**: Baked chicken thigh (150g) with 1/2 cup rice and sautéed spinach in olive oil. (Approx. 450 kcal)\n- **Why this works**: This plan balances protein, carbs, and veggies within your eating window to keep you energized and satisfied.\n\nTip: Stay hydrated during your fasting window with water or herbal tea, and avoid snacking outside your eating hours."
+  },
+  {
+    "instruction": "Suggest a gluten-free snack for someone with celiac disease.",
+    "input": "I have celiac disease and need a gluten-free snack. I like fruits and cheese.",
+    "output": "Here’s a gluten-free snack safe for celiac disease:\n\n- **Snack**: A small apple (100g) with 1 slice of cheddar cheese (30g). (Approx. 150 kcal, 15g carbs, 2g fiber, 8g fat)\n- **Why this works**: Apples and cheese are naturally gluten-free, providing a balanced mix of carbs, protein, and fats without risking gluten exposure.\n\nTip: Always check the cheese label for any gluten-containing additives, and wash the apple to avoid cross-contamination."
+  },
+  {
+    "instruction": "What’s a good soy-free substitute for tofu in a vegan recipe?",
+    "input": "I’m vegan but allergic to soy, and I need a substitute for tofu in my stir-fry. I like chickpeas.",
+    "output": "Here’s a soy-free substitute for tofu in your vegan stir-fry:\n\n- **Substitute**: Use chickpeas instead of tofu. Sauté 1 cup of canned chickpeas (drained and rinsed) with your stir-fry veggies in olive oil, and season with garlic and ginger. (Approx. 200 kcal for the chickpeas)\n- **Why this works**: Chickpeas provide a similar protein content (about 15g per cup) and a hearty texture, making them a great soy-free alternative.\n\nTip: Pat the chickpeas dry before cooking to get a crispier texture in your stir-fry."
+  },
+  {
+    "instruction": "Generate a pre-workout meal for a gym-goer focusing on energy.",
+    "input": "I’m going to the gym in 2 hours and need a pre-workout meal for energy. I like oats and bananas.",
+    "output": "Here’s a pre-workout meal to boost your energy for the gym:\n\n- **Meal**: Oatmeal (1/2 cup dry oats, cooked with water) topped with a sliced banana and a drizzle of honey. (Approx. 300 kcal, 55g carbs, 5g protein, 5g fat)\n- **Why this works**: Oats provide complex carbs for sustained energy, while the banana adds quick-digesting carbs and potassium to prevent cramps during your workout.\n\nTip: Eat this 1.5-2 hours before your gym session to allow for proper digestion."
+  },
+  {
+    "instruction": "Suggest a breakfast for a postpartum mom focusing on recovery.",
+    "input": "I’m a postpartum mom and need a breakfast to help with recovery. I like eggs and want something nutrient-dense.",
+    "output": "Here’s a nutrient-dense breakfast to support your postpartum recovery:\n\n- **Breakfast**: Two-egg omelet with spinach, 1/4 cup shredded cheddar cheese, and a side of 1/2 cup cooked quinoa. (Approx. 350 kcal, 20g carbs, 25g protein, 20g fat)\n- **Why this works**: Eggs and cheese provide protein and iron to support healing, while quinoa offers carbs and magnesium for energy during this demanding time.\n\nTip: Stay hydrated with water or herbal tea, and consider adding a vitamin D supplement if recommended by your doctor."
+  },
+  {
+    "instruction": "Create a grocery list for a one-day keto meal plan on a budget.",
+    "input": "I’m on a keto diet and on a tight budget. I need a grocery list for a one-day meal plan. I like eggs and chicken.",
+    "output": "Here’s a budget-friendly grocery list for a one-day keto meal plan:\n\n- **Grocery List**: 6 eggs ($1.50), 1 lb chicken thighs ($3), 1 bag frozen spinach ($1.50), 1 avocado ($1), 1 small bottle olive oil ($1 for a portion). Total: ~$7\n- **Meal Plan**: Breakfast – two-egg omelet with spinach; Lunch – grilled chicken thigh with 1/2 avocado; Dinner – chicken thigh with sautéed spinach in olive oil.\n\nTip: Buy in bulk when possible to save more, and use spices you already have for flavor."
+  },
+  {
+    "instruction": "Suggest a snack for energy during a busy workday.",
+    "input": "I’m having a busy workday and need a snack for energy. I like fruits and yogurt.",
+    "output": "Here’s an energizing snack for your busy workday:\n\n- **Snack**: A small container of Greek yogurt (100g, unsweetened) with 1/2 cup sliced strawberries. (Approx. 150 kcal, 10g carbs, 10g protein, 5g fat)\n- **Why this works**: Greek yogurt provides protein for sustained energy, while strawberries offer natural sugars and vitamin C for a quick boost.\n\nTip: Keep the yogurt in a cooler bag if you’re on the go, and eat slowly to recharge."
+  },
+  {
+    "instruction": "What should I eat for lunch if I’m trying to build muscle on a budget?",
+    "input": "I’m trying to build muscle but on a budget. I need a lunch idea. I like chicken and rice.",
+    "output": "Here’s a budget-friendly lunch to support your muscle-building goals:\n\n- **Lunch**: Grilled chicken breast (150g) with 1 cup cooked rice and a side of steamed broccoli, seasoned with garlic and herbs. (Approx. 450 kcal, 50g carbs, 40g protein, 10g fat)\n- **Why this works**: Chicken provides 40g of protein for muscle growth, while rice offers carbs for energy and recovery—all affordable and easy to prepare.\n\nTip: Buy chicken and rice in bulk to save money, and use frozen broccoli to keep costs low."
+  },
+  {
+    "instruction": "Generate a meal prep plan for someone following a diabetic diet for 3 days.",
+    "input": "I have type 2 diabetes and need a meal prep plan for 3 days. I like fish and veggies.",
+    "output": "Here’s a 3-day meal prep plan for a diabetic diet:\n\n- **Meal**: Bake 450g cod (seasoned with herbs) and roast 6 cups of mixed veggies (zucchini, carrots, spinach) with olive oil. Divide into 3 portions: each with 150g cod and 2 cups veggies. (Approx. 400 kcal per meal, 15g carbs, 35g protein, 15g fat)\n- **Why this works**: Cod provides lean protein, while the low-GI veggies (under 15g carbs) help keep blood sugar stable, perfect for managing diabetes.\n\nTip: Store in airtight containers, reheat gently, and pair with a side of 1/2 cup quinoa if you need more carbs."
+  },
+  {
+    "instruction": "Suggest a hydration tip for someone working out in hot weather.",
+    "input": "I’m working out in hot weather and need a hydration tip. I sweat a lot during exercise.",
+    "output": "Here’s a hydration tip for your hot-weather workouts:\n\n- **Tip**: Drink 16-20 oz of water 1 hour before your workout, and sip 4-6 oz every 15 minutes during exercise. Add a pinch of sea salt to your water or drink coconut water to replenish electrolytes lost through sweat.\n- **Why this works**: Pre-hydration prepares your body, while consistent sips and electrolytes prevent dehydration and maintain performance in the heat.\n\nTip: Carry a reusable water bottle to stay on track, and monitor your urine color—it should be pale yellow."
+  },
+  {
+    "instruction": "What should I eat for breakfast if I’m on a gluten-free diet?",
+    "input": "I’m on a gluten-free diet and need a breakfast idea. I like eggs and fruit.",
+    "output": "Here’s a gluten-free breakfast for you:\n\n- **Breakfast**: Two-egg scramble with spinach and a side of 1/2 cup mixed berries (strawberries and blueberries). (Approx. 200 kcal, 10g carbs, 15g protein, 10g fat)\n- **Why this works**: Eggs and berries are naturally gluten-free, providing protein and antioxidants without risking gluten exposure.\n\nTip: Use a non-stick pan to cook your eggs, and double-check any seasonings for gluten-containing additives."
+  },
+  {
+    "instruction": "Suggest a high-protein vegan lunch for someone trying to build muscle.",
+    "input": "I’m vegan and trying to build muscle. I need a high-protein lunch idea. I like tofu and rice.",
+    "output": "Here’s a high-protein vegan lunch to support your muscle-building goals:\n\n- **Lunch**: Grilled tofu (150g) with 1/2 cup cooked rice and a side of steamed broccoli, drizzled with 1 tbsp tahini. (Approx. 450 kcal, 40g carbs, 25g protein, 15g fat)\n- **Why this works**: Tofu provides 20g of protein for muscle repair, while rice offers carbs for energy, and tahini adds healthy fats for recovery.\n\nTip: Marinate the tofu in garlic and ginger for extra flavor, and eat within an hour of your workout."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for a keto dinner.",
+    "input": "I’m on a keto diet and need a dinner with a macronutrient breakdown. I like chicken and avocado.",
+    "output": "Here’s a keto dinner with a macronutrient breakdown:\n\n- **Dinner**: Grilled chicken thigh (150g) with 1/2 avocado and a side of sautéed spinach in olive oil. (Approx. 500 kcal, 5g carbs, 35g protein, 40g fat, 3g fiber)\n- **Why this works**: Chicken provides protein, while avocado and olive oil supply healthy fats to keep you in ketosis, with minimal carbs.\n\nTip: Use minimal seasoning to avoid hidden carbs, and pair with a glass of water."
+  },
+  {
+    "instruction": "Can you suggest a meal plan for someone doing a 5:2 intermittent fasting schedule?",
+    "input": "I’m doing a 5:2 intermittent fasting schedule and need a meal plan for a fasting day (500 kcal). I like eggs and veggies.",
+    "output": "Here’s a meal plan for a 500-kcal fasting day on your 5:2 schedule:\n\n- **Breakfast (10 AM)**: Two-egg scramble with spinach. (Approx. 150 kcal)\n- **Lunch (2 PM)**: Steamed zucchini and carrots (1 cup) with a drizzle of olive oil. (Approx. 100 kcal)\n- **Dinner (6 PM)**: Baked egg (1) with 1/2 cup steamed broccoli and a sprinkle of herbs. (Approx. 100 kcal)\n- **Snack (8 PM)**: Cucumber slices (1/2 cup) with a hard-boiled egg. (Approx. 100 kcal)\n- **Why this works**: This plan keeps you at 500 kcal with low-calorie, nutrient-dense foods to support your fasting day.\n\nTip: Drink plenty of water or herbal tea throughout the day to stay hydrated and curb hunger."
+  },
+  {
+    "instruction": "Suggest a low-FODMAP breakfast for someone with digestive issues.",
+    "input": "I have digestive issues and need a low-FODMAP breakfast. I like oatmeal and bananas.",
+    "output": "Here’s a low-FODMAP breakfast to ease your digestive issues:\n\n- **Breakfast**: Oatmeal (1/2 cup gluten-free oats, cooked with water) topped with a small banana (100g) and a sprinkle of chia seeds. (Approx. 250 kcal, 40g carbs, 5g protein, 5g fat)\n- **Why this works**: Gluten-free oats and small portions of banana are low-FODMAP, making them gentle on your digestive system while providing fiber and energy.\n\nTip: Avoid adding high-FODMAP toppings like honey, and drink water to aid digestion."
+  },
+  {
+    "instruction": "What’s a good nut-free substitute for almond butter in a recipe?",
+    "input": "I’m allergic to nuts and need a substitute for almond butter in my smoothie. I like seeds.",
+    "output": "Here’s a nut-free substitute for almond butter in your smoothie:\n\n- **Substitute**: Use sunflower seed butter instead of almond butter. Add 1 tbsp sunflower seed butter to your smoothie for a creamy texture and nutty flavor. (Approx. 100 kcal per tbsp)\n- **Why this works**: Sunflower seed butter provides a similar consistency and healthy fats, while being completely nut-free and safe for your allergy.\n\nTip: Check the label to ensure it’s processed in a nut-free facility, and blend well for a smooth texture."
+  },
+  {
+    "instruction": "Generate a post-workout meal for a gym-goer focusing on muscle recovery.",
+    "input": "I’m a gym-goer and need a post-workout meal for muscle recovery. I like beef and sweet potatoes.",
+    "output": "Here’s a post-workout meal to support your muscle recovery:\n\n- **Meal**: Grilled beef steak (150g) with 1 cup roasted sweet potato and a side of steamed green beans. (Approx. 550 kcal, 50g carbs, 40g protein, 15g fat)\n- **Why this works**: Beef provides 40g of protein to repair muscles, while sweet potato offers carbs to replenish glycogen stores after your gym session.\n\nTip: Eat within 30 minutes of your workout to maximize recovery, and drink water to rehydrate."
+  },
+  {
+    "instruction": "Suggest a lunch for a pregnant woman in her third trimester.",
+    "input": "I’m in my third trimester of pregnancy and need a lunch idea. I want something nutrient-rich and I like chicken.",
+    "output": "Here’s a nutrient-rich lunch for your third trimester:\n\n- **Lunch**: Grilled chicken breast (150g) with 1/2 cup cooked quinoa and a side of steamed kale, drizzled with olive oil. (Approx. 450 kcal, 30g carbs, 40g protein, 15g fat)\n- **Why this works**: Chicken provides protein for tissue growth, while quinoa and kale offer iron and folate, crucial for your baby’s development in the third trimester.\n\nTip: Stay hydrated with water, and consider a prenatal vitamin if recommended by your doctor."
+  },
+  {
+    "instruction": "Create a grocery list for a one-day vegetarian meal plan on a budget.",
+    "input": "I’m vegetarian and on a tight budget. I need a grocery list for a one-day meal plan. I like eggs and rice.",
+    "output": "Here’s a budget-friendly grocery list for a one-day vegetarian meal plan:\n\n- **Grocery List**: 6 eggs ($1.50), 1 lb rice ($1), 1 bag frozen spinach ($1.50), 1 small bag oats ($1), 1 banana ($0.25). Total: ~$5.25\n- **Meal Plan**: Breakfast – oatmeal with banana; Lunch – two-egg scramble with spinach and 1/2 cup rice; Dinner – egg-fried rice with spinach.\n\nTip: Buy in bulk to save more, and use spices you already have to add flavor to your meals."
+  },
+  {
+    "instruction": "Suggest a snack for recovery after a yoga session.",
+    "input": "I just finished a yoga session and need a snack for recovery. I like yogurt and fruit.",
+    "output": "Here’s a snack to help you recover after your yoga session:\n\n- **Snack**: A small container of Greek yogurt (100g, unsweetened) with 1/2 cup mixed berries (strawberries and blueberries). (Approx. 150 kcal, 10g carbs, 10g protein, 5g fat)\n- **Why this works**: Greek yogurt provides protein to repair muscles, while berries offer antioxidants to reduce inflammation from your yoga practice.\n\nTip: Eat this within 30 minutes of your session to support recovery, and drink water to rehydrate."
+  },
+  {
+    "instruction": "What supplements should I consider for weight loss?",
+    "input": "I’m trying to lose weight and want to know what supplements might help. I eat a balanced diet and exercise regularly.",
+    "output": "Here are some supplements to consider for weight loss:\n\n- **Supplements**: 1) Green tea extract (300-500mg daily) to boost metabolism. 2) Fiber supplements (like psyllium husk, 5-10g daily) to promote fullness. 3) Omega-3 fish oil (1-2g daily) to support overall health.\n- **Why this works**: Green tea extract may increase fat burning, fiber helps control appetite, and omega-3s support metabolic health during weight loss.\n\nTip: Consult a healthcare professional before starting supplements, and focus on a calorie deficit through diet and exercise."
+  },
+  {
+    "instruction": "Generate a one-day meal plan for someone following a paleo diet.",
+    "input": "I’m on a paleo diet and need a one-day meal plan. I like beef and veggies.",
+    "output": "Here’s a one-day paleo meal plan for you:\n\n- **Breakfast**: Two-egg scramble with spinach and a side of 1/2 avocado. (Approx. 250 kcal)\n- **Lunch**: Grilled beef steak (150g) with roasted sweet potatoes and steamed broccoli. (Approx. 500 kcal)\n- **Snack**: A handful of mixed berries (100g). (Approx. 50 kcal)\n- **Dinner**: Baked beef meatballs (150g) with 1 cup roasted zucchini and carrots. (Approx. 450 kcal)\n- **Why this works**: All meals are grain-free, dairy-free, and focused on whole foods, aligning with paleo principles while providing balanced nutrition.\n\nTip: Use olive oil and fresh herbs for flavor, and stay hydrated with water throughout the day."
+  },
+  {
+    "instruction": "Suggest a keto breakfast for someone aiming for weight loss.",
+    "input": "I’m on a keto diet to lose weight and need a breakfast idea. I like eggs and cheese.",
+    "output": "Here’s a keto-friendly breakfast to support your weight loss:\n\n- **Breakfast**: Two-egg scramble with 1/4 cup shredded cheddar cheese and a handful of spinach, cooked in 1 tsp olive oil. (Approx. 300 kcal, 3g carbs, 20g protein, 25g fat)\n- **Why this works**: Eggs and cheese provide protein and fats to keep you full, while the low carbs (under 5g) help maintain ketosis for fat burning.\n\nTip: Pair with a glass of water to stay hydrated, and avoid high-carb additives like ketchup."
+  },
+  {
+    "instruction": "What should I eat for lunch if I’m trying to improve my heart health?",
+    "input": "I’m focusing on heart health and need a lunch idea. I like salmon and quinoa.",
+    "output": "Here’s a heart-healthy lunch to support your goals:\n\n- **Lunch**: Grilled salmon (120g) with 1/2 cup cooked quinoa and a side of steamed spinach, drizzled with olive oil. (Approx. 450 kcal, 30g carbs, 35g protein, 20g fat)\n- **Why this works**: Salmon provides omega-3s to reduce inflammation, while quinoa and spinach offer fiber and magnesium to support heart health.\n\nTip: Use minimal salt to keep sodium low, and pair with a glass of water."
+  },
+  {
+    "instruction": "Generate a high-protein vegetarian dinner for recovery after a workout.",
+    "input": "I’m vegetarian and need a high-protein dinner for recovery after a workout. I like eggs and beans.",
+    "output": "Here’s a high-protein vegetarian dinner to aid your post-workout recovery:\n\n- **Dinner**: Two-egg omelet with 1/2 cup black beans, spinach, and a sprinkle of cheddar cheese, served with a side of steamed broccoli. (Approx. 400 kcal, 25g carbs, 30g protein, 15g fat)\n- **Why this works**: Eggs and black beans provide 30g of protein to support muscle repair, while broccoli adds fiber and nutrients for overall recovery.\n\nTip: Eat this within 30 minutes of your workout to maximize recovery benefits."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for a low-FODMAP lunch.",
+    "input": "I’m on a low-FODMAP diet and need a lunch with a macronutrient breakdown. I like chicken and rice.",
+    "output": "Here’s a low-FODMAP lunch with a macronutrient breakdown:\n\n- **Lunch**: Grilled chicken breast (120g) with 1/2 cup cooked rice and a side of steamed carrots, drizzled with olive oil. (Approx. 400 kcal, 35g carbs, 35g protein, 10g fat, 3g fiber)\n- **Why this works**: Chicken, rice, and carrots are low-FODMAP, providing balanced nutrition without triggering digestive issues.\n\nTip: Avoid high-FODMAP ingredients like garlic or onions, and drink water to aid digestion."
+  },
+  {
+    "instruction": "Can you suggest a meal plan for someone doing a 16:8 intermittent fasting schedule?",
+    "input": "I’m doing a 16:8 intermittent fasting schedule and need a meal plan for my eating window. I like fish and veggies.",
+    "output": "Here’s a meal plan for your 16:8 intermittent fasting eating window (e.g., 12 PM to 8 PM):\n\n- **12 PM (First Meal)**: Baked cod (120g) with 1/2 cup cooked quinoa and steamed zucchini. (Approx. 350 kcal)\n- **3 PM (Snack)**: A handful of cucumber slices with a hard-boiled egg. (Approx. 100 kcal)\n- **6 PM (Main Meal)**: Grilled salmon (120g) with 1 cup steamed spinach and carrots, drizzled with olive oil. (Approx. 400 kcal)\n- **Why this works**: This plan provides balanced nutrition within your eating window, with lean protein and veggies to keep you full.\n\nTip: Stay hydrated during your fasting window with water or herbal tea, and avoid snacking outside your eating hours."
+  },
+  {
+    "instruction": "Suggest a gluten-free breakfast for someone with celiac disease.",
+    "input": "I have celiac disease and need a gluten-free breakfast. I like yogurt and fruit.",
+    "output": "Here’s a gluten-free breakfast safe for celiac disease:\n\n- **Breakfast**: A small container of Greek yogurt (100g, unsweetened) with 1/2 cup mixed berries (strawberries and blueberries). (Approx. 150 kcal, 10g carbs, 10g protein, 5g fat)\n- **Why this works**: Yogurt and berries are naturally gluten-free, providing a balanced breakfast without risking gluten exposure.\n\nTip: Check the yogurt label for any gluten-containing additives, and wash the berries to avoid cross-contamination."
+  },
+  {
+    "instruction": "What’s a good dairy-free substitute for cheese in a vegan recipe?",
+    "input": "I’m vegan and dairy-free, and I need a substitute for cheese in my pasta. I like creamy textures.",
+    "output": "Here’s a dairy-free substitute for cheese in your vegan pasta:\n\n- **Substitute**: Use cashew cream sauce instead of cheese. Blend 1/2 cup soaked cashews with 1/4 cup water, 1 tbsp nutritional yeast, and a pinch of salt for a creamy, cheesy sauce. (Approx. 200 kcal for the sauce)\n- **Why this works**: Cashew cream provides a rich, creamy texture, while nutritional yeast adds a cheesy flavor, all dairy-free.\n\nTip: Add a squeeze of lemon juice to the sauce for a tangy kick, and toss with your pasta."
+  },
+  {
+    "instruction": "Generate a pre-workout meal for a gym-goer focusing on endurance.",
+    "input": "I’m a gym-goer and need a pre-workout meal for endurance. I like oats and fruit.",
+    "output": "Here’s a pre-workout meal to boost your endurance at the gym:\n\n- **Meal**: Oatmeal (1/2 cup dry oats, cooked with water) topped with 1/2 cup mixed berries and a drizzle of maple syrup. (Approx. 300 kcal, 55g carbs, 5g protein, 5g fat)\n- **Why this works**: Oats provide complex carbs for sustained energy, while berries offer quick-digesting carbs and antioxidants to support endurance.\n\nTip: Eat this 1-2 hours before your workout to allow for proper digestion, and stay hydrated."
+  },
+  {
+    "instruction": "Suggest a breakfast for a postpartum mom focusing on energy.",
+    "input": "I’m a postpartum mom and need a breakfast to boost my energy. I like oatmeal and bananas.",
+    "output": "Here’s an energy-boosting breakfast for your postpartum recovery:\n\n- **Breakfast**: Oatmeal (1/2 cup dry oats, cooked with water) topped with a sliced banana, 1 tbsp chia seeds, and a drizzle of almond butter. (Approx. 350 kcal, 50g carbs, 10g protein, 15g fat)\n- **Why this works**: Oats and bananas provide carbs for energy, while chia seeds and almond butter add healthy fats and protein to keep you going.\n\nTip: Stay hydrated with water or herbal tea, and take short rests to recharge during the day."
+  },
+  {
+    "instruction": "Create a grocery list for a one-day high-protein meal plan on a budget.",
+    "input": "I’m on a high-protein diet and on a tight budget. I need a grocery list for a one-day meal plan. I like eggs and chicken.",
+    "output": "Here’s a budget-friendly grocery list for a one-day high-protein meal plan:\n\n- **Grocery List**: 6 eggs ($1.50), 1 lb chicken breast ($3), 1 bag frozen spinach ($1.50), 1 small bag quinoa ($1.50). Total: ~$7.50\n- **Meal Plan**: Breakfast – three-egg omelet with spinach; Lunch – grilled chicken breast (150g) with 1/2 cup quinoa; Dinner – chicken breast with spinach and quinoa.\n\nTip: Buy in bulk to save more, and use spices you already have to add flavor to your meals."
+  },
+  {
+    "instruction": "Suggest a snack for focus during a long meeting.",
+    "input": "I’m in a long meeting and need a snack for focus. I like nuts and dark chocolate.",
+    "output": "Here’s a snack to boost your focus during your long meeting:\n\n- **Snack**: A small handful of almonds (15g) with 2 squares of dark chocolate (70% cocoa, 20g). (Approx. 200 kcal, 10g carbs, 5g protein, 15g fat)\n- **Why this works**: Almonds provide healthy fats and protein for sustained energy, while dark chocolate contains flavonoids to improve cognitive function.\n\nTip: Keep a bottle of water nearby to stay hydrated, as dehydration can affect focus."
+  },
+  {
+    "instruction": "What supplements should I consider for heart health?",
+    "input": "I’m focusing on heart health and want to know what supplements might help. I eat a balanced diet.",
+    "output": "Here are some supplements to consider for heart health:\n\n- **Supplements**: 1) Omega-3 fish oil (1-2g daily) to reduce inflammation. 2) CoQ10 (100-200mg daily) to support heart function. 3) Magnesium (200-400mg daily) to support blood pressure regulation.\n- **Why this works**: Omega-3s lower triglycerides, CoQ10 supports heart energy production, and magnesium helps with heart rhythm and blood pressure.\n\nTip: Consult a healthcare professional before starting supplements, and continue eating heart-healthy foods like salmon and leafy greens."
+  },
+  {
+    "instruction": "Generate a one-day meal plan for someone following a low-FODMAP diet.",
+    "input": "I’m on a low-FODMAP diet for IBS and need a one-day meal plan. I like chicken and rice.",
+    "output": "Here’s a one-day low-FODMAP meal plan to support your IBS management:\n\n- **Breakfast**: Two-egg scramble with spinach and 1/2 cup cooked rice. (Approx. 250 kcal)\n- **Lunch**: Grilled chicken breast (120g) with 1/2 cup cooked quinoa and steamed carrots. (Approx. 350 kcal)\n- **Snack**: A small banana (100g) with 1 tbsp peanut butter. (Approx. 150 kcal)\n- **Dinner**: Baked chicken thigh (150g) with 1/2 cup rice and steamed zucchini. (Approx. 400 kcal)\n- **Why this works**: All ingredients are low-FODMAP, minimizing IBS symptoms while providing balanced nutrition.\n\nTip: Keep a food diary to track how your body responds, and avoid high-FODMAP foods like garlic or onions."
+  },
+  {
+    "instruction": "Suggest a keto lunch for someone aiming for weight loss.",
+    "input": "I’m on a keto diet to lose weight and need a lunch idea. I like beef and creamy textures.",
+    "output": "Here’s a keto-friendly lunch to support your weight loss:\n\n- **Lunch**: Grilled beef steak (150g) with a creamy avocado sauce (1/2 avocado blended with garlic and lemon juice) and a side of sautéed spinach in olive oil. (Approx. 500 kcal, 5g carbs, 35g protein, 40g fat)\n- **Why this works**: Beef and avocado provide healthy fats to keep you in ketosis, while the low carbs (under 5g) support fat burning for weight loss.\n\nTip: Use minimal seasoning to avoid hidden carbs, and drink water to stay hydrated."
+  },
+  {
+    "instruction": "What should I eat for dinner if I’m trying to improve my heart health?",
+    "input": "I’m focusing on heart health and need a dinner idea. I like shrimp and olives.",
+    "output": "Here’s a heart-healthy dinner to support your goals:\n\n- **Dinner**: Grilled shrimp (120g) with a side of 1/2 cup cooked farro mixed with chopped olives, spinach, and a drizzle of olive oil. (Approx. 400 kcal, 35g carbs, 30g protein, 15g fat)\n- **Why this works**: Shrimp provides lean protein and omega-3s, while olives and olive oil offer heart-healthy monounsaturated fats. Farro adds fiber to support cholesterol levels.\n\nTip: Use minimal salt to keep sodium low, and pair with a glass of water."
+  },
+  {
+    "instruction": "Generate a high-protein vegan snack for recovery after a workout.",
+    "input": "I’m vegan and need a high-protein snack for recovery after a workout. I like tofu and seeds.",
+    "output": "Here’s a high-protein vegan snack to aid your post-workout recovery:\n\n- **Snack**: Pan-fried tofu cubes (100g) with a sprinkle of sesame seeds and a side of cucumber slices. (Approx. 200 kcal, 5g carbs, 15g protein, 10g fat)\n- **Why this works**: Tofu provides 15g of protein to support muscle repair, while sesame seeds add healthy fats and nutrients for recovery.\n\nTip: Eat this within 30 minutes of your workout to maximize recovery benefits."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for a paleo lunch.",
+    "input": "I’m on a paleo diet and need a lunch with a macronutrient breakdown. I like chicken and veggies.",
+    "output": "Here’s a paleo lunch with a macronutrient breakdown:\n\n- **Lunch**: Grilled chicken breast (150g) with 1 cup roasted sweet potatoes and a side of steamed broccoli, drizzled with olive oil. (Approx. 450 kcal, 30g carbs, 40g protein, 15g fat, 5g fiber)\n- **Why this works**: Chicken provides protein, while sweet potatoes and broccoli offer nutrient-dense carbs and fiber, all fitting the paleo framework.\n\nTip: Use fresh herbs for flavor, and pair with a glass of water."
+  },
+  {
+    "instruction": "Can you suggest a meal plan for someone doing a 5:2 intermittent fasting schedule?",
+    "input": "I’m doing a 5:2 intermittent fasting schedule and need a meal plan for a fasting day (500 kcal). I like chicken and veggies.",
+    "output": "Here’s a meal plan for a 500-kcal fasting day on your 5:2 schedule:\n\n- **Breakfast (10 AM)**: Grilled chicken breast (100g) with 1/2 cup steamed spinach. (Approx. 150 kcal)\n- **Lunch (2 PM)**: Steamed zucchini and carrots (1 cup) with a drizzle of olive oil. (Approx. 100 kcal)\n- **Dinner (6 PM)**: Baked chicken thigh (100g) with 1/2 cup steamed broccoli. (Approx. 200 kcal)\n- **Snack (8 PM)**: Cucumber slices (1/2 cup). (Approx. 50 kcal)\n- **Why this works**: This plan keeps you at 500 kcal with low-calorie, nutrient-dense foods to support your fasting day.\n\nTip: Drink plenty of water or herbal tea throughout the day to stay hydrated and curb hunger."
+  },
+  {
+    "instruction": "Suggest a low-FODMAP snack for someone with IBS.",
+    "input": "I have IBS and need a low-FODMAP snack. I like cheese and fruit.",
+    "output": "Here’s a low-FODMAP snack to support your IBS management:\n\n- **Snack**: A small slice of cheddar cheese (30g) with 1/2 cup strawberries. (Approx. 150 kcal, 10g carbs, 2g fiber, 8g fat)\n- **Why this works**: Cheddar cheese and strawberries are low-FODMAP, making them gentle on your gut while providing a balanced snack.\n\nTip: Stick to small portions of fruit to avoid FODMAP overload, and eat slowly to aid digestion."
+  },
+  {
+    "instruction": "What’s a good soy-free substitute for soy sauce in a recipe?",
+    "input": "I’m allergic to soy and need a substitute for soy sauce in my stir-fry. I like savory flavors.",
+    "output": "Here’s a soy-free substitute for soy sauce in your stir-fry:\n\n- **Substitute**: Use coconut aminos instead of soy sauce. Add 1-2 tbsp coconut aminos to your stir-fry for a savory, umami flavor. (Approx. 10 kcal per tbsp)\n- **Why this works**: Coconut aminos provide a similar salty, savory taste to soy sauce, while being naturally soy-free and safe for your allergy.\n\nTip: Adjust the amount to taste, as coconut aminos are slightly sweeter than soy sauce."
+  },
+  {
+    "instruction": "Generate a post-workout meal for an athlete focusing on recovery.",
+    "input": "I’m an athlete and need a post-workout meal for recovery after a morning swim. I like fish and rice.",
+    "output": "Here’s a post-workout meal to support your recovery after your morning swim:\n\n- **Meal**: Baked salmon (120g) with 1 cup cooked rice and a side of steamed spinach. (Approx. 450 kcal, 50g carbs, 35g protein, 15g fat)\n- **Why this works**: Salmon provides 35g of protein to repair muscles, while rice offers carbs to replenish glycogen stores depleted during your swim.\n\nTip: Eat within 30 minutes of your swim to optimize recovery, and drink water to rehydrate."
+  },
+  {
+    "instruction": "Suggest a lunch for a pregnant woman in her first trimester.",
+    "input": "I’m in my first trimester of pregnancy and need a lunch idea. I want something nutrient-rich and I like eggs.",
+    "output": "Here’s a nutrient-rich lunch for your first trimester:\n\n- **Lunch**: Two-egg omelet with spinach, 1/4 cup shredded cheddar cheese, and a side of 1/2 cup cooked quinoa. (Approx. 350 kcal, 20g carbs, 25g protein, 20g fat)\n- **Why this works**: Eggs provide protein and choline for your baby’s brain development, while quinoa and spinach offer folate, crucial in the first trimester.\n\nTip: Stay hydrated with water, and consider a prenatal vitamin if recommended by your doctor."
+  },
+  {
+    "instruction": "Create a grocery list for a one-day paleo meal plan on a budget.",
+    "input": "I’m on a paleo diet and on a tight budget. I need a grocery list for a one-day meal plan. I like beef and veggies.",
+    "output": "Here’s a budget-friendly grocery list for a one-day paleo meal plan:\n\n- **Grocery List**: 1 lb ground beef ($3), 1 bag frozen spinach ($1.50), 1 lb sweet potatoes ($1), 1 small bottle olive oil ($1 for a portion). Total: ~$6.50\n- **Meal Plan**: Breakfast – beef patty (150g) with spinach; Lunch – beef patty with roasted sweet potatoes; Dinner – beef patty with spinach and sweet potatoes.\n\nTip: Buy in bulk to save more, and use spices you already have to add flavor to your meals."
+  },
+  {
+    "instruction": "Suggest a snack for energy during a long hike.",
+    "input": "I’m going on a long hike and need a snack for energy. I like fruit and seeds.",
+    "output": "Here’s an energizing snack for your long hike:\n\n- **Snack**: A medium apple (120g) with a small handful of sunflower seeds (15g). (Approx. 150 kcal, 20g carbs, 3g fiber, 5g fat)\n- **Why this works**: Apples provide quick-digesting carbs for energy, while sunflower seeds offer healthy fats and protein for sustained fuel on your hike.\n\nTip: Pack your snack in a small container to keep it fresh, and carry water to stay hydrated."
+  },
+  {
+    "instruction": "What supplements should I consider for energy during a busy week?",
+    "input": "I’m having a busy week and want to know what supplements might help with energy. I eat a balanced diet.",
+    "output": "Here are some supplements to consider for energy during your busy week:\n\n- **Supplements**: 1) B-complex vitamins (daily dose) to support energy production. 2) CoQ10 (100-200mg daily) to enhance mitochondrial function. 3) Iron (if deficient, consult a doctor) to prevent fatigue.\n- **Why this works**: B vitamins help convert food into energy, CoQ10 supports cellular energy production, and iron ensures oxygen delivery to your cells.\n\nTip: Consult a healthcare professional before starting supplements, and prioritize sleep and hydration for natural energy."
+  },
+  {
+    "instruction": "Generate a one-day meal plan for someone following a keto diet.",
+    "input": "I’m on a keto diet and need a one-day meal plan. I like eggs and chicken.",
+    "output": "Here’s a one-day keto meal plan for you:\n\n- **Breakfast**: Two-egg omelet with spinach and 1/4 cup shredded cheddar cheese. (Approx. 300 kcal)\n- **Lunch**: Grilled chicken breast (150g) with 1/2 avocado and a side of sautéed zucchini. (Approx. 450 kcal)\n- **Snack**: A hard-boiled egg with a few cucumber slices. (Approx. 100 kcal)\n- **Dinner**: Baked chicken thigh (150g) with 1 cup sautéed spinach in olive oil. (Approx. 400 kcal)\n- **Why this works**: All meals are low-carb (under 20g total), high in healthy fats, and protein-focused to keep you in ketosis.\n\nTip: Stay hydrated with water, and monitor your carb intake to ensure you stay in ketosis."
+  },
+  {
+    "instruction": "Suggest a keto breakfast for someone aiming for weight loss.",
+    "input": "I’m on a keto diet to lose weight and need a breakfast idea. I like avocado and bacon.",
+    "output": "Here’s a keto-friendly breakfast to support your weight loss:\n\n- **Breakfast**: Two slices of bacon with 1/2 avocado and a side of scrambled eggs (2 eggs). (Approx. 350 kcal, 3g carbs, 20g protein, 30g fat)\n- **Why this works**: Bacon and avocado provide healthy fats to keep you in ketosis, while eggs add protein to keep you full, supporting weight loss.\n\nTip: Use minimal oil when cooking to keep calories in check, and drink water to stay hydrated."
+  },
+  {
+    "instruction": "What should I eat for lunch if I have type 2 diabetes?",
+    "input": "I have type 2 diabetes and need a lunch that won’t spike my blood sugar. I like fish and veggies.",
+    "output": "Here’s a diabetes-friendly lunch to keep your blood sugar stable:\n\n- **Lunch**: Baked cod (120g) with 1/2 cup cooked quinoa and a side of steamed spinach, drizzled with olive oil. (Approx. 400 kcal, 25g carbs, 35g protein, 15g fat)\n- **Why this works**: Quinoa has a low glycemic index (GI 53) to prevent blood sugar spikes, while cod and spinach provide protein and fiber for satiety.\n\nTip: Check your blood sugar 1-2 hours after eating to ensure this meal works for you, and avoid sugary drinks."
+  },
+  {
+    "instruction": "Generate a high-protein vegetarian snack for muscle gain.",
+    "input": "I’m vegetarian and trying to build muscle. I need a high-protein snack idea. I like cheese and eggs.",
+    "output": "Here’s a high-protein vegetarian snack to support your muscle gain:\n\n- **Snack**: A hard-boiled egg with 1 slice of cheddar cheese (30g) and a few cucumber slices. (Approx. 150 kcal, 2g carbs, 15g protein, 10g fat)\n- **Why this works**: The egg and cheese"
+  }
+]

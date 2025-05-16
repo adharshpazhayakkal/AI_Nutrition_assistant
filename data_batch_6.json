@@ -1,0 +1,382 @@
+[
+  {
+    "instruction": "Suggest a breakfast for skin improvement and pre-gym energy.",
+    "input": "I want a breakfast that improves my skin and gives me energy for a morning gym session. I like eggs and fruits.",
+    "output": "Here’s a breakfast for skin improvement and pre-gym energy:\n\n- **Breakfast**: Egg and avocado toast with berries (2 scrambled eggs, 1/4 avocado on 1 slice whole-grain toast, 1/2 cup strawberries). (Approx. 350 kcal, 30g carbs, 15g protein, 18g fat)\n- **Why this works**: Eggs provide protein for gym energy, avocado offers healthy fats and vitamin E for skin health, strawberries supply vitamin C for collagen production, and whole-grain toast gives complex carbs for sustained energy.\n\nTip: Drink a glass of water to stay hydrated before your workout."
+  },
+  {
+    "instruction": "Suggest a post-gym lunch for muscle recovery and skin glow.",
+    "input": "I need a post-gym lunch for muscle recovery that also helps my skin glow. I like chicken and greens.",
+    "output": "Here’s a post-gym lunch for muscle recovery and skin glow:\n\n- **Lunch**: Grilled chicken salad (100g grilled chicken, 1 cup spinach, 1/4 cup cherry tomatoes, 1 tbsp olive oil dressing). (Approx. 400 kcal, 10g carbs, 35g protein, 20g fat)\n- **Why this works**: Chicken provides protein for muscle repair, spinach and tomatoes offer antioxidants and vitamin C for skin glow, and olive oil supplies healthy fats for skin hydration.\n\nTip: Pair with a glass of water with lemon to enhance skin detoxification."
+  },
+  {
+    "instruction": "Suggest a snack for skin improvement and gym endurance.",
+    "input": "I want a snack that improves my skin and supports gym endurance. I like nuts and fruits.",
+    "output": "Here’s a snack for skin improvement and gym endurance:\n\n- **Snack**: Almond and blueberry mix (1/4 cup almonds, 1/2 cup blueberries). (Approx. 200 kcal, 15g carbs, 6g protein, 12g fat)\n- **Why this works**: Almonds provide vitamin E for skin protection and healthy fats for endurance, while blueberries offer antioxidants and vitamin C for collagen production and quick energy.\n\nTip: Eat this 30 minutes before your gym session for a quick energy boost."
+  },
+  {
+    "instruction": "Suggest a dinner for skin clarity and post-gym recovery.",
+    "input": "I need a dinner that helps with skin clarity and supports post-gym recovery. I like fish and greens.",
+    "output": "Here’s a dinner for skin clarity and post-gym recovery:\n\n- **Dinner**: Grilled salmon with quinoa and broccoli (100g grilled salmon, 1/2 cup cooked quinoa, 1 cup steamed broccoli). (Approx. 450 kcal, 35g carbs, 35g protein, 15g fat)\n- **Why this works**: Salmon provides omega-3s for skin clarity and protein for muscle recovery, quinoa offers complex carbs for glycogen replenishment, and broccoli supplies vitamin C for collagen production.\n\nTip: Drink a glass of water to aid recovery and skin hydration."
+  },
+  {
+    "instruction": "Suggest a pre-gym breakfast for energy and skin hydration.",
+    "input": "I want a pre-gym breakfast for energy that also helps with skin hydration. I like yogurt and fruits.",
+    "output": "Here’s a pre-gym breakfast for energy and skin hydration:\n\n- **Breakfast**: Yogurt and watermelon bowl (1/2 cup plain yogurt, 1 cup watermelon cubes, 1 tbsp chia seeds). (Approx. 250 kcal, 30g carbs, 10g protein, 8g fat)\n- **Why this works**: Yogurt provides protein for energy, watermelon hydrates with high water content and supports skin with vitamin C, and chia seeds offer omega-3s for skin health.\n\nTip: Drink an extra glass of water to maximize hydration before your workout."
+  },
+  {
+    "instruction": "Suggest a post-gym snack for muscle repair and skin glow.",
+    "input": "I need a post-gym snack for muscle repair that also helps my skin glow. I like eggs and veggies.",
+    "output": "Here’s a post-gym snack for muscle repair and skin glow:\n\n- **Snack**: Egg and spinach wrap (1 boiled egg, 1/2 cup spinach, wrapped in 1 small whole-grain tortilla). (Approx. 200 kcal, 15g carbs, 10g protein, 8g fat)\n- **Why this works**: Eggs provide protein for muscle repair, spinach offers antioxidants and vitamin E for skin glow, and the tortilla gives a small carb boost for recovery.\n\nTip: Pair with a glass of water to support recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a lunch for skin improvement and gym strength.",
+    "input": "I want a lunch that improves my skin and supports gym strength. I like chicken and nuts.",
+    "output": "Here’s a lunch for skin improvement and gym strength:\n\n- **Lunch**: Chicken and almond salad (100g grilled chicken, 1 cup mixed greens, 1 tbsp crushed almonds, 1 tbsp olive oil dressing). (Approx. 400 kcal, 10g carbs, 35g protein, 20g fat)\n- **Why this works**: Chicken provides protein for strength, almonds offer vitamin E for skin health, mixed greens supply antioxidants, and olive oil supports skin hydration.\n\nTip: Drink a glass of water with lemon to enhance skin detoxification."
+  },
+  {
+    "instruction": "Suggest a dinner for skin health and post-gym muscle recovery.",
+    "input": "I need a dinner that helps my skin and supports post-gym muscle recovery. I like eggs and greens.",
+    "output": "Here’s a dinner for skin health and post-gym muscle recovery:\n\n- **Dinner**: Egg and spinach quinoa bowl (2 boiled eggs, 1/2 cup cooked quinoa, 1 cup steamed spinach, 1 tbsp olive oil). (Approx. 400 kcal, 35g carbs, 20g protein, 15g fat)\n- **Why this works**: Eggs provide protein for muscle recovery, spinach offers antioxidants and vitamin E for skin health, quinoa replenishes glycogen, and olive oil supports skin hydration.\n\nTip: Drink a glass of water to aid recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a pre-gym snack for energy and skin clarity.",
+    "input": "I want a pre-gym snack for energy that also helps with skin clarity. I like fruits and seeds.",
+    "output": "Here’s a pre-gym snack for energy and skin clarity:\n\n- **Snack**: Papaya and sunflower seed mix (1/2 cup diced papaya, 1 tbsp sunflower seeds). (Approx. 150 kcal, 15g carbs, 4g protein, 8g fat)\n- **Why this works**: Papaya provides vitamin C for skin clarity and quick energy, while sunflower seeds offer vitamin E and healthy fats for sustained energy.\n\nTip: Eat this 30 minutes before your gym session for an energy boost."
+  },
+  {
+    "instruction": "Suggest a post-gym breakfast for muscle gain and skin glow.",
+    "input": "I need a post-gym breakfast for muscle gain that also helps my skin glow. I like chicken and berries.",
+    "output": "Here’s a post-gym breakfast for muscle gain and skin glow:\n\n- **Breakfast**: Chicken and berry smoothie (100g grilled chicken, 1/2 cup blueberries, 1/2 cup plain yogurt, blended with water). (Approx. 350 kcal, 20g carbs, 35g protein, 8g fat)\n- **Why this works**: Chicken provides protein for muscle gain, blueberries offer antioxidants and vitamin C for skin glow, and yogurt supports digestion and skin health.\n\nTip: Drink a glass of water to support recovery and skin hydration."
+  },
+  {
+    "instruction": "Suggest a lunch for skin hydration and gym endurance.",
+    "input": "I want a lunch that helps with skin hydration and supports gym endurance. I like fish and veggies.",
+    "output": "Here’s a lunch for skin hydration and gym endurance:\n\n- **Lunch**: Grilled fish with cucumber and brown rice (100g grilled fish, 1/2 cup cooked brown rice, 1/2 cup sliced cucumber). (Approx. 400 kcal, 35g carbs, 30g protein, 10g fat)\n- **Why this works**: Fish provides omega-3s for skin health and protein for endurance, cucumber hydrates with high water content, and brown rice offers complex carbs for sustained energy.\n\nTip: Drink a glass of water to maximize hydration benefits."
+  },
+  {
+    "instruction": "Suggest a dinner for skin improvement and post-gym recovery.",
+    "input": "I need a dinner that improves my skin and supports post-gym recovery. I like chicken and greens.",
+    "output": "Here’s a dinner for skin improvement and post-gym recovery:\n\n- **Dinner**: Chicken and spinach quinoa bowl (100g grilled chicken, 1/2 cup cooked quinoa, 1 cup steamed spinach, 1 tbsp olive oil). (Approx. 450 kcal, 35g carbs, 35g protein, 15g fat)\n- **Why this works**: Chicken provides protein for recovery, spinach offers antioxidants and vitamin E for skin improvement, quinoa replenishes glycogen, and olive oil supports skin hydration.\n\nTip: Drink a glass of water to aid recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a pre-gym breakfast for energy and skin glow.",
+    "input": "I want a pre-gym breakfast for energy that also helps my skin glow. I like eggs and berries.",
+    "output": "Here’s a pre-gym breakfast for energy and skin glow:\n\n- **Breakfast**: Egg and blueberry toast (2 scrambled eggs, 1 slice whole-grain toast, 1/2 cup blueberries). (Approx. 300 kcal, 30g carbs, 15g protein, 10g fat)\n- **Why this works**: Eggs provide protein for energy, blueberries offer antioxidants and vitamin C for skin glow, and whole-grain toast gives complex carbs for sustained energy.\n\nTip: Drink a glass of water to stay hydrated before your workout."
+  },
+  {
+    "instruction": "Suggest a post-gym snack for muscle repair and skin clarity.",
+    "input": "I need a post-gym snack for muscle repair that also helps with skin clarity. I like fish and veggies.",
+    "output": "Here’s a post-gym snack for muscle repair and skin clarity:\n\n- **Snack**: Tuna and cucumber bites (50g canned tuna, 1/2 cup cucumber slices). (Approx. 150 kcal, 5g carbs, 20g protein, 2g fat)\n- **Why this works**: Tuna provides protein for muscle repair, and cucumber hydrates with high water content and supports skin clarity with antioxidants.\n\nTip: Pair with a glass of water to support recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a lunch for skin health and gym strength.",
+    "input": "I want a lunch that helps my skin and supports gym strength. I like eggs and greens.",
+    "output": "Here’s a lunch for skin health and gym strength:\n\n- **Lunch**: Egg and spinach salad (2 boiled eggs, 1 cup spinach, 1/4 cup cherry tomatoes, 1 tbsp olive oil dressing). (Approx. 300 kcal, 10g carbs, 15g protein, 20g fat)\n- **Why this works**: Eggs provide protein for strength, spinach and tomatoes offer antioxidants and vitamin C for skin health, and olive oil supports skin hydration.\n\nTip: Drink a glass of water with lemon to enhance skin detoxification."
+  },
+  {
+    "instruction": "Suggest a dinner for skin hydration and post-gym muscle recovery.",
+    "input": "I need a dinner that helps with skin hydration and supports post-gym muscle recovery. I like fish and veggies.",
+    "output": "Here’s a dinner for skin hydration and post-gym muscle recovery:\n\n- **Dinner**: Grilled fish with cucumber and quinoa (100g grilled fish, 1/2 cup cooked quinoa, 1/2 cup sliced cucumber). (Approx. 400 kcal, 35g carbs, 30g protein, 10g fat)\n- **Why this works**: Fish provides omega-3s for skin health and protein for recovery, cucumber hydrates with high water content, and quinoa replenishes glycogen.\n\nTip: Drink a glass of water to aid recovery and skin hydration."
+  },
+  {
+    "instruction": "Suggest a pre-gym snack for energy and skin improvement.",
+    "input": "I want a pre-gym snack for energy that also improves my skin. I like nuts and berries.",
+    "output": "Here’s a pre-gym snack for energy and skin improvement:\n\n- **Snack**: Walnut and strawberry mix (1/4 cup walnuts, 1/2 cup strawberries). (Approx. 200 kcal, 10g carbs, 5g protein, 15g fat)\n- **Why this works**: Walnuts provide vitamin E for skin improvement and healthy fats for energy, while strawberries offer vitamin C for collagen production and quick energy.\n\nTip: Eat this 30 minutes before your gym session for an energy boost."
+  },
+  {
+    "instruction": "Suggest a post-gym breakfast for muscle gain and skin clarity.",
+    "input": "I need a post-gym breakfast for muscle gain that also helps with skin clarity. I like eggs and veggies.",
+    "output": "Here’s a post-gym breakfast for muscle gain and skin clarity:\n\n- **Breakfast**: Egg and broccoli omelet (2 eggs, 1/2 cup steamed broccoli, 1 tbsp olive oil). (Approx. 300 kcal, 5g carbs, 15g protein, 20g fat)\n- **Why this works**: Eggs provide protein for muscle gain, broccoli offers vitamin C for skin clarity, and olive oil supports skin hydration.\n\nTip: Drink a glass of water to support recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a lunch for skin glow and gym endurance.",
+    "input": "I want a lunch that helps my skin glow and supports gym endurance. I like chicken and fruits.",
+    "output": "Here’s a lunch for skin glow and gym endurance:\n\n- **Lunch**: Chicken and orange salad (100g grilled chicken, 1 cup mixed greens, 1/2 orange, 1 tbsp olive oil dressing). (Approx. 400 kcal, 15g carbs, 35g protein, 15g fat)\n- **Why this works**: Chicken provides protein for endurance, oranges offer vitamin C for skin glow, mixed greens supply antioxidants, and olive oil supports skin hydration.\n\nTip: Drink a glass of water to maximize hydration benefits."
+  },
+  {
+    "instruction": "Suggest a dinner for skin improvement and post-gym recovery.",
+    "input": "I need a dinner that improves my skin and supports post-gym recovery. I like eggs and veggies.",
+    "output": "Here’s a dinner for skin improvement and post-gym recovery:\n\n- **Dinner**: Egg and zucchini quinoa bowl (2 boiled eggs, 1/2 cup cooked quinoa, 1/2 cup steamed zucchini, 1 tbsp olive oil). (Approx. 400 kcal, 35g carbs, 20g protein, 15g fat)\n- **Why this works**: Eggs provide protein for recovery, zucchini offers hydration and antioxidants for skin improvement, quinoa replenishes glycogen, and olive oil supports skin health.\n\nTip: Drink a glass of water to aid recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a pre-gym breakfast for energy and skin hydration.",
+    "input": "I want a pre-gym breakfast for energy that also helps with skin hydration. I like fruits and seeds.",
+    "output": "Here’s a pre-gym breakfast for energy and skin hydration:\n\n- **Breakfast**: Watermelon and chia seed bowl (1 cup watermelon cubes, 1 tbsp chia seeds). (Approx. 200 kcal, 25g carbs, 5g protein, 8g fat)\n- **Why this works**: Watermelon hydrates with high water content and supports skin with vitamin C, while chia seeds provide omega-3s for skin health and energy.\n\nTip: Drink an extra glass of water to maximize hydration before your workout."
+  },
+  {
+    "instruction": "Suggest a post-gym snack for muscle repair and skin glow.",
+    "input": "I need a post-gym snack for muscle repair that also helps my skin glow. I like chicken and berries.",
+    "output": "Here’s a post-gym snack for muscle repair and skin glow:\n\n- **Snack**: Chicken and blueberry bites (50g grilled chicken, 1/2 cup blueberries). (Approx. 200 kcal, 10g carbs, 20g protein, 5g fat)\n- **Why this works**: Chicken provides protein for muscle repair, and blueberries offer antioxidants and vitamin C for skin glow.\n\nTip: Pair with a glass of water to support recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a lunch for skin clarity and gym strength.",
+    "input": "I want a lunch that helps with skin clarity and supports gym strength. I like fish and greens.",
+    "output": "Here’s a lunch for skin clarity and gym strength:\n\n- **Lunch**: Grilled salmon and spinach salad (100g grilled salmon, 1 cup spinach, 1/4 cup cherry tomatoes, 1 tbsp olive oil dressing). (Approx. 400 kcal, 10g carbs, 35g protein, 20g fat)\n- **Why this works**: Salmon provides omega-3s for skin clarity and protein for strength, spinach and tomatoes offer antioxidants, and olive oil supports skin hydration.\n\nTip: Drink a glass of water with lemon to enhance skin detoxification."
+  },
+  {
+    "instruction": "Suggest a dinner for skin health and post-gym muscle recovery.",
+    "input": "I need a dinner that helps my skin and supports post-gym muscle recovery. I like chicken and veggies.",
+    "output": "Here’s a dinner for skin health and post-gym muscle recovery:\n\n- **Dinner**: Chicken and broccoli brown rice bowl (100g grilled chicken, 1/2 cup cooked brown rice, 1 cup steamed broccoli). (Approx. 450 kcal, 40g carbs, 35g protein, 10g fat)\n- **Why this works**: Chicken provides protein for recovery, broccoli offers vitamin C for skin health, and brown rice replenishes glycogen for muscle recovery.\n\nTip: Drink a glass of water to aid recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a pre-gym snack for energy and skin improvement.",
+    "input": "I want a pre-gym snack for energy that also improves my skin. I like fruits and nuts.",
+    "output": "Here’s a pre-gym snack for energy and skin improvement:\n\n- **Snack**: Orange and almond mix (1/2 orange, 1/4 cup almonds). (Approx. 200 kcal, 15g carbs, 6g protein, 12g fat)\n- **Why this works**: Oranges provide vitamin C for skin improvement and quick energy, while almonds offer vitamin E and healthy fats for sustained energy.\n\nTip: Eat this 30 minutes before your gym session for an energy boost."
+  },
+  {
+    "instruction": "Suggest a post-gym breakfast for muscle gain and skin glow.",
+    "input": "I need a post-gym breakfast for muscle gain that also helps my skin glow. I like fish and greens.",
+    "output": "Here’s a post-gym breakfast for muscle gain and skin glow:\n\n- **Breakfast**: Salmon and spinach wrap (100g grilled salmon, 1/2 cup spinach, wrapped in 1 small whole-grain tortilla). (Approx. 350 kcal, 20g carbs, 30g protein, 15g fat)\n- **Why this works**: Salmon provides protein for muscle gain and omega-3s for skin glow, spinach offers antioxidants, and the tortilla gives a small carb boost for recovery.\n\nTip: Drink a glass of water to support recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a lunch for skin hydration and gym endurance.",
+    "input": "I want a lunch that helps with skin hydration and supports gym endurance. I like eggs and veggies.",
+    "output": "Here’s a lunch for skin hydration and gym endurance:\n\n- **Lunch**: Egg and cucumber brown rice bowl (2 boiled eggs, 1/2 cup cooked brown rice, 1/2 cup sliced cucumber). (Approx. 350 kcal, 35g carbs, 15g protein, 10g fat)\n- **Why this works**: Eggs provide protein for endurance, cucumber hydrates with high water content, and brown rice offers complex carbs for sustained energy.\n\nTip: Drink a glass of water to maximize hydration benefits."
+  },
+  {
+    "instruction": "Suggest a dinner for skin improvement and post-gym recovery.",
+    "input": "I need a dinner that improves my skin and supports post-gym recovery. I like fish and greens.",
+    "output": "Here’s a dinner for skin improvement and post-gym recovery:\n\n- **Dinner**: Grilled salmon and spinach quinoa bowl (100g grilled salmon, 1/2 cup cooked quinoa, 1 cup steamed spinach, 1 tbsp olive oil). (Approx. 450 kcal, 35g carbs, 35g protein, 15g fat)\n- **Why this works**: Salmon provides omega-3s for skin improvement and protein for recovery, spinach offers antioxidants, quinoa replenishes glycogen, and olive oil supports skin health.\n\nTip: Drink a glass of water to aid recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a pre-gym breakfast for energy and skin clarity.",
+    "input": "I want a pre-gym breakfast for energy that also helps with skin clarity. I like yogurt and berries.",
+    "output": "Here’s a pre-gym breakfast for energy and skin clarity:\n\n- **Breakfast**: Yogurt and blueberry bowl (1/2 cup plain yogurt, 1/2 cup blueberries, 1 tbsp chia seeds). (Approx. 250 kcal, 20g carbs, 10g protein, 8g fat)\n- **Why this works**: Yogurt provides protein for energy, blueberries offer antioxidants and vitamin C for skin clarity, and chia seeds supply omega-3s for skin health.\n\nTip: Drink a glass of water to stay hydrated before your workout."
+  },
+  {
+    "instruction": "Suggest a post-gym snack for muscle repair and skin hydration.",
+    "input": "I need a post-gym snack for muscle repair that also helps with skin hydration. I like eggs and fruits.",
+    "output": "Here’s a post-gym snack for muscle repair and skin hydration:\n\n- **Snack**: Egg and watermelon bites (1 boiled egg, 1/2 cup watermelon cubes). (Approx. 150 kcal, 10g carbs, 8g protein, 5g fat)\n- **Why this works**: Eggs provide protein for muscle repair, and watermelon hydrates with high water content and supports skin with vitamin C.\n\nTip: Pair with a glass of water to support recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a lunch for skin glow and gym strength.",
+    "input": "I want a lunch that helps my skin glow and supports gym strength. I like chicken and berries.",
+    "output": "Here’s a lunch for skin glow and gym strength:\n\n- **Lunch**: Chicken and strawberry salad (100g grilled chicken, 1 cup mixed greens, 1/2 cup strawberries, 1 tbsp olive oil dressing). (Approx. 400 kcal, 15g carbs, 35g protein, 15g fat)\n- **Why this works**: Chicken provides protein for strength, strawberries offer vitamin C for skin glow, mixed greens supply antioxidants, and olive oil supports skin hydration.\n\nTip: Drink a glass of water with lemon to enhance skin detoxification."
+  },
+  {
+    "instruction": "Suggest a dinner for skin health and post-gym muscle recovery.",
+    "input": "I need a dinner that helps my skin and supports post-gym muscle recovery. I like eggs and veggies.",
+    "output": "Here’s a dinner for skin health and post-gym muscle recovery:\n\n- **Dinner**: Egg and broccoli quinoa bowl (2 boiled eggs, 1/2 cup cooked quinoa, 1 cup steamed broccoli, 1 tbsp olive oil). (Approx. 400 kcal, 35g carbs, 20g protein, 15g fat)\n- **Why this works**: Eggs provide protein for recovery, broccoli offers vitamin C for skin health, quinoa replenishes glycogen, and olive oil supports skin hydration.\n\nTip: Drink a glass of water to aid recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a pre-gym snack for energy and skin improvement.",
+    "input": "I want a pre-gym snack for energy that also improves my skin. I like seeds and fruits.",
+    "output": "Here’s a pre-gym snack for energy and skin improvement:\n\n- **Snack**: Sunflower seed and papaya mix (1 tbsp sunflower seeds, 1/2 cup diced papaya). (Approx. 150 kcal, 15g carbs, 4g protein, 8g fat)\n- **Why this works**: Sunflower seeds provide vitamin E for skin improvement and healthy fats for energy, while papaya offers vitamin C for collagen production and quick energy.\n\nTip: Eat this 30 minutes before your gym session for an energy boost."
+  },
+  {
+    "instruction": "Suggest a post-gym breakfast for muscle gain and skin clarity.",
+    "input": "I need a post-gym breakfast for muscle gain that also helps with skin clarity. I like chicken and greens.",
+    "output": "Here’s a post-gym breakfast for muscle gain and skin clarity:\n\n- **Breakfast**: Chicken and spinach wrap (100g grilled chicken, 1/2 cup spinach, wrapped in 1 small whole-grain tortilla). (Approx. 350 kcal, 20g carbs, 35g protein, 10g fat)\n- **Why this works**: Chicken provides protein for muscle gain, spinach offers antioxidants and vitamin E for skin clarity, and the tortilla gives a small carb boost for recovery.\n\nTip: Drink a glass of water to support recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a lunch for skin hydration and gym endurance.",
+    "input": "I want a lunch that helps with skin hydration and supports gym endurance. I like fish and greens.",
+    "output": "Here’s a lunch for skin hydration and gym endurance:\n\n- **Lunch**: Grilled fish and spinach brown rice bowl (100g grilled fish, 1/2 cup cooked brown rice, 1 cup spinach). (Approx. 400 kcal, 35g carbs, 30g protein, 10g fat)\n- **Why this works**: Fish provides omega-3s for skin health and protein for endurance, spinach offers antioxidants, and brown rice supplies complex carbs for sustained energy.\n\nTip: Drink a glass of water to maximize hydration benefits."
+  },
+  {
+    "instruction": "Suggest a dinner for skin improvement and post-gym recovery.",
+    "input": "I need a dinner that improves my skin and supports post-gym recovery. I like chicken and veggies.",
+    "output": "Here’s a dinner for skin improvement and post-gym recovery:\n\n- **Dinner**: Chicken and zucchini quinoa bowl (100g grilled chicken, 1/2 cup cooked quinoa, 1/2 cup steamed zucchini, 1 tbsp olive oil). (Approx. 450 kcal, 35g carbs, 35g protein, 15g fat)\n- **Why this works**: Chicken provides protein for recovery, zucchini offers hydration and antioxidants for skin improvement, quinoa replenishes glycogen, and olive oil supports skin health.\n\nTip: Drink a glass of water to aid recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a pre-gym breakfast for energy and skin glow.",
+    "input": "I want a pre-gym breakfast for energy that also helps my skin glow. I like eggs and fruits.",
+    "output": "Here’s a pre-gym breakfast for energy and skin glow:\n\n- **Breakfast**: Egg and orange toast (2 scrambled eggs, 1 slice whole-grain toast, 1/2 orange). (Approx. 300 kcal, 30g carbs, 15g protein, 10g fat)\n- **Why this works**: Eggs provide protein for energy, oranges offer vitamin C for skin glow, and whole-grain toast gives complex carbs for sustained energy.\n\nTip: Drink a glass of water to stay hydrated before your workout."
+  },
+  {
+    "instruction": "Suggest a post-gym snack for muscle repair and skin hydration.",
+    "input": "I need a post-gym snack for muscle repair that also helps with skin hydration. I like fish and fruits.",
+    "output": "Here’s a post-gym snack for muscle repair and skin hydration:\n\n- **Snack**: Tuna and watermelon bites (50g canned tuna, 1/2 cup watermelon cubes). (Approx. 150 kcal, 10g carbs, 20g protein, 2g fat)\n- **Why this works**: Tuna provides protein for muscle repair, and watermelon hydrates with high water content and supports skin with vitamin C.\n\nTip: Pair with a glass of water to support recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a lunch for skin clarity and gym strength.",
+    "input": "I want a lunch that helps with skin clarity and supports gym strength. I like eggs and veggies.",
+    "output": "Here’s a lunch for skin clarity and gym strength:\n\n- **Lunch**: Egg and broccoli salad (2 boiled eggs, 1/2 cup steamed broccoli, 1/4 cup cherry tomatoes, 1 tbsp olive oil dressing). (Approx. 300 kcal, 10g carbs, 15g protein, 20g fat)\n- **Why this works**: Eggs provide protein for strength, broccoli and tomatoes offer vitamin C for skin clarity, and olive oil supports skin hydration.\n\nTip: Drink a glass of water with lemon to enhance skin detoxification."
+  },
+  {
+    "instruction": "Suggest a dinner for skin health and post-gym muscle recovery.",
+    "input": "I need a dinner that helps my skin and supports post-gym muscle recovery. I like fish and greens.",
+    "output": "Here’s a dinner for skin health and post-gym muscle recovery:\n\n- **Dinner**: Grilled salmon and spinach brown rice bowl (100g grilled salmon, 1/2 cup cooked brown rice, 1 cup spinach). (Approx. 450 kcal, 40g carbs, 35g protein, 15g fat)\n- **Why this works**: Salmon provides omega-3s for skin health and protein for recovery, spinach offers antioxidants, and brown rice replenishes glycogen.\n\nTip: Drink a glass of water to aid recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a pre-gym snack for energy and skin improvement.",
+    "input": "I want a pre-gym snack for energy that also improves my skin. I like nuts and berries.",
+    "output": "Here’s a pre-gym snack for energy and skin improvement:\n\n- **Snack**: Almond and blueberry mix (1/4 cup almonds, 1/2 cup blueberries). (Approx. 200 kcal, 15g carbs, 6g protein, 12g fat)\n- **Why this works**: Almonds provide vitamin E for skin improvement and healthy fats for energy, while blueberries offer vitamin C for collagen production and quick energy.\n\nTip: Eat this 30 minutes before your gym session for an energy boost."
+  },
+  {
+    "instruction": "Suggest a post-gym breakfast for muscle gain and skin glow.",
+    "input": "I need a post-gym breakfast for muscle gain that also helps my skin glow. I like eggs and greens.",
+    "output": "Here’s a post-gym breakfast for muscle gain and skin glow:\n\n- **Breakfast**: Egg and spinach wrap (2 boiled eggs, 1/2 cup spinach, wrapped in 1 small whole-grain tortilla). (Approx. 300 kcal, 20g carbs, 15g protein, 15g fat)\n- **Why this works**: Eggs provide protein for muscle gain, spinach offers antioxidants and vitamin E for skin glow, and the tortilla gives a small carb boost for recovery.\n\nTip: Drink a glass of water to support recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a lunch for skin hydration and gym endurance.",
+    "input": "I want a lunch that helps with skin hydration and supports gym endurance. I like chicken and veggies.",
+    "output": "Here’s a lunch for skin hydration and gym endurance:\n\n- **Lunch**: Chicken and cucumber brown rice bowl (100g grilled chicken, 1/2 cup cooked brown rice, 1/2 cup sliced cucumber). (Approx. 400 kcal, 35g carbs, 35g protein, 10g fat)\n- **Why this works**: Chicken provides protein for endurance, cucumber hydrates with high water content, and brown rice offers complex carbs for sustained energy.\n\nTip: Drink a glass of water to maximize hydration benefits."
+  },
+  {
+    "instruction": "Suggest a dinner for skin improvement and post-gym recovery.",
+    "input": "I need a dinner that improves my skin and supports post-gym recovery. I like eggs and greens.",
+    "output": "Here’s a dinner for skin improvement and post-gym recovery:\n\n- **Dinner**: Egg and spinach quinoa bowl (2 boiled eggs, 1/2 cup cooked quinoa, 1 cup steamed spinach, 1 tbsp olive oil). (Approx. 400 kcal, 35g carbs, 20g protein, 15g fat)\n- **Why this works**: Eggs provide protein for recovery, spinach offers antioxidants and vitamin E for skin improvement, quinoa replenishes glycogen, and olive oil supports skin health.\n\nTip: Drink a glass of water to aid recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a pre-gym breakfast for energy and skin clarity.",
+    "input": "I want a pre-gym breakfast for energy that also helps with skin clarity. I like fruits and seeds.",
+    "output": "Here’s a pre-gym breakfast for energy and skin clarity:\n\n- **Breakfast**: Papaya and chia seed bowl (1/2 cup diced papaya, 1 tbsp chia seeds). (Approx. 150 kcal, 15g carbs, 4g protein, 8g fat)\n- **Why this works**: Papaya provides vitamin C for skin clarity and quick energy, while chia seeds offer omega-3s for skin health and sustained energy.\n\nTip: Drink a glass of water to stay hydrated before your workout."
+  },
+  {
+    "instruction": "Suggest a post-gym snack for muscle repair and skin glow.",
+    "input": "I need a post-gym snack for muscle repair that also helps my skin glow. I like fish and berries.",
+    "output": "Here’s a post-gym snack for muscle repair and skin glow:\n\n- **Snack**: Tuna and strawberry bites (50g canned tuna, 1/2 cup strawberries). (Approx. 150 kcal, 10g carbs, 20g protein, 2g fat)\n- **Why this works**: Tuna provides protein for muscle repair, and strawberries offer vitamin C for skin glow.\n\nTip: Pair with a glass of water to support recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a lunch for skin glow and gym strength.",
+    "input": "I want a lunch that helps my skin glow and supports gym strength. I like fish and greens.",
+    "output": "Here’s a lunch for skin glow and gym strength:\n\n- **Lunch**: Grilled salmon and spinach salad (100g grilled salmon, 1 cup spinach, 1/4 cup cherry tomatoes, 1 tbsp olive oil dressing). (Approx. 400 kcal, 10g carbs, 35g protein, 20g fat)\n- **Why this works**: Salmon provides omega-3s for skin glow and protein for strength, spinach and tomatoes offer antioxidants, and olive oil supports skin hydration.\n\nTip: Drink a glass of water with lemon to enhance skin detoxification."
+  },
+  {
+    "instruction": "Suggest a dinner for skin health and post-gym muscle recovery.",
+    "input": "I need a dinner that helps my skin and supports post-gym muscle recovery. I like chicken and veggies.",
+    "output": "Here’s a dinner for skin health and post-gym muscle recovery:\n\n- **Dinner**: Chicken and zucchini brown rice bowl (100g grilled chicken, 1/2 cup cooked brown rice, 1/2 cup steamed zucchini). (Approx. 450 kcal, 40g carbs, 35g protein, 10g fat)\n- **Why this works**: Chicken provides protein for recovery, zucchini offers hydration and antioxidants for skin health, and brown rice replenishes glycogen.\n\nTip: Drink a glass of water to aid recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a pre-gym snack for energy and skin improvement.",
+    "input": "I want a pre-gym snack for energy that also improves my skin. I like fruits and nuts.",
+    "output": "Here’s a pre-gym snack for energy and skin improvement:\n\n- **Snack**: Orange and walnut mix (1/2 orange, 1/4 cup walnuts). (Approx. 200 kcal, 15g carbs, 5g protein, 15g fat)\n- **Why this works**: Oranges provide vitamin C for skin improvement and quick energy, while walnuts offer vitamin E and healthy fats for sustained energy.\n\nTip: Eat this 30 minutes before your gym session for an energy boost."
+  },
+  {
+    "instruction": "Suggest a post-gym breakfast for muscle gain and skin clarity.",
+    "input": "I need a post-gym breakfast for muscle gain that also helps with skin clarity. I like eggs and veggies.",
+    "output": "Here’s a post-gym breakfast for muscle gain and skin clarity:\n\n- **Breakfast**: Egg and zucchini omelet (2 eggs, 1/2 cup steamed zucchini, 1 tbsp olive oil). (Approx. 300 kcal, 5g carbs, 15g protein, 20g fat)\n- **Why this works**: Eggs provide protein for muscle gain, zucchini offers hydration and antioxidants for skin clarity, and olive oil supports skin hydration.\n\nTip: Drink a glass of water to support recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a lunch for skin hydration and gym endurance.",
+    "input": "I want a lunch that helps with skin hydration and supports gym endurance. I like fish and greens.",
+    "output": "Here’s a lunch for skin hydration and gym endurance:\n\n- **Lunch**: Grilled fish and cucumber brown rice bowl (100g grilled fish, 1/2 cup cooked brown rice, 1/2 cup sliced cucumber). (Approx. 400 kcal, 35g carbs, 30g protein, 10g fat)\n- **Why this works**: Fish provides omega-3s for skin health and protein for endurance, cucumber hydrates with high water content, and brown rice offers complex carbs for sustained energy.\n\nTip: Drink a glass of water to maximize hydration benefits."
+  },
+  {
+    "instruction": "Suggest a dinner for skin improvement and post-gym recovery.",
+    "input": "I need a dinner that improves my skin and supports post-gym recovery. I like chicken and greens.",
+    "output": "Here’s a dinner for skin improvement and post-gym recovery:\n\n- **Dinner**: Chicken and spinach quinoa bowl (100g grilled chicken, 1/2 cup cooked quinoa, 1 cup steamed spinach, 1 tbsp olive oil). (Approx. 450 kcal, 35g carbs, 35g protein, 15g fat)\n- **Why this works**: Chicken provides protein for recovery, spinach offers antioxidants and vitamin E for skin improvement, quinoa replenishes glycogen, and olive oil supports skin health.\n\nTip: Drink a glass of water to aid recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a pre-gym breakfast for energy and skin glow.",
+    "input": "I want a pre-gym breakfast for energy that also helps my skin glow. I like yogurt and fruits.",
+    "output": "Here’s a pre-gym breakfast for energy and skin glow:\n\n- **Breakfast**: Yogurt and strawberry bowl (1/2 cup plain yogurt, 1/2 cup strawberries, 1 tbsp chia seeds). (Approx. 250 kcal, 20g carbs, 10g protein, 8g fat)\n- **Why this works**: Yogurt provides protein for energy, strawberries offer vitamin C for skin glow, and chia seeds supply omega-3s for skin health.\n\nTip: Drink a glass of water to stay hydrated before your workout."
+  },
+  {
+    "instruction": "Suggest a post-gym snack for muscle repair and skin hydration.",
+    "input": "I need a post-gym snack for muscle repair that also helps with skin hydration. I like eggs and fruits.",
+    "output": "Here’s a post-gym snack for muscle repair and skin hydration:\n\n- **Snack**: Egg and watermelon bites (1 boiled egg, 1/2 cup watermelon cubes). (Approx. 150 kcal, 10g carbs, 8g protein, 5g fat)\n- **Why this works**: Eggs provide protein for muscle repair, and watermelon hydrates with high water content and supports skin with vitamin C.\n\nTip: Pair with a glass of water to support recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a lunch for skin clarity and gym strength.",
+    "input": "I want a lunch that helps with skin clarity and supports gym strength. I like fish and veggies.",
+    "output": "Here’s a lunch for skin clarity and gym strength:\n\n- **Lunch**: Grilled salmon and broccoli salad (100g grilled salmon, 1/2 cup steamed broccoli, 1/4 cup cherry tomatoes, 1 tbsp olive oil dressing). (Approx. 400 kcal, 10g carbs, 35g protein, 20g fat)\n- **Why this works**: Salmon provides omega-3s for skin clarity and protein for strength, broccoli and tomatoes offer vitamin C, and olive oil supports skin hydration.\n\nTip: Drink a glass of water with lemon to enhance skin detoxification."
+  },
+  {
+    "instruction": "Suggest a dinner for skin health and post-gym muscle recovery.",
+    "input": "I need a dinner that helps my skin and supports post-gym muscle recovery. I like eggs and greens.",
+    "output": "Here’s a dinner for skin health and post-gym muscle recovery:\n\n- **Dinner**: Egg and spinach brown rice bowl (2 boiled eggs, 1/2 cup cooked brown rice, 1 cup spinach). (Approx. 400 kcal, 40g carbs, 15g protein, 15g fat)\n- **Why this works**: Eggs provide protein for recovery, spinach offers antioxidants and vitamin E for skin health, and brown rice replenishes glycogen.\n\nTip: Drink a glass of water to aid recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a pre-gym snack for energy and skin improvement.",
+    "input": "I want a pre-gym snack for energy that also improves my skin. I like seeds and berries.",
+    "output": "Here’s a pre-gym snack for energy and skin improvement:\n\n- **Snack**: Sunflower seed and blueberry mix (1 tbsp sunflower seeds, 1/2 cup blueberries). (Approx. 150 kcal, 15g carbs, 4g protein, 8g fat)\n- **Why this works**: Sunflower seeds provide vitamin E for skin improvement and healthy fats for energy, while blueberries offer vitamin C for collagen production and quick energy.\n\nTip: Eat this 30 minutes before your gym session for an energy boost."
+  },
+  {
+    "instruction": "Suggest a post-gym breakfast for muscle gain and skin glow.",
+    "input": "I need a post-gym breakfast for muscle gain that also helps my skin glow. I like chicken and veggies.",
+    "output": "Here’s a post-gym breakfast for muscle gain and skin glow:\n\n- **Breakfast**: Chicken and broccoli wrap (100g grilled chicken, 1/2 cup steamed broccoli, wrapped in 1 small whole-grain tortilla). (Approx. 350 kcal, 20g carbs, 35g protein, 10g fat)\n- **Why this works**: Chicken provides protein for muscle gain, broccoli offers vitamin C for skin glow, and the tortilla gives a small carb boost for recovery.\n\nTip: Drink a glass of water to support recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a lunch for skin hydration and gym endurance.",
+    "input": "I want a lunch that helps with skin hydration and supports gym endurance. I like eggs and greens.",
+    "output": "Here’s a lunch for skin hydration and gym endurance:\n\n- **Lunch**: Egg and spinach brown rice bowl (2 boiled eggs, 1/2 cup cooked brown rice, 1 cup spinach). (Approx. 350 kcal, 35g carbs, 15g protein, 10g fat)\n- **Why this works**: Eggs provide protein for endurance, spinach offers antioxidants and hydrates, and brown rice supplies complex carbs for sustained energy.\n\nTip: Drink a glass of water to maximize hydration benefits."
+  },
+  {
+    "instruction": "Suggest a dinner for skin improvement and post-gym recovery.",
+    "input": "I need a dinner that improves my skin and supports post-gym recovery. I like fish and veggies.",
+    "output": "Here’s a dinner for skin improvement and post-gym recovery:\n\n- **Dinner**: Grilled fish and zucchini quinoa bowl (100g grilled fish, 1/2 cup cooked quinoa, 1/2 cup steamed zucchini, 1 tbsp olive oil). (Approx. 450 kcal, 35g carbs, 30g protein, 15g fat)\n- **Why this works**: Fish provides omega-3s for skin improvement and protein for recovery, zucchini offers hydration and antioxidants, quinoa replenishes glycogen, and olive oil supports skin health.\n\nTip: Drink a glass of water to aid recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a pre-gym breakfast for energy and skin clarity.",
+    "input": "I want a pre-gym breakfast for energy that also helps with skin clarity. I like eggs and berries.",
+    "output": "Here’s a pre-gym breakfast for energy and skin clarity:\n\n- **Breakfast**: Egg and strawberry toast (2 scrambled eggs, 1 slice whole-grain toast, 1/2 cup strawberries). (Approx. 300 kcal, 30g carbs, 15g protein, 10g fat)\n- **Why this works**: Eggs provide protein for energy, strawberries offer vitamin C for skin clarity, and whole-grain toast gives complex carbs for sustained energy.\n\nTip: Drink a glass of water to stay hydrated before your workout."
+  },
+  {
+    "instruction": "Suggest a post-gym snack for muscle repair and skin hydration.",
+    "input": "I need a post-gym snack for muscle repair that also helps with skin hydration. I like chicken and fruits.",
+    "output": "Here’s a post-gym snack for muscle repair and skin hydration:\n\n- **Snack**: Chicken and watermelon bites (50g grilled chicken, 1/2 cup watermelon cubes). (Approx. 200 kcal, 10g carbs, 20g protein, 5g fat)\n- **Why this works**: Chicken provides protein for muscle repair, and watermelon hydrates with high water content and supports skin with vitamin C.\n\nTip: Pair with a glass of water to support recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a lunch for skin glow and gym strength.",
+    "input": "I want a lunch that helps my skin glow and supports gym strength. I like eggs and greens.",
+    "output": "Here’s a lunch for skin glow and gym strength:\n\n- **Lunch**: Egg and spinach salad (2 boiled eggs, 1 cup spinach, 1/4 cup cherry tomatoes, 1 tbsp olive oil dressing). (Approx. 300 kcal, 10g carbs, 15g protein, 20g fat)\n- **Why this works**: Eggs provide protein for strength, spinach and tomatoes offer vitamin C for skin glow, and olive oil supports skin hydration.\n\nTip: Drink a glass of water with lemon to enhance skin detoxification."
+  },
+  {
+    "instruction": "Suggest a dinner for skin health and post-gym muscle recovery.",
+    "input": "I need a dinner that helps my skin and supports post-gym muscle recovery. I like fish and greens.",
+    "output": "Here’s a dinner for skin health and post-gym muscle recovery:\n\n- **Dinner**: Grilled salmon and spinach quinoa bowl (100g grilled salmon, 1/2 cup cooked quinoa, 1 cup spinach, 1 tbsp olive oil). (Approx. 450 kcal, 35g carbs, 35g protein, 15g fat)\n- **Why this works**: Salmon provides omega-3s for skin health and protein for recovery, spinach offers antioxidants, quinoa replenishes glycogen, and olive oil supports skin hydration.\n\nTip: Drink a glass of water to aid recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a pre-gym snack for energy and skin improvement.",
+    "input": "I want a pre-gym snack for energy that also improves my skin. I like nuts and fruits.",
+    "output": "Here’s a pre-gym snack for energy and skin improvement:\n\n- **Snack**: Walnut and orange mix (1/4 cup walnuts, 1/2 orange). (Approx. 200 kcal, 15g carbs, 5g protein, 15g fat)\n- **Why this works**: Walnuts provide vitamin E for skin improvement and healthy fats for energy, while oranges offer vitamin C for collagen production and quick energy.\n\nTip: Eat this 30 minutes before your gym session for an energy boost."
+  },
+  {
+    "instruction": "Suggest a post-gym breakfast for muscle gain and skin clarity.",
+    "input": "I need a post-gym breakfast for muscle gain that also helps with skin clarity. I like fish and greens.",
+    "output": "Here’s a post-gym breakfast for muscle gain and skin clarity:\n\n- **Breakfast**: Salmon and spinach wrap (100g grilled salmon, 1/2 cup spinach, wrapped in 1 small whole-grain tortilla). (Approx. 350 kcal, 20g carbs, 30g protein, 15g fat)\n- **Why this works**: Salmon provides protein for muscle gain and omega-3s for skin clarity, spinach offers antioxidants, and the tortilla gives a small carb boost for recovery.\n\nTip: Drink a glass of water to support recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a lunch for skin hydration and gym endurance.",
+    "input": "I want a lunch that helps with skin hydration and supports gym endurance. I like chicken and veggies.",
+    "output": "Here’s a lunch for skin hydration and gym endurance:\n\n- **Lunch**: Chicken and cucumber brown rice bowl (100g grilled chicken, 1/2 cup cooked brown rice, 1/2 cup sliced cucumber). (Approx. 400 kcal, 35g carbs, 35g protein, 10g fat)\n- **Why this works**: Chicken provides protein for endurance, cucumber hydrates with high water content, and brown rice offers complex carbs for sustained energy.\n\nTip: Drink a glass of water to maximize hydration benefits."
+  },
+  {
+    "instruction": "Suggest a dinner for skin improvement and post-gym recovery.",
+    "input": "I need a dinner that improves my skin and supports post-gym recovery. I like eggs and veggies.",
+    "output": "Here’s a dinner for skin improvement and post-gym recovery:\n\n- **Dinner**: Egg and zucchini quinoa bowl (2 boiled eggs, 1/2 cup cooked quinoa, 1/2 cup steamed zucchini, 1 tbsp olive oil). (Approx. 400 kcal, 35g carbs, 20g protein, 15g fat)\n- **Why this works**: Eggs provide protein for recovery, zucchini offers hydration and antioxidants for skin improvement, quinoa replenishes glycogen, and olive oil supports skin health.\n\nTip: Drink a glass of water to aid recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a pre-gym breakfast for energy and skin glow.",
+    "input": "I want a pre-gym breakfast for energy that also helps my skin glow. I like fruits and seeds.",
+    "output": "Here’s a pre-gym breakfast for energy and skin glow:\n\n- **Breakfast**: Papaya and chia seed bowl (1/2 cup diced papaya, 1 tbsp chia seeds). (Approx. 150 kcal, 15g carbs, 4g protein, 8g fat)\n- **Why this works**: Papaya provides vitamin C for skin glow and quick energy, while chia seeds offer omega-3s for skin health and sustained energy.\n\nTip: Drink a glass of water to stay hydrated before your workout."
+  },
+  {
+    "instruction": "Suggest a post-gym snack for muscle repair and skin hydration.",
+    "input": "I need a post-gym snack for muscle repair that also helps with skin hydration. I like fish and fruits.",
+    "output": "Here’s a post-gym snack for muscle repair and skin hydration:\n\n- **Snack**: Tuna and watermelon bites (50g canned tuna, 1/2 cup watermelon cubes). (Approx. 150 kcal, 10g carbs, 20g protein, 2g fat)\n- **Why this works**: Tuna provides protein for muscle repair, and watermelon hydrates with high water content and supports skin with vitamin C.\n\nTip: Pair with a glass of water to support recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a lunch for skin glow and gym strength.",
+    "input": "I want a lunch that helps my skin glow and supports gym strength. I like chicken and berries.",
+    "output": "Here’s a lunch for skin glow and gym strength:\n\n- **Lunch**: Chicken and blueberry salad (100g grilled chicken, 1 cup mixed greens, 1/2 cup blueberries, 1 tbsp olive oil dressing). (Approx. 400 kcal, 15g carbs, 35g protein, 15g fat)\n- **Why this works**: Chicken provides protein for strength, blueberries offer vitamin C for skin glow, mixed greens supply antioxidants, and olive oil supports skin hydration.\n\nTip: Drink a glass of water with lemon to enhance skin detoxification."
+  },
+  {
+    "instruction": "Suggest a dinner for skin health and post-gym muscle recovery.",
+    "input": "I need a dinner that helps my skin and supports post-gym muscle recovery. I like fish and greens.",
+    "output": "Here’s a dinner for skin health and post-gym muscle recovery:\n\n- **Dinner**: Grilled salmon and spinach brown rice bowl (100g grilled salmon, 1/2 cup cooked brown rice, 1 cup spinach). (Approx. 450 kcal, 40g carbs, 35g protein, 15g fat)\n- **Why this works**: Salmon provides omega-3s for skin health and protein for recovery, spinach offers antioxidants, and brown rice replenishes glycogen.\n\nTip: Drink a glass of water to aid recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a pre-gym snack for energy and skin improvement.",
+    "input": "I want a pre-gym snack for energy that also improves my skin. I like nuts and berries.",
+    "output": "Here’s a pre-gym snack for energy and skin improvement:\n\n- **Snack**: Almond and strawberry mix (1/4 cup almonds, 1/2 cup strawberries). (Approx. 200 kcal, 15g carbs, 6g protein, 12g fat)\n- **Why this works**: Almonds provide vitamin E for skin improvement and healthy fats for energy, while strawberries offer vitamin C for collagen production and quick energy.\n\nTip: Eat this 30 minutes before your gym session for an energy boost."
+  },
+  {
+    "instruction": "Suggest a post-gym breakfast for muscle gain and skin clarity.",
+    "input": "I need a post-gym breakfast for muscle gain that also helps with skin clarity. I like eggs and greens.",
+    "output": "Here’s a post-gym breakfast for muscle gain and skin clarity:\n\n- **Breakfast**: Egg and spinach wrap (2 boiled eggs, 1/2 cup spinach, wrapped in 1 small whole-grain tortilla). (Approx. 300 kcal, 20g carbs, 15g protein, 15g fat)\n- **Why this works**: Eggs provide protein for muscle gain, spinach offers antioxidants and vitamin E for skin clarity, and the tortilla gives a small carb boost for recovery.\n\nTip: Drink a glass of water to support recovery and skin health."
+  },
+  {
+    "instruction": "Suggest a lunch for skin hydration and gym endurance.",
+    "input": "I want a lunch that helps with skin hydration and supports gym endurance. I like fish and veggies.",
+    "output": "Here’s a lunch for skin hydration and gym endurance:\n\n- **Lunch**: Grilled fish and cucumber brown rice bowl (100g grilled fish, 1/2 cup cooked brown rice, 1/2 cup sliced cucumber). (Approx. 400 kcal, 35g carbs, 30g protein, 10g fat)\n- **Why this works**: Fish provides omega-3s for skin health and protein for endurance, cucumber hydrates with high water content, and brown rice offers complex carbs for sustained energy.\n\nTip: Drink a glass of water to maximize hydration benefits."
+  },
+  {
+    "instruction": "Suggest a dinner for skin improvement and post-gym recovery.",
+    "input": "I need a dinner that improves my skin and supports post-gym recovery. I like chicken and greens.",
+    "output": "Here’s a dinner for skin improvement and post-gym recovery:\n\n- **Dinner**: Chicken and spinach quinoa bowl (100g grilled chicken, 1/2 cup cooked quinoa, 1 cup steamed spinach, 1 tbsp olive oil). (Approx. 450 kcal, 35g carbs, 35g protein, 15g fat)\n- **Why this works**: Chicken provides protein for recovery, spinach offers antioxidants and vitamin E for skin improvement, quinoa replenishes glycogen, and olive oil supports skin health.\n\nTip: Drink a glass of water to aid recovery and skin health."
+  }
+]

@@ -1,0 +1,395 @@
+[
+  {
+    "instruction": "Suggest a low-carb breakfast for a South Indian with type 2 diabetes.",
+    "input": "I’m a South Indian with type 2 diabetes and need a low-carb breakfast. I like eggs and coconut.",
+    "output": "Here’s a low-carb South Indian breakfast to manage your type 2 diabetes:\n\n- **Breakfast**: Egg masala (2 eggs scrambled with 1 tsp coconut oil, turmeric, and cumin) with a side of 1/4 cup grated coconut mixed with a pinch of mustard seeds. (Approx. 200 kcal, 5g carbs, 15g protein, 15g fat)\n- **Why this works**: Eggs provide protein to stabilize blood sugar, while coconut adds healthy fats with minimal carbs, fitting a low-carb South Indian profile.\n\nTip: Check your blood sugar after eating to ensure this meal works for you, and avoid high-carb sides like dosa or idli."
+  },
+  {
+    "instruction": "Generate a high-fiber vegetarian lunch for an Indian aiming for weight loss.",
+    "input": "I’m an Indian vegetarian trying to lose weight and need a high-fiber lunch. I like dal and spinach.",
+    "output": "Here’s a high-fiber vegetarian Indian lunch to support your weight loss:\n\n- **Lunch**: Moong dal (1/2 cup cooked) with 1 cup palak (spinach) sabzi, and 1 small whole wheat roti. (Approx. 300 kcal, 40g carbs, 15g protein, 5g fat, 10g fiber)\n- **Why this works**: Moong dal and spinach are fiber-rich to promote fullness, helping you stay in a calorie deficit, while the roti adds whole grains in moderation.\n\nTip: Use minimal ghee to keep calories low, and pair with a glass of water to stay hydrated."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for a North Indian paleo snack.",
+    "input": "I’m a North Indian on a paleo diet and need a snack with a macronutrient breakdown. I like chicken and coconut.",
+    "output": "Here’s a North Indian-inspired paleo snack with a macronutrient breakdown:\n\n- **Snack**: Tandoori chicken (100g, marinated with yogurt, turmeric, and garam masala) with 1/4 cup coconut chunks. (Approx. 200 kcal, 5g carbs, 25g protein, 10g fat, 2g fiber)\n- **Why this works**: Tandoori chicken provides protein, while coconut offers healthy fats, fitting paleo guidelines with a North Indian flavor profile.\n\nTip: Grill the chicken to keep it light, and enjoy this snack between meals for a quick energy boost."
+  },
+  {
+    "instruction": "Suggest a meal plan for an Indian doing a 12:12 intermittent fasting schedule during Navratri.",
+    "input": "I’m an Indian doing a 12:12 intermittent fasting schedule during Navratri and need a meal plan for my eating window. I like fasting-friendly foods like sabudana and peanuts.",
+    "output": "Here’s a Navratri-friendly meal plan for your 12:12 intermittent fasting eating window (e.g., 8 AM to 8 PM):\n\n- **8 AM (First Meal)**: Sabudana khichdi (1/2 cup sabudana, cooked with 1 tsp ghee, cumin seeds, and 1/4 cup boiled potatoes) with a side of 1/2 cup curd. (Approx. 350 kcal)\n- **1 PM (Snack)**: A small handful of roasted peanuts (20g) with 1/2 cup chopped cucumber. (Approx. 150 kcal)\n- **6 PM (Main Meal)**: Kuttu ka atta puri (1 small puri made with buckwheat flour) with 1/2 cup boiled sweet potato sabzi (seasoned with rock salt and cumin). (Approx. 400 kcal)\n- **Why this works**: These fasting-friendly meals use Navratri-approved ingredients like sabudana and kuttu, providing balanced nutrition within your eating window.\n\nTip: Stay hydrated with water or coconut water during fasting, and avoid non-fasting ingredients like grains or lentils."
+  },
+  {
+    "instruction": "Suggest a low-FODMAP dinner for an Indian with IBS.",
+    "input": "I’m an Indian with IBS and need a low-FODMAP dinner. I like paneer and rice.",
+    "output": "Here’s a low-FODMAP Indian dinner to support your IBS management:\n\n- **Dinner**: Grilled paneer (100g, marinated with turmeric and cumin) with 1/2 cup cooked white rice and a side of steamed carrots (seasoned with rock salt). (Approx. 400 kcal, 35g carbs, 20g protein, 15g fat)\n- **Why this works**: Paneer, rice, and carrots are low-FODMAP, making this meal gentle on your gut while incorporating Indian flavors.\n\nTip: Avoid high-FODMAP ingredients like garlic or onion in the marinade, and chew slowly to aid digestion."
+  },
+  {
+    "instruction": "What’s a good dairy-free substitute for paneer in an Indian recipe?",
+    "input": "I’m dairy-free due to an allergy and need a substitute for paneer in my Indian curry. I like tofu.",
+    "output": "Here’s a dairy-free substitute for paneer in your Indian curry:\n\n- **Substitute**: Use firm tofu instead of paneer. Cube 100g firm tofu and lightly pan-fry with turmeric and cumin to mimic paneer’s texture and flavor in your curry. (Approx. 80 kcal per 100g)\n- **Why this works**: Tofu provides a similar texture and protein content, absorbing Indian spices like paneer would, while being dairy-free.\n\nTip: Add the tofu towards the end of cooking to maintain its texture, and pair with a coconut-based curry for extra flavor."
+  },
+  {
+    "instruction": "Generate a pre-workout snack for an Indian yoga practitioner focusing on flexibility.",
+    "input": "I’m an Indian practicing yoga and need a pre-workout snack for flexibility before my session. I like bananas and nuts.",
+    "output": "Here’s a pre-workout snack to support flexibility for your yoga session, with an Indian twist:\n\n- **Snack**: 1 small banana (100g) with 1 tbsp roasted chana (chickpea) nuts, sprinkled with a pinch of chaat masala. (Approx. 200 kcal, 25g carbs, 5g protein, 5g fat)\n- **Why this works**: Bananas provide potassium to support muscle function and flexibility, while roasted chana offers protein for energy, with a familiar Indian flavor.\n\nTip: Eat this 30-60 minutes before your session to allow for digestion, and sip water to stay hydrated."
+  },
+  {
+    "instruction": "Suggest a dinner for an Indian breastfeeding mom focusing on energy.",
+    "input": "I’m an Indian breastfeeding mom and need a dinner to boost my energy. I like chicken and rice.",
+    "output": "Here’s an energy-boosting Indian dinner for you while breastfeeding:\n\n- **Dinner**: Chicken curry (120g chicken cooked with turmeric, cumin, and coriander in a tomato base) with 1/2 cup cooked basmati rice and a side of 1/2 cup steamed bottle gourd (lauki). (Approx. 450 kcal, 40g carbs, 35g protein, 15g fat)\n- **Why this works**: Chicken provides protein for sustained energy, while rice offers carbs, and lauki adds hydration and nutrients, supporting your needs as a breastfeeding mom.\n\nTip: Stay hydrated with water or a glass of jeera water, as hydration is key for energy and milk production."
+  },
+  {
+    "instruction": "Create a grocery list for a budget-conscious Indian low-carb meal plan for one day.",
+    "input": "I’m an Indian on a low-carb diet and on a tight budget. I need a grocery list for a one-day meal plan. I like paneer and spinach.",
+    "output": "Here’s a budget-friendly grocery list for a one-day low-carb Indian meal plan:\n\n- **Grocery List**: 200g paneer ($1.50), 1 bunch spinach ($1), 1 small bottle coconut oil ($1 for a portion), 4 eggs ($1). Total: ~$4.50\n- **Meal Plan**: Breakfast – two-egg omelet with spinach; Lunch – paneer tikka (100g) with sautéed spinach; Dinner – paneer bhurji (100g) with spinach cooked in coconut oil.\n\nTip: Buy paneer in bulk to save more, and use spices like cumin or turmeric you already have to enhance flavor."
+  },
+  {
+    "instruction": "Suggest a snack for an Indian child with a nut allergy looking for a treat during Diwali.",
+    "input": "My Indian child has a nut allergy and needs a Diwali snack that feels like a treat. They like jaggery and puffed rice.",
+    "output": "Here’s a nut-free Diwali snack that feels like a treat for your child:\n\n- **Snack**: Puffed rice laddoo (1 small laddoo made with 1/4 cup puffed rice, 1 tbsp melted jaggery, and a pinch of cardamom). (Approx. 150 kcal, 25g carbs, 2g protein, 2g fat)\n- **Why this works**: Puffed rice and jaggery create a festive treat-like laddoo without nuts, perfect for Diwali celebrations.\n\nTip: Ensure the puffed rice is plain and not mixed with nuts, and let the laddoo cool completely before serving."
+  },
+  {
+    "instruction": "What should an Indian eat after a workout to reduce inflammation?",
+    "input": "I’m an Indian who just finished a HIIT workout and need a post-workout meal to reduce inflammation. I like fish and turmeric.",
+    "output": "Here’s a post-workout Indian meal to help reduce inflammation after your HIIT session:\n\n- **Meal**: Fish curry (120g fish cooked with 1/2 tsp turmeric, cumin, and coconut milk) with a side of 1/2 cup steamed bottle gourd (lauki). (Approx. 350 kcal, 10g carbs, 30g protein, 20g fat)\n- **Why this works**: Fish provides omega-3s, and turmeric offers anti-inflammatory curcumin to combat post-workout inflammation, with lauki adding hydration.\n\nTip: Eat within 30 minutes of your session to optimize recovery, and drink water to rehydrate."
+  },
+  {
+    "instruction": "Generate a gluten-free dinner for an Indian following a paleo diet.",
+    "input": "I’m an Indian on a paleo diet and need a gluten-free dinner idea. I like chicken and coconut.",
+    "output": "Here’s a gluten-free, paleo-friendly Indian dinner for you:\n\n- **Dinner**: Chicken Chettinad (120g chicken cooked with coconut milk, black pepper, and curry leaves) with a side of 1/2 cup steamed yam (suran). (Approx. 400 kcal, 15g carbs, 35g protein, 20g fat)\n- **Why this works**: Chicken and coconut provide protein and healthy fats, while yam offers nutrient-dense carbs, all naturally gluten-free and paleo-compliant with South Indian flavors.\n\nTip: Use fresh coconut milk for authenticity, and avoid non-paleo ingredients like grains or dairy."
+  },
+  {
+    "instruction": "Suggest a high-protein vegetarian breakfast for an Indian aiming for weight maintenance.",
+    "input": "I’m an Indian vegetarian trying to maintain my weight and need a high-protein breakfast. I like paneer and spinach.",
+    "output": "Here’s a high-protein vegetarian Indian breakfast to help maintain your weight:\n\n- **Breakfast**: Paneer bhurji (100g paneer scrambled with spinach, turmeric, and cumin) with a side of 1/4 cup roasted makhana (fox nuts). (Approx. 250 kcal, 10g carbs, 20g protein, 15g fat)\n- **Why this works**: Paneer provides 20g of protein to keep you full, while makhana adds a light, protein-rich crunch, balancing your calorie intake.\n\nTip: Use minimal oil to keep calories in check, and pair with a glass of water to stay hydrated."
+  },
+  {
+    "instruction": "What’s a good hydration strategy for an Indian training for a marathon in hot weather?",
+    "input": "I’m an Indian training for a marathon in hot weather and need a hydration strategy. I sweat heavily during runs.",
+    "output": "Here’s a hydration strategy for your marathon training in hot Indian weather:\n\n- **Strategy**: Drink 20-24 oz of water with a pinch of rock salt 2 hours before your run. During your run, sip 7-10 oz of coconut water every 15 minutes to replenish electrolytes. Post-run, drink 20 oz of water with a squeeze of lime within 30 minutes to rehydrate.\n- **Why this works**: Pre-hydration prepares you, coconut water replaces electrolytes lost through heavy sweating, and lime water aids recovery in hot conditions.\n\nTip: Monitor your urine color—it should be pale yellow—and adjust intake based on humidity levels."
+  },
+  {
+    "instruction": "Generate a meal prep plan for a busy Indian professional aiming for weight loss.",
+    "input": "I’m a busy Indian professional trying to lose weight and need a meal prep plan for 3 days. I like dal and roti.",
+    "output": "Here’s a 3-day meal prep plan for weight loss, tailored for a busy Indian professional:\n\n- **Meal**: Cook 3 cups moong dal (seasoned with cumin and turmeric) and prepare 6 small whole wheat rotis with 6 cups of mixed veggie sabzi (zucchini, spinach, cooked with minimal oil). Divide into 3 portions: each with 1 cup dal, 2 rotis, and 2 cups sabzi. (Approx. 450 kcal per meal, 60g carbs, 20g protein, 10g fat)\n- **Why this works**: Moong dal provides protein and fiber to keep you full, while rotis and veggies offer balanced carbs for a calorie deficit.\n\nTip: Store in airtight containers, reheat gently, and eat one portion daily with a side of water to stay hydrated."
+  },
+  {
+    "instruction": "Suggest a snack for sustained energy during an Indian trekking trip in the Himalayas.",
+    "input": "I’m an Indian going on a trekking trip in the Himalayas and need a snack for sustained energy. I like dried fruit and seeds.",
+    "output": "Here’s an energizing snack for your Himalayan trekking trip:\n\n- **Snack**: A small handful of dried apricots (30g) mixed with 1 tbsp roasted pumpkin seeds, sprinkled with a pinch of Himalayan pink salt. (Approx. 150 kcal, 20g carbs, 3g protein, 5g fat)\n- **Why this works**: Dried apricots provide quick-digesting carbs for energy, while pumpkin seeds offer healthy fats and protein for sustained fuel, with a touch of Himalayan salt for electrolytes.\n\nTip: Pack in a small container to avoid overeating, and sip water to stay hydrated at high altitudes."
+  },
+  {
+    "instruction": "What supplements should an Indian consider for muscle endurance during Kathak dance practice?",
+    "input": "I’m an Indian practicing Kathak dance and want to know what supplements might help with muscle endurance. I eat a balanced diet.",
+    "output": "Here are some supplements to consider for muscle endurance during your Kathak dance practice:\n\n- **Supplements**: 1) Ashwagandha (300-600mg daily) to reduce stress and improve stamina. 2) L-carnitine (1-2g daily) to enhance fat metabolism. 3) Electrolyte tablets (as needed during practice) to maintain hydration.\n- **Why this works**: Ashwagandha, a traditional Indian herb, supports endurance, L-carnitine aids energy production, and electrolytes prevent cramps during intense dance sessions.\n\nTip: Consult a healthcare professional before starting supplements, and prioritize hydration during practice."
+  },
+  {
+    "instruction": "Generate a one-day meal plan for an Indian following a Mediterranean diet.",
+    "input": "I’m an Indian on a Mediterranean diet and need a one-day meal plan. I like fish and whole grains.",
+    "output": "Here’s a one-day Mediterranean diet meal plan with an Indian twist:\n\n- **Breakfast**: 1/2 cup cooked barley with 1/4 cup chopped dates and a pinch of cardamom. (Approx. 250 kcal)\n- **Lunch**: Grilled pomfret (120g, marinated with olive oil and turmeric) with 1/2 cup cooked farro and a side of 1/2 cup sautéed fenugreek leaves (methi). (Approx. 400 kcal)\n- **Snack**: A small pear (100g) with a handful of olives (50g). (Approx. 150 kcal)\n- **Dinner**: Baked mackerel (150g) with 1/2 cup barley and 1/2 cup steamed bottle gourd (lauki) in olive oil. (Approx. 450 kcal)\n- **Why this works**: This plan emphasizes whole grains, fish, and veggies, aligning with Mediterranean principles while incorporating Indian flavors like methi and turmeric.\n\nTip: Use extra virgin olive oil for cooking, and stay hydrated with water throughout the day."
+  },
+  {
+    "instruction": "Suggest a keto snack for an Indian aiming for weight loss.",
+    "input": "I’m an Indian on a keto diet to lose weight and need a snack idea. I like paneer and coconut.",
+    "output": "Here’s a keto-friendly Indian snack to support your weight loss:\n\n- **Snack**: Paneer tikka (50g, marinated with turmeric and cumin) with 1/4 cup coconut chunks. (Approx. 150 kcal, 3g carbs, 10g protein, 12g fat)\n- **Why this works**: Paneer and coconut provide healthy fats to keep you in ketosis, with minimal carbs to support fat burning, in an Indian style.\n\nTip: Keep portions small to stay within your calorie goals, and pair with water to stay hydrated."
+  },
+  {
+    "instruction": "What should an Indian eat for breakfast to support gut health?",
+    "input": "I’m an Indian focusing on gut health and need a breakfast idea. I like curd and bananas.",
+    "output": "Here’s a gut-healthy Indian breakfast to support your goals:\n\n- **Breakfast**: 1 cup plain curd with 1 small banana (100g) and 1 tbsp roasted flaxseeds, sprinkled with a pinch of cinnamon. (Approx. 250 kcal, 30g carbs, 10g protein, 10g fat)\n- **Why this works**: Curd provides probiotics, bananas offer prebiotic fiber, and flaxseeds add omega-3s, all supporting gut health with an Indian staple like curd.\n\nTip: Choose unsweetened curd to avoid added sugars, and eat slowly to aid digestion."
+  },
+  {
+    "instruction": "Generate a high-protein vegan dinner for an Indian aiming for muscle gain.",
+    "input": "I’m an Indian vegan trying to build muscle and need a high-protein dinner idea. I like chana and spinach.",
+    "output": "Here’s a high-protein vegan Indian dinner to support your muscle gain:\n\n- **Dinner**: Chana masala (1 cup cooked chickpeas with tomato, cumin, and coriander) with 1 cup palak (spinach) sabzi and 1 small bajra roti. (Approx. 450 kcal, 50g carbs, 20g protein, 15g fat)\n- **Why this works**: Chickpeas provide 15g of protein for muscle repair, while bajra offers carbs for energy, and spinach adds iron, all in an Indian style.\n\nTip: Eat this within an hour after your workout to maximize muscle protein synthesis."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for a low-FODMAP Indian lunch.",
+    "input": "I’m an Indian on a low-FODMAP diet and need a lunch with a macronutrient breakdown. I like chicken and rice.",
+    "output": "Here’s a low-FODMAP Indian lunch with a macronutrient breakdown:\n\n- **Lunch**: Grilled chicken (120g, marinated with turmeric and cumin) with 1/2 cup cooked white rice and a side of steamed carrots. (Approx. 400 kcal, 35g carbs, 35g protein, 10g fat, 3g fiber)\n- **Why this works**: Chicken, rice, and carrots are low-FODMAP, providing balanced nutrition with Indian spices without triggering digestive issues.\n\nTip: Avoid high-FODMAP ingredients like garlic or onion in the marinade, and drink water to aid digestion."
+  },
+  {
+    "instruction": "Suggest a meal plan for an Indian doing a 20:4 intermittent fasting schedule during Ramadan.",
+    "input": "I’m an Indian doing a 20:4 intermittent fasting schedule during Ramadan and need a meal plan for my eating window. I like chicken and dates.",
+    "output": "Here’s a Ramadan-friendly meal plan for your 20:4 intermittent fasting eating window (e.g., 7 PM to 11 PM):\n\n- **7 PM (Iftar/First Meal)**: 2 dates with 120g grilled chicken (marinated with cumin and coriander) and 1/2 cup steamed spinach. (Approx. 400 kcal)\n- **9 PM (Main Meal)**: Chicken biryani (120g chicken with 1/2 cup cooked basmati rice, saffron, and minimal spices, no onion/garlic) with 1/2 cup cucumber raita (curd-based). (Approx. 450 kcal)\n- **Why this works**: Dates provide quick energy to break your fast, while chicken and rice offer protein and carbs to sustain you, tailored for Ramadan.\n\nTip: Stay hydrated with water between meals, and avoid fried foods to prevent bloating during fasting."
+  },
+  {
+    "instruction": "Suggest a gluten-free breakfast for an Indian with celiac disease.",
+    "input": "I’m an Indian with celiac disease and need a gluten-free breakfast. I like eggs and coconut.",
+    "output": "Here’s a gluten-free Indian breakfast safe for celiac disease:\n\n- **Breakfast**: Egg masala (2 eggs scrambled with 1 tsp coconut oil, turmeric, and cumin) with a side of 1/4 cup grated coconut mixed with a pinch of mustard seeds. (Approx. 200 kcal, 5g carbs, 15g protein, 15g fat)\n- **Why this works**: Eggs and coconut are naturally gluten-free, providing a balanced breakfast with South Indian flavors without risking gluten exposure.\n\nTip: Use a non-stick pan to cook your eggs, and double-check any spices for gluten-containing additives."
+  },
+  {
+    "instruction": "What’s a good dairy-free substitute for curd in an Indian recipe?",
+    "input": "I’m dairy-free due to an allergy and need a substitute for curd in my Indian raita. I like coconut flavors.",
+    "output": "Here’s a dairy-free substitute for curd in your Indian raita:\n\n- **Substitute**: Use coconut yogurt instead of curd. Mix 1/2 cup coconut yogurt with cucumber, cumin, and a pinch of rock salt to make a dairy-free raita. (Approx. 100 kcal per 1/2 cup)\n- **Why this works**: Coconut yogurt provides a creamy texture and tangy flavor, mimicking curd while adding a coconut taste you enjoy, perfect for Indian dishes.\n\nTip: Chill the raita before serving for a refreshing side, and pair with a spicy curry."
+  },
+  {
+    "instruction": "Generate a post-workout meal for an Indian runner focusing on glycogen replenishment.",
+    "input": "I’m an Indian runner and need a post-workout meal for glycogen replenishment after a speed session. I like chicken and rice.",
+    "output": "Here’s a post-workout Indian meal to replenish glycogen after your speed session:\n\n- **Meal**: Chicken pulao (120g chicken with 1 cup cooked basmati rice, cumin, and coriander) with a side of 1/2 cup steamed carrots. (Approx. 450 kcal, 50g carbs, 35g protein, 10g fat)\n- **Why this works**: Chicken provides protein to repair muscles, while rice offers quick-digesting carbs to replenish glycogen stores, with Indian spices for flavor.\n\nTip: Eat within 30 minutes of your session to optimize recovery, and drink water to rehydrate."
+  },
+  {
+    "instruction": "Suggest a lunch for an Indian pregnant woman in her third trimester focusing on iron.",
+    "input": "I’m an Indian in my third trimester of pregnancy and need a lunch to boost iron. I like chicken and greens.",
+    "output": "Here’s an iron-rich Indian lunch for your third trimester:\n\n- **Lunch**: Chicken curry (120g chicken cooked with turmeric, cumin, and tomato) with 1/2 cup cooked amaranth (rajgira) and 1 cup palak (spinach) sabzi. (Approx. 450 kcal, 30g carbs, 35g protein, 15g fat)\n- **Why this works**: Chicken provides heme iron, while amaranth and spinach offer non-heme iron and vitamin C, essential for you and your baby in the third trimester.\n\nTip: Stay hydrated with water, and consider a prenatal vitamin if recommended by your doctor."
+  },
+  {
+    "instruction": "Create a grocery list for a budget-conscious Indian vegan meal plan for one day.",
+    "input": "I’m an Indian vegan on a tight budget. I need a grocery list for a one-day meal plan. I like chana and spinach.",
+    "output": "Here’s a budget-friendly grocery list for a one-day Indian vegan meal plan:\n\n- **Grocery List**: 1 lb chickpeas ($1), 1 bunch spinach ($1), 1 lb bajra flour ($1), 1 small bottle mustard oil ($1 for a portion). Total: ~$4\n- **Meal Plan**: Breakfast – 1/2 cup cooked chickpeas with spinach; Lunch – chana masala (1/2 cup) with 1 small bajra roti; Dinner – spinach sabzi with chickpeas and bajra roti.\n\nTip: Buy in bulk to save more, and use spices like cumin or coriander you already have to add flavor."
+  },
+  {
+    "instruction": "Suggest a snack for recovery after an Indian classical dance session.",
+    "input": "I’m an Indian who just finished a Bharatnatyam session and need a snack for recovery. I like bananas and seeds.",
+    "output": "Here’s a snack to help you recover after your Bharatnatyam session:\n\n- **Snack**: 1 small banana (100g) with 1 tbsp roasted pumpkin seeds, sprinkled with a pinch of cardamom. (Approx. 150 kcal, 20g carbs, 3g protein, 5g fat)\n- **Why this works**: Bananas provide quick-digesting carbs to replenish energy, while pumpkin seeds offer protein and healthy fats for recovery, with an Indian spice twist.\n\nTip: Eat this within 30 minutes of your session to support recovery, and drink water to rehydrate."
+  },
+  {
+    "instruction": "What supplements should an Indian consider for recovery after intense yoga sessions?",
+    "input": "I’m an Indian doing intense yoga 5 days a week and want to know what supplements might help with recovery. I eat a balanced diet.",
+    "output": "Here are some supplements to consider for recovery after intense yoga sessions:\n\n- **Supplements**: 1) Ashwagandha (300-600mg daily) to reduce stress and aid recovery. 2) Turmeric with black pepper (500mg daily) to reduce inflammation. 3) Vitamin C (500-1000mg daily) to support tissue repair.\n- **Why this works**: Ashwagandha and turmeric, commonly used in Indian traditions, help with stress and inflammation, while vitamin C aids recovery.\n\nTip: Consult a healthcare professional before starting supplements, and prioritize hydration for optimal recovery."
+  },
+  {
+    "instruction": "Generate a one-day meal plan for an Indian following a low-FODMAP diet.",
+    "input": "I’m an Indian on a low-FODMAP diet for IBS and need a one-day meal plan. I like chicken and rice.",
+    "output": "Here’s a one-day low-FODMAP Indian meal plan for your IBS management:\n\n- **Breakfast**: Egg masala (2 eggs scrambled with turmeric and cumin) with 1/2 cup cooked rice. (Approx. 250 kcal)\n- **Lunch**: Grilled chicken (120g, marinated with turmeric) with 1/2 cup rice and steamed carrots. (Approx. 400 kcal)\n- **Snack**: 1/2 cup cucumber slices with a pinch of rock salt. (Approx. 50 kcal)\n- **Dinner**: Chicken stir-fry (120g) with 1/2 cup rice and steamed zucchini (no onion/garlic). (Approx. 400 kcal)\n- **Why this works**: All ingredients are low-FODMAP, minimizing IBS symptoms while providing balanced nutrition with Indian spices.\n\nTip: Keep a food diary to track how your body responds, and avoid high-FODMAP foods like garlic or onion."
+  },
+  {
+    "instruction": "Suggest a keto lunch for an Indian aiming for weight loss.",
+    "input": "I’m an Indian on a keto diet to lose weight and need a lunch idea. I like fish and coconut.",
+    "output": "Here’s a keto-friendly Indian lunch to support your weight loss:\n\n- **Lunch**: Fish fry (120g fish marinated with turmeric, chili, and coconut oil, pan-fried) with 1/2 cup coconut-based curry (made with spinach and coconut milk). (Approx. 400 kcal, 5g carbs, 30g protein, 30g fat)\n- **Why this works**: Fish and coconut provide healthy fats to keep you in ketosis, with minimal carbs to support fat burning, in a South Indian style.\n\nTip: Use minimal seasoning to avoid hidden carbs, and drink water to stay hydrated."
+  },
+  {
+    "instruction": "What should an Indian with type 1 diabetes eat for dinner?",
+    "input": "I’m an Indian with type 1 diabetes and need a dinner that helps manage my blood sugar. I like paneer and greens.",
+    "output": "Here’s a diabetes-friendly Indian dinner to manage your type 1 diabetes:\n\n- **Dinner**: Paneer tikka (120g, marinated with turmeric and cumin) with 1/2 cup cooked millet and 1 cup sautéed methi (fenugreek leaves) in olive oil. (Approx. 400 kcal, 30g carbs, 25g protein, 20g fat)\n- **Why this works**: Millet has a low glycemic index to stabilize blood sugar, while paneer and methi provide protein and fiber for satiety.\n\nTip: Monitor your blood sugar and adjust your insulin as needed, and avoid high-carb sides like naan."
+  },
+  {
+    "instruction": "Generate a high-protein vegetarian lunch for an Indian aiming for muscle maintenance.",
+    "input": "I’m an Indian vegetarian trying to maintain muscle and need a high-protein lunch idea. I like paneer and dal.",
+    "output": "Here’s a high-protein vegetarian Indian lunch to maintain your muscle:\n\n- **Lunch**: Paneer matar (100g paneer with 1/4 cup green peas, cooked with cumin and coriander) with 1/2 cup moong dal and 1 small jowar roti. (Approx. 400 kcal, 40g carbs, 25g protein, 15g fat)\n- **Why this works**: Paneer and dal provide 25g of protein for muscle maintenance, while jowar roti offers carbs for energy, in an Indian style.\n\nTip: Pair with a glass of water to stay hydrated, and eat after your workout for best results."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for an Indian paleo breakfast.",
+    "input": "I’m an Indian on a paleo diet and need a breakfast with a macronutrient breakdown. I like eggs and coconut.",
+    "output": "Here’s an Indian paleo breakfast with a macronutrient breakdown:\n\n- **Breakfast**: Egg masala (2 eggs scrambled with 1 tsp coconut oil, turmeric, and cumin) with 1/4 cup grated coconut mixed with a pinch of mustard seeds. (Approx. 200 kcal, 5g carbs, 15g protein, 15g fat, 2g fiber)\n- **Why this works**: Eggs provide protein, while coconut offers healthy fats, fitting the paleo framework with South Indian flavors.\n\nTip: Use fresh coconut for authenticity, and pair with a glass of water to start your day."
+  },
+  {
+    "instruction": "Suggest a meal plan for an Indian doing a 16:8 intermittent fasting schedule.",
+    "input": "I’m an Indian doing a 16:8 intermittent fasting schedule and need a meal plan for my eating window. I like fish and rice.",
+    "output": "Here’s a meal plan for your 16:8 intermittent fasting eating window (e.g., 12 PM to 8 PM):\n\n- **12 PM (First Meal)**: Fish curry (120g fish cooked with coconut milk, turmeric, and curry leaves) with 1/2 cup cooked basmati rice and 1/2 cup steamed bottle gourd (lauki). (Approx. 400 kcal)\n- **3 PM (Snack)**: 1/2 cup cucumber slices with a pinch of chaat masala. (Approx. 50 kcal)\n- **6 PM (Main Meal)**: Grilled pomfret (150g, marinated with turmeric and chili) with 1/2 cup rice and 1/2 cup sautéed methi (fenugreek leaves). (Approx. 450 kcal)\n- **Why this works**: This plan provides balanced nutrients within your eating window, with protein and carbs to keep you full, tailored to Indian tastes.\n\nTip: Stay hydrated during your fasting window with water or jeera water, and avoid snacking outside your eating hours."
+  },
+  {
+    "instruction": "Suggest a low-FODMAP snack for an Indian with IBS.",
+    "input": "I’m an Indian with IBS and need a low-FODMAP snack. I like coconut and seeds.",
+    "output": "Here’s a low-FODMAP Indian snack to ease your IBS symptoms:\n\n- **Snack**: 1/4 cup grated coconut with 1 tbsp roasted pumpkin seeds, sprinkled with a pinch of cumin. (Approx. 150 kcal, 5g carbs, 3g protein, 12g fat)\n- **Why this works**: Coconut and pumpkin seeds are low-FODMAP, making them gentle on your gut while providing an Indian-inspired snack.\n\nTip: Stick to small portions to avoid overloading your system, and eat slowly to aid digestion."
+  },
+  {
+    "instruction": "What’s a good soy-free substitute for soya chunks in an Indian vegan recipe?",
+    "input": "I’m an Indian vegan allergic to soy and need a substitute for soya chunks in my curry. I like jackfruit.",
+    "output": "Here’s a soy-free substitute for soya chunks in your Indian vegan curry:\n\n- **Substitute**: Use young jackfruit instead of soya chunks. Cube 1/2 cup young jackfruit (canned, rinsed) and cook with your curry spices for a meaty texture. (Approx. 50 kcal per 1/2 cup)\n- **Why this works**: Jackfruit mimics the texture of soya chunks, absorbing Indian spices well while being soy-free and plant-based.\n\nTip: Cook jackfruit until tender, and pair with a tomato-based curry for best results."
+  },
+  {
+    "instruction": "Generate a pre-workout meal for an Indian weightlifter focusing on strength.",
+    "input": "I’m an Indian weightlifter and need a pre-workout meal for strength training. I like paneer and roti.",
+    "output": "Here’s a pre-workout Indian meal to fuel your strength training:\n\n- **Meal**: Paneer paratha (1 small whole wheat paratha stuffed with 50g paneer, cumin, and coriander) with 1/4 cup curd. (Approx. 300 kcal, 35g carbs, 15g protein, 10g fat)\n- **Why this works**: Paneer provides protein to support muscle performance, while the paratha offers carbs for energy, with curd aiding digestion.\n\nTip: Eat this 1-2 hours before your session to allow for digestion, and sip water to stay hydrated."
+  },
+  {
+    "instruction": "Suggest a breakfast for an Indian postpartum mom focusing on nutrient density.",
+    "input": "I’m an Indian postpartum mom and need a breakfast to support recovery. I like eggs and greens.",
+    "output": "Here’s a nutrient-dense Indian breakfast for your postpartum recovery:\n\n- **Breakfast**: Egg masala (2 eggs scrambled with 1 tsp ghee, turmeric, and cumin) with 1 cup sautéed methi (fenugreek leaves) and 1/4 cup grated coconut. (Approx. 250 kcal, 10g carbs, 15g protein, 15g fat)\n- **Why this works**: Eggs provide protein and choline, while methi offers iron and lactation support, and coconut adds healthy fats, all beneficial for postpartum recovery in an Indian context.\n\nTip: Stay hydrated with water or a glass of jeera water, and take short rests to recharge."
+  },
+  {
+    "instruction": "Create a grocery list for a budget-conscious Indian paleo meal plan for one day.",
+    "input": "I’m an Indian on a paleo diet and on a tight budget. I need a grocery list for a one-day meal plan. I like chicken and yam.",
+    "output": "Here’s a budget-friendly grocery list for a one-day Indian paleo meal plan:\n\n- **Grocery List**: 1 lb chicken ($2), 1 lb yam ($1), 1 bunch spinach ($1), 1 small bottle coconut oil ($1 for a portion). Total: ~$5\n- **Meal Plan**: Breakfast – chicken stir-fry (100g) with spinach; Lunch – grilled chicken (150g) with roasted yam; Dinner – chicken curry (150g) with yam and spinach in coconut oil.\n\nTip: Buy in bulk to save more, and use spices like turmeric or cumin you already have to add flavor."
+  },
+  {
+    "instruction": "Suggest a snack for energy during an Indian festival preparation.",
+    "input": "I’m an Indian preparing for Ganesh Chaturthi and need a snack for energy during the day. I like jaggery and seeds.",
+    "output": "Here’s an energizing snack for your Ganesh Chaturthi preparations:\n\n- **Snack**: Jaggery and seed laddoo (1 small laddoo made with 1 tbsp melted jaggery, 1 tbsp roasted pumpkin seeds, and a pinch of cardamom). (Approx. 150 kcal, 15g carbs, 3g protein, 5g fat)\n- **Why this works**: Jaggery provides quick-digesting carbs for energy, while pumpkin seeds offer healthy fats and protein for sustained energy during festival prep.\n\nTip: Keep a bottle of water nearby to stay hydrated while you work on decorations or rituals."
+  },
+  {
+    "instruction": "What supplements should an Indian consider for bone health during a weight loss journey?",
+    "input": "I’m an Indian on a weight loss journey and want to know what supplements might help with bone health. I eat a balanced diet.",
+    "output": "Here are some supplements to consider for bone health during your weight loss journey:\n\n- **Supplements**: 1) Calcium (1000-1200mg daily) to support bone density. 2) Vitamin D (1000-2000 IU daily) to enhance calcium absorption. 3) Shatavari (300-500mg daily), an Ayurvedic herb, to support overall health.\n- **Why this works**: Calcium and vitamin D maintain bone strength, while Shatavari, popular in Indian traditions, supports hormonal balance during weight loss.\n\nTip: Consult a healthcare professional before starting supplements, and include weight-bearing exercises to support bone health."
+  },
+  {
+    "instruction": "Generate a one-day meal plan for an Indian following a high-protein vegan diet.",
+    "input": "I’m an Indian on a high-protein vegan diet and need a one-day meal plan. I like chana and rajma.",
+    "output": "Here’s a one-day high-protein vegan Indian meal plan for you:\n\n- **Breakfast**: Chana chaat (1/2 cup cooked chickpeas with cucumber, tomato, and chaat masala). (Approx. 200 kcal)\n- **Lunch**: Rajma curry (1 cup cooked kidney beans with tomato, cumin, and coriander) with 1/2 cup cooked quinoa and 1/2 cup steamed spinach. (Approx. 450 kcal)\n- **Snack**: 1/2 cup roasted chana with a pinch of rock salt. (Approx. 150 kcal)\n- **Dinner**: Chana masala (1 cup chickpeas) with 1/2 cup quinoa and 1/2 cup sautéed bottle gourd (lauki). (Approx. 450 kcal)\n- **Why this works**: This plan provides over 70g of protein from chana and rajma, supporting your high-protein goals with Indian flavors.\n\nTip: Stay hydrated with water, and vary your protein sources to ensure a range of nutrients."
+  },
+  {
+    "instruction": "Suggest a keto breakfast for an Indian aiming for weight loss.",
+    "input": "I’m an Indian on a keto diet to lose weight and need a breakfast idea. I like eggs and spinach.",
+    "output": "Here’s a keto-friendly Indian breakfast to support your weight loss:\n\n- **Breakfast**: Egg bhurji (2 eggs scrambled with 1 tsp coconut oil, turmeric, and 1 cup spinach) with a side of 1/4 avocado. (Approx. 200 kcal, 5g carbs, 15g protein, 15g fat)\n- **Why this works**: Eggs and spinach provide protein and healthy fats to keep you in ketosis, with minimal carbs to support fat burning, in an Indian style.\n\nTip: Pair with a glass of water to stay hydrated, and avoid high-carb additives like paratha."
+  },
+  {
+    "instruction": "What should an Indian with type 2 diabetes eat for lunch?",
+    "input": "I’m an Indian with type 2 diabetes and need a lunch that won’t spike my blood sugar. I like fish and greens.",
+    "output": "Here’s a diabetes-friendly Indian lunch to keep your blood sugar stable:\n\n- **Lunch**: Fish curry (120g fish cooked with coconut milk, turmeric, and curry leaves) with 1/2 cup cooked millet and 1/2 cup sautéed methi (fenugreek leaves). (Approx. 400 kcal, 30g carbs, 30g protein, 15g fat)\n- **Why this works**: Millet has a low glycemic index to prevent blood sugar spikes, while fish and methi provide protein and fiber for satiety.\n\nTip: Check your blood sugar 1-2 hours after eating to ensure this meal works for you, and avoid sugary drinks."
+  },
+  {
+    "instruction": "Generate a high-protein vegetarian dinner for an Indian aiming for muscle gain.",
+    "input": "I’m an Indian vegetarian trying to build muscle and need a high-protein dinner idea. I like paneer and chana.",
+    "output": "Here’s a high-protein vegetarian Indian dinner to support your muscle gain:\n\n- **Dinner**: Paneer tikka (120g, marinated with turmeric and cumin) with 1/2 cup chana masala (chickpeas cooked with tomato and spices) and 1 small jowar roti. (Approx. 450 kcal, 40g carbs, 30g protein, 15g fat)\n- **Why this works**: Paneer and chana provide 30g of protein for muscle repair, while jowar roti offers carbs for energy, in an Indian style.\n\nTip: Eat this within an hour after your workout to maximize muscle protein synthesis."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for an Indian heart-healthy lunch.",
+    "input": "I’m an Indian focusing on heart health and need a lunch with a macronutrient breakdown. I like fish and whole grains.",
+    "output": "Here’s a heart-healthy Indian lunch with a macronutrient breakdown:\n\n- **Lunch**: Grilled pomfret (120g, marinated with turmeric and olive oil) with 1/2 cup cooked barley and 1/2 cup sautéed methi (fenugreek leaves). (Approx. 400 kcal, 35g carbs, 30g protein, 15g fat, 5g fiber)\n- **Why this works**: Pomfret provides omega-3s to reduce inflammation, while barley and methi offer fiber to support cholesterol levels, with Indian flavors.\n\nTip: Use minimal salt to keep sodium low, and pair with a glass of water."
+  },
+  {
+    "instruction": "Suggest a meal plan for an Indian doing a 14:10 intermittent fasting schedule.",
+    "input": "I’m an Indian doing a 14:10 intermittent fasting schedule and need a meal plan for my eating window. I like chicken and greens.",
+    "output": "Here’s a meal plan for your 14:10 intermittent fasting eating window (e.g., 10 AM to 8 PM):\n\n- **10 AM (First Meal)**: Chicken curry (120g chicken with turmeric, cumin, and tomato) with 1/2 cup cooked millet and 1/2 cup sautéed methi (fenugreek leaves). (Approx. 400 kcal)\n- **2 PM (Snack)**: 1/2 cup cucumber slices with a pinch of chaat masala. (Approx. 50 kcal)\n- **6 PM (Main Meal)**: Grilled chicken (150g, marinated with turmeric and chili) with 1 cup palak (spinach) sabzi and 1/2 cup steamed bottle gourd (lauki). (Approx. 450 kcal)\n- **Why this works**: This plan balances protein, carbs, and veggies to keep you satisfied within your eating window, with Indian flavors.\n\nTip: Stay hydrated during fasting with water or jeera water, and avoid snacking outside your window."
+  },
+  {
+    "instruction": "Suggest a low-FODMAP breakfast for an Indian with digestive issues.",
+    "input": "I’m an Indian with digestive issues and need a low-FODMAP breakfast. I like eggs and greens.",
+    "output": "Here’s a low-FODMAP Indian breakfast to ease your digestive issues:\n\n- **Breakfast**: Egg bhurji (2 eggs scrambled with 1 tsp coconut oil, turmeric, and 1 cup spinach) with a side of 1/2 cup cooked millet. (Approx. 250 kcal, 20g carbs, 15g protein, 10g fat)\n- **Why this works**: Eggs, spinach, and millet are low-FODMAP, making this meal gentle on your gut while providing Indian flavors.\n\nTip: Avoid high-FODMAP ingredients like garlic or onion, and eat slowly to aid digestion."
+  },
+  {
+    "instruction": "What’s a good nut-free substitute for cashew paste in an Indian curry?",
+    "input": "I’m an Indian allergic to nuts and need a substitute for cashew paste in my curry. I like seeds.",
+    "output": "Here’s a nut-free substitute for cashew paste in your Indian curry:\n\n- **Substitute**: Use sunflower seed paste instead of cashew paste. Blend 2 tbsp sunflower seeds with water to make a smooth paste, and use in your curry for creaminess. (Approx. 100 kcal per 2 tbsp)\n- **Why this works**: Sunflower seed paste provides a similar creamy texture and is nut-free, making it safe for your allergy while fitting Indian curries.\n\nTip: Add the paste towards the end of cooking to maintain its texture, and adjust spices to balance the flavor."
+  },
+  {
+    "instruction": "Generate a post-workout meal for an Indian swimmer focusing on muscle repair.",
+    "input": "I’m an Indian swimmer and need a post-workout meal for muscle repair after a long swim. I like fish and rice.",
+    "output": "Here’s a post-workout Indian meal to support muscle repair after your swim:\n\n- **Meal**: Fish curry (120g fish cooked with turmeric, cumin, and coconut milk) with 1/2 cup cooked basmati rice and 1/2 cup steamed bottle gourd (lauki). (Approx. 400 kcal, 35g carbs, 30g protein, 15g fat)\n- **Why this works**: Fish provides 25g of protein to repair muscles, while rice offers carbs to replenish glycogen stores, with Indian spices for flavor.\n\nTip: Eat within 30 minutes of your session to optimize recovery, and drink water to rehydrate."
+  },
+  {
+    "instruction": "Suggest a lunch for an Indian pregnant woman in her second trimester focusing on calcium.",
+    "input": "I’m an Indian in my second trimester of pregnancy and need a lunch to boost calcium. I like paneer and greens.",
+    "output": "Here’s a calcium-rich Indian lunch for your second trimester:\n\n- **Lunch**: Paneer sabzi (100g paneer cooked with cumin, coriander, and tomato) with 1/2 cup cooked amaranth (rajgira) and 1 cup sautéed methi (fenugreek leaves). (Approx. 400 kcal, 30g carbs, 20g protein, 20g fat)\n- **Why this works**: Paneer and amaranth provide calcium, while methi adds more calcium and vitamin K, essential for you and your baby.\n\nTip: Stay hydrated with water, and consider a prenatal vitamin if recommended by your doctor."
+  },
+  {
+    "instruction": "Create a grocery list for a budget-conscious Indian high-protein meal plan for one day.",
+    "input": "I’m an Indian on a high-protein diet and on a tight budget. I need a grocery list for a one-day meal plan. I like paneer and eggs.",
+    "output": "Here’s a budget-friendly grocery list for a one-day Indian high-protein meal plan:\n\n- **Grocery List**: 200g paneer ($1.50), 6 eggs ($1.50), 1 bunch spinach ($1), 1 small bottle mustard oil ($1 for a portion). Total: ~$5\n- **Meal Plan**: Breakfast – three-egg omelet with spinach; Lunch – paneer tikka (100g) with sautéed spinach; Dinner – paneer bhurji (100g) with spinach and a boiled egg.\n\nTip: Buy in bulk to save more, and use spices like cumin or turmeric you already have to add flavor."
+  },
+  {
+    "instruction": "Suggest a snack for focus during an Indian wedding planning session.",
+    "input": "I’m an Indian planning a wedding and need a snack to help me focus. I like fruit and seeds.",
+    "output": "Here’s a snack to boost your focus during your wedding planning session:\n\n- **Snack**: 1 small guava (100g) with 1 tbsp roasted pumpkin seeds, sprinkled with a pinch of chaat masala. (Approx. 150 kcal, 15g carbs, 3g protein, 5g fat)\n- **Why this works**: Guava provides natural sugars for a quick energy boost, while pumpkin seeds offer healthy fats and protein for sustained focus, with an Indian twist.\n\nTip: Keep a bottle of water nearby to stay hydrated, as dehydration can affect concentration."
+  },
+  {
+    "instruction": "What supplements should an Indian consider for energy during a triathlon training cycle?",
+    "input": "I’m an Indian training for a triathlon and want to know what supplements might help with energy. I eat a balanced diet.",
+    "output": "Here are some supplements to consider for energy during your triathlon training:\n\n- **Supplements**: 1) Ashwagandha (300-600mg daily) to boost stamina and reduce stress. 2) CoQ10 (100-200mg daily) to enhance mitochondrial function. 3) Electrolyte powder (as needed during sessions) to maintain hydration.\n- **Why this works**: Ashwagandha, a traditional Indian herb, improves endurance, CoQ10 supports energy production, and electrolytes prevent fatigue in training.\n\nTip: Consult a healthcare professional before starting supplements, and prioritize carbs in your diet for energy."
+  },
+  {
+    "instruction": "Generate a one-day meal plan for an Indian following a keto diet.",
+    "input": "I’m an Indian on a keto diet and need a one-day meal plan. I like chicken and spinach.",
+    "output": "Here’s a one-day keto Indian meal plan for you:\n\n- **Breakfast**: Egg bhurji (2 eggs scrambled with 1 tsp coconut oil, turmeric, and 1 cup spinach). (Approx. 200 kcal)\n- **Lunch**: Chicken tikka (120g, marinated with turmeric and cumin) with 1 cup palak (spinach) sabzi cooked in coconut oil. (Approx. 400 kcal)\n- **Snack**: 1/4 avocado with a pinch of rock salt. (Approx. 80 kcal)\n- **Dinner**: Chicken curry (150g chicken with coconut milk, turmeric, and curry leaves) with 1 cup steamed spinach. (Approx. 450 kcal)\n- **Why this works**: All meals are low-carb (under 20g total), high in healthy fats, and protein-focused to keep you in ketosis, with Indian flavors.\n\nTip: Stay hydrated with water, and monitor your carb intake to ensure you stay in ketosis."
+  },
+  {
+    "instruction": "Suggest a keto dinner for an Indian aiming for weight loss.",
+    "input": "I’m an Indian on a keto diet to lose weight and need a dinner idea. I like fish and coconut.",
+    "output": "Here’s a keto-friendly Indian dinner to support your weight loss:\n\n- **Dinner**: Fish fry (120g fish marinated with turmeric, chili, and coconut oil, pan-fried) with 1/2 cup coconut-based spinach curry (made with coconut milk). (Approx. 400 kcal, 5g carbs, 30g protein, 30g fat)\n- **Why this works**: Fish and coconut provide healthy fats to keep you in ketosis, with minimal carbs to support fat burning, in a South Indian style.\n\nTip: Use minimal seasoning to avoid hidden carbs, and drink water to stay hydrated."
+  },
+  {
+    "instruction": "What should an Indian with type 2 diabetes eat for breakfast?",
+    "input": "I’m an Indian with type 2 diabetes and need a breakfast that won’t spike my blood sugar. I like eggs and greens.",
+    "output": "Here’s a diabetes-friendly Indian breakfast to keep your blood sugar stable:\n\n- **Breakfast**: Egg bhurji (2 eggs scrambled with 1 tsp ghee, turmeric, and 1 cup methi leaves) with a side of 1/4 avocado. (Approx. 200 kcal, 5g carbs, 15g protein, 15g fat)\n- **Why this works**: Eggs and methi provide protein and fiber with minimal carbs to prevent blood sugar spikes, in an Indian style.\n\nTip: Check your blood sugar 1-2 hours after eating to ensure this meal works for you, and avoid sugary drinks."
+  },
+  {
+    "instruction": "Generate a high-protein vegan breakfast for an Indian aiming for muscle gain.",
+    "input": "I’m an Indian vegan trying to build muscle and need a high-protein breakfast idea. I like chana and spinach.",
+    "output": "Here’s a high-protein vegan Indian breakfast to support your muscle gain:\n\n- **Breakfast**: Chana chaat (1/2 cup cooked chickpeas with 1 cup spinach, cucumber, and chaat masala) with 1 tbsp roasted flaxseeds. (Approx. 250 kcal, 30g carbs, 15g protein, 5g fat)\n- **Why this works**: Chickpeas provide 15g of protein for muscle repair, while spinach and flaxseeds add nutrients and healthy fats, in an Indian style.\n\nTip: Eat this within an hour after your workout to maximize muscle protein synthesis."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for an Indian heart-healthy dinner.",
+    "input": "I’m an Indian focusing on heart health and need a dinner with a macronutrient breakdown. I like fish and greens.",
+    "output": "Here’s a heart-healthy Indian dinner with a macronutrient breakdown:\n\n- **Dinner**: Grilled pomfret (120g, marinated with turmeric and olive oil) with 1/2 cup cooked millet and 1 cup sautéed methi (fenugreek leaves). (Approx. 400 kcal, 30g carbs, 30g protein, 15g fat, 5g fiber)\n- **Why this works**: Pomfret provides omega-3s to reduce inflammation, while millet and methi offer fiber to support cholesterol levels, with Indian flavors.\n\nTip: Use minimal salt to keep sodium low, and pair with a glass of water."
+  },
+  {
+    "instruction": "Suggest a meal plan for an Indian doing a 16:8 intermittent fasting schedule.",
+    "input": "I’m an Indian doing a 16:8 intermittent fasting schedule and need a meal plan for my eating window. I like paneer and greens.",
+    "output": "Here’s a meal plan for your 16:8 intermittent fasting eating window (e.g., 12 PM to 8 PM):\n\n- **12 PM (First Meal)**: Paneer tikka (120g, marinated with turmeric and cumin) with 1/2 cup cooked millet and 1/2 cup sautéed methi (fenugreek leaves). (Approx. 400 kcal)\n- **3 PM (Snack)**: 1/2 cup cucumber slices with a pinch of chaat masala. (Approx. 50 kcal)\n- **6 PM (Main Meal)**: Paneer sabzi (120g paneer with tomato, cumin, and coriander) with 1 cup palak (spinach) sabzi and 1/2 cup steamed bottle gourd (lauki). (Approx. 450 kcal)\n- **Why this works**: This plan provides balanced nutrients within your eating window, with protein and veggies to keep you full, tailored to Indian tastes.\n\nTip: Stay hydrated during your fasting window with water or jeera water, and avoid snacking outside your eating hours."
+  },
+  {
+    "instruction": "Suggest a low-FODMAP dinner for an Indian with IBS.",
+    "input": "I’m an Indian with IBS and need a low-FODMAP dinner. I like fish and greens.",
+    "output": "Here’s a low-FODMAP Indian dinner to ease your IBS symptoms:\n\n- **Dinner**: Grilled fish (120g, marinated with turmeric and cumin) with 1/2 cup cooked rice and 1/2 cup steamed bottle gourd (lauki). (Approx. 400 kcal, 35g carbs, 30g protein, 10g fat)\n- **Why this works**: Fish, rice, and lauki are low-FODMAP, making this meal gentle on your gut while providing Indian flavors.\n\nTip: Avoid high-FODMAP ingredients like garlic or onion, and eat slowly to aid digestion."
+  },
+  {
+    "instruction": "What’s a good dairy-free substitute for ghee in an Indian recipe?",
+    "input": "I’m dairy-free due to an allergy and need a substitute for ghee in my Indian cooking. I like coconut flavors.",
+    "output": "Here’s a dairy-free substitute for ghee in your Indian cooking:\n\n- **Substitute**: Use coconut oil instead of ghee. Replace ghee with an equal amount of coconut oil (e.g., 1 tbsp coconut oil for 1 tbsp ghee) for a similar rich flavor. (Approx. 120 kcal per tbsp)\n- **Why this works**: Coconut oil provides a rich, nutty flavor similar to ghee, with a coconut taste you enjoy, while being dairy-free.\n\nTip: Use refined coconut oil if you prefer a less coconutty flavor, and adjust spices to balance the dish."
+  },
+  {
+    "instruction": "Generate a pre-workout meal for an Indian cyclist focusing on endurance.",
+    "input": "I’m an Indian cyclist and need a pre-workout meal for endurance before a long ride. I like roti and dal.",
+    "output": "Here’s a pre-workout Indian meal to boost your endurance for your cycling ride:\n\n- **Meal**: 1 small whole wheat roti with 1/2 cup moong dal (seasoned with cumin and coriander) and a side of 1/4 cup curd. (Approx. 300 kcal, 40g carbs, 15g protein, 5g fat)\n- **Why this works**: Roti and dal provide complex carbs for sustained energy, while curd aids digestion, fueling your long ride.\n\nTip: Eat this 1-2 hours before your ride to allow for digestion, and sip water to stay hydrated."
+  },
+  {
+    "instruction": "Suggest a breakfast for an Indian postpartum mom focusing on healing.",
+    "input": "I’m an Indian postpartum mom and need a breakfast to support healing. I like fish and greens.",
+    "output": "Here’s an Indian breakfast to support healing during your postpartum recovery:\n\n- **Breakfast**: Fish fry (100g fish marinated with turmeric, chili, and coconut oil, pan-fried) with 1 cup sautéed methi (fenugreek leaves) and 1/4 cup grated coconut. (Approx. 300 kcal, 10g carbs, 25g protein, 15g fat)\n- **Why this works**: Fish provides protein and omega-3s, while methi supports lactation and healing, and coconut adds healthy fats, all beneficial for postpartum recovery.\n\nTip: Stay hydrated with water or a glass of jeera water, and take short rests to recharge."
+  },
+  {
+    "instruction": "Create a grocery list for a budget-conscious Indian keto meal plan for one day.",
+    "input": "I’m an Indian on a keto diet and on a tight budget. I need a grocery list for a one-day meal plan. I like paneer and spinach.",
+    "output": "Here’s a budget-friendly grocery list for a one-day Indian keto meal plan:\n\n- **Grocery List**: 200g paneer ($1.50), 1 bunch spinach ($1), 1 small bottle coconut oil ($1 for a portion), 4 eggs ($1). Total: ~$4.50\n- **Meal Plan**: Breakfast – two-egg omelet with spinach; Lunch – paneer tikka (100g) with sautéed spinach; Dinner – paneer bhurji (100g) with spinach cooked in coconut oil.\n\nTip: Buy in bulk to save more, and use spices like turmeric or cumin you already have to add flavor."
+  },
+  {
+    "instruction": "Suggest a snack for energy during an Indian road trip to a pilgrimage site.",
+    "input": "I’m an Indian on a road trip to Tirupati and need a snack for sustained energy. I like jaggery and seeds.",
+    "output": "Here’s an energizing snack for your road trip to Tirupati:\n\n- **Snack**: Jaggery and seed laddoo (1 small laddoo made with 1 tbsp melted jaggery, 1 tbsp roasted pumpkin seeds, and a pinch of cardamom). (Approx. 150 kcal, 15g carbs, 3g protein, 5g fat)\n- **Why this works**: Jaggery provides quick-digesting carbs for energy, while pumpkin seeds offer healthy fats and protein for sustained fuel, perfect for a pilgrimage journey.\n\nTip: Pack in a small container to avoid overeating, and sip water to stay hydrated on the road."
+  },
+  {
+    "instruction": "What supplements should an Indian consider for immune support during monsoon season?",
+    "input": "I’m an Indian in the monsoon season and want to know what supplements might help with immune support. I eat a balanced diet.",
+    "output": "Here are some supplements to consider for immune support during the monsoon season:\n\n- **Supplements**: 1) Vitamin C (500-1000mg daily) to boost immune function. 2) Tulsi extract (300-500mg daily), an Ayurvedic herb, to support immunity. 3) Probiotics (10-20 billion CFU daily) to support gut health.\n- **Why this works**: Vitamin C and tulsi help fight infections common in monsoon, while probiotics support gut health, which is key for immunity.\n\nTip: Consult a healthcare professional before starting supplements, and prioritize hygiene to avoid monsoon-related illnesses."
+  },
+  {
+    "instruction": "Generate a one-day meal plan for an Indian following a paleo diet.",
+    "input": "I’m an Indian on a paleo diet and need a one-day meal plan. I like fish and yam.",
+    "output": "Here’s a one-day paleo Indian meal plan for you:\n\n- **Breakfast**: Egg masala (2 eggs scrambled with 1 tsp coconut oil, turmeric, and cumin) with 1/4 cup grated coconut. (Approx. 200 kcal)\n- **Lunch**: Fish fry (120g fish marinated with turmeric, chili, and coconut oil, pan-fried) with 1/2 cup roasted yam (suran). (Approx. 400 kcal)\n- **Snack**: 1/2 cup cucumber slices with a pinch of rock salt. (Approx. 50 kcal)\n- **Dinner**: Fish curry (150g fish with coconut milk, turmeric, and curry leaves) with 1/2 cup steamed yam and 1/2 cup spinach. (Approx. 450 kcal)\n- **Why this works**: All meals are grain-free, dairy-free, and focused on whole foods, aligning with paleo principles while providing Indian flavors.\n\nTip: Use coconut oil and fresh spices for flavor, and stay hydrated with water throughout the day."
+  },
+  {
+    "instruction": "Suggest a keto breakfast for an Indian aiming for weight loss.",
+    "input": "I’m an Indian on a keto diet to lose weight and need a breakfast idea. I like fish and coconut.",
+    "output": "Here’s a keto-friendly Indian breakfast to support your weight loss:\n\n- **Breakfast**: Fish fry (100g fish marinated with turmeric, chili, and coconut oil, pan-fried) with 1/4 cup grated coconut mixed with a pinch of mustard seeds. (Approx. 300 kcal, 5g carbs, 25g protein, 20g fat)\n- **Why this works**: Fish and coconut provide healthy fats to keep you in ketosis, with minimal carbs to support fat burning, in a South Indian style.\n\nTip: Pair with a glass of water to stay hydrated, and avoid high-carb additives."
+  },
+  {
+    "instruction": "What should an Indian with type 2 diabetes eat for dinner?",
+    "input": "I’m an Indian with type 2 diabetes and need a dinner that won’t spike my blood sugar. I like chicken and greens.",
+    "output": "Here’s a diabetes-friendly Indian dinner to keep your blood sugar stable:\n\n- **Dinner**: Chicken curry (120g chicken cooked with turmeric, cumin, and tomato) with 1/2 cup cooked millet and 1 cup sautéed methi (fenugreek leaves). (Approx. 400 kcal, 30g carbs, 35g protein, 15g fat)\n- **Why this works**: Millet has a low glycemic index to prevent blood sugar spikes, while chicken and methi provide protein and fiber for satiety.\n\nTip: Check your blood sugar 1-2 hours after eating to ensure this meal works for you, and avoid sugary drinks."
+  },
+  {
+    "instruction": "Generate a high-protein vegetarian breakfast for an Indian aiming for muscle maintenance.",
+    "input": "I’m an Indian vegetarian trying to maintain muscle and need a high-protein breakfast idea. I like eggs and dal.",
+    "output": "Here’s a high-protein vegetarian Indian breakfast to maintain your muscle:\n\n- **Breakfast**: Egg bhurji (2 eggs scrambled with 1 tsp ghee, turmeric, and 1/4 cup cooked moong dal) with 1/2 cup sautéed spinach. (Approx. 250 kcal, 10g carbs, 20g protein, 15g fat)\n- **Why this works**: Eggs and dal provide 20g of protein for muscle maintenance, while spinach adds nutrients, in an Indian style.\n\nTip: Pair with a glass of water to stay hydrated, and eat after your workout for best results."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for an Indian heart-healthy breakfast.",
+    "input": "I’m an Indian focusing on heart health and need a breakfast with a macronutrient breakdown. I like fish and greens.",
+    "output": "Here’s a heart-healthy Indian breakfast with a macronutrient breakdown:\n\n- **Breakfast**: Fish fry (100g fish marinated with turmeric, chili, and olive oil, pan-fried) with 1 cup sautéed methi (fenugreek leaves) and 1/4 cup grated coconut. (Approx. 300 kcal, 5g carbs, 25g protein, 20g fat, 3g fiber)\n- **Why this works**: Fish provides omega-3s to reduce inflammation, while methi and coconut offer fiber and healthy fats for heart health, with Indian flavors.\n\nTip: Use minimal salt to keep sodium low, and pair with a glass of water."
+  },
+  {
+    "instruction": "Suggest a meal plan for an Indian doing a 14:10 intermittent fasting schedule.",
+    "input": "I’m an Indian doing a 14:10 intermittent fasting schedule and need a meal plan for my eating window. I like fish and greens.",
+    "output": "Here’s a meal plan for your 14:10 intermittent fasting eating window (e.g., 10 AM to 8 PM):\n\n- **10 AM (First Meal)**: Fish curry (120g fish cooked with coconut milk, turmeric, and curry leaves) with 1/2 cup cooked millet and 1/2 cup sautéed methi (fenugreek leaves). (Approx. 400 kcal)\n- **2 PM (Snack)**: 1/2 cup cucumber slices with a pinch of chaat masala. (Approx. 50 kcal)\n- **6 PM (Main Meal)**: Grilled pomfret (150g, marinated with turmeric and chili) with 1 cup palak (spinach) sabzi and 1/2 cup steamed bottle gourd (lauki). (Approx. 450 kcal)\n- **Why this works**: This plan balances protein, carbs, and veggies to keep you satisfied within your eating window, with Indian flavors.\n\nTip: Stay hydrated during fasting with water or jeera water, and avoid snacking outside your window."
+  },
+  {
+    "instruction": "Suggest a low-FODMAP snack for an Indian with digestive issues.",
+    "input": "I’m an Indian with digestive issues and need a low-FODMAP snack. I like fruit and seeds.",
+    "output": "Here’s a low-FODMAP Indian snack to ease your digestive issues:\n\n- **Snack**: 1/2 cup papaya with 1 tbsp roasted pumpkin seeds, sprinkled with a pinch of cumin. (Approx. 100 kcal, 10g carbs, 2g protein, 5g fat)\n- **Why this works**: Papaya (in small portions) and pumpkin seeds are low-FODMAP, making them gentle on your gut while providing an Indian-inspired snack.\n\nTip: Stick to small portions of fruit to avoid FODMAP overload, and eat slowly to aid digestion."
+  },
+  {
+    "instruction": "What’s a good soy-free substitute for tofu in an Indian vegan recipe?",
+    "input": "I’m an Indian vegan but allergic to soy, and I need a substitute for tofu in my sabzi. I like jackfruit.",
+    "output": "Here’s a soy-free substitute for tofu in your Indian vegan sabzi:\n\n- **Substitute**: Use young jackfruit instead of tofu. Cube 1/2 cup young jackfruit (canned, rinsed) and cook with your sabzi spices for a meaty texture. (Approx. 50 kcal per 1/2 cup)\n- **Why this works**: Jackfruit mimics the texture of tofu, absorbing Indian spices well while being soy-free and plant-based.\n\nTip: Cook jackfruit until tender, and pair with a tomato-based sabzi for best results."
+  },
+  {
+    "instruction": "Generate a post-workout meal for an Indian gym-goer focusing on muscle recovery.",
+    "input": "I’m an Indian gym-goer and need a post-workout meal for muscle recovery. I like paneer and roti.",
+    "output": "Here’s a post-workout Indian meal to support your muscle recovery:\n\n- **Meal**: Paneer sabzi (120g paneer cooked with cumin, coriander, and tomato) with 1 small whole wheat roti and 1/2 cup steamed bottle gourd (lauki). (Approx. 400 kcal, 35g carbs, 25g protein, 15g fat)\n- **Why this works**: Paneer provides 20g of protein to repair muscles, while roti offers carbs to replenish glycogen stores, with Indian spices for flavor.\n\nTip: Eat within 30 minutes of your workout to maximize recovery, and drink water to rehydrate."
+  },
+  {
+    "instruction": "Suggest a lunch for an Indian pregnant woman."
+  }
+]

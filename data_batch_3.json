@@ -1,0 +1,392 @@
+[
+  {
+    "instruction": "Suggest a low-carb breakfast for a Keralite with type 2 diabetes.",
+    "input": "I’m from Kerala with type 2 diabetes and need a low-carb breakfast. I like fish and coconut.",
+    "output": "Here’s a low-carb Kerala-inspired breakfast to manage your type 2 diabetes:\n\n- **Breakfast**: Fish fry (100g fish marinated with turmeric, chili, and 1 tsp coconut oil, pan-fried) with 1/4 cup grated coconut mixed with a pinch of cumin. (Approx. 250 kcal, 5g carbs, 25g protein, 15g fat)\n- **Why this works**: Fish provides protein to stabilize blood sugar, while coconut adds healthy fats with minimal carbs, fitting a low-carb Kerala profile.\n\nTip: Monitor your blood sugar after eating, and avoid high-carb sides like appam or idiyappam."
+  },
+  {
+    "instruction": "Generate a high-fiber vegetarian lunch for a Punjabi aiming for weight loss.",
+    "input": "I’m from Punjab, vegetarian, trying to lose weight, and need a high-fiber lunch. I like dal and spinach.",
+    "output": "Here’s a high-fiber Punjabi vegetarian lunch for weight loss:\n\n- **Lunch**: Sarson ka saag (1 cup, made with spinach and mustard greens, minimal ghee) with 1/2 cup chana dal and 1 small makki ki roti. (Approx. 350 kcal, 45g carbs, 15g protein, 10g fat, 12g fiber)\n- **Why this works**: Sarson ka saag and chana dal are fiber-rich to keep you full, while makki ki roti adds whole grains in moderation for a calorie deficit.\n\nTip: Use minimal ghee to keep calories low, and pair with a glass of water to stay hydrated."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for a Karnataka paleo snack.",
+    "input": "I’m from Karnataka on a paleo diet and need a snack with a macronutrient breakdown. I like coconut and seeds.",
+    "output": "Here’s a Karnataka-inspired paleo snack with a macronutrient breakdown:\n\n- **Snack**: Coconut and seed laddoo (1 small laddoo made with 1/4 cup grated coconut, 1 tbsp roasted pumpkin seeds, and a pinch of cardamom). (Approx. 150 kcal, 5g carbs, 3g protein, 12g fat, 2g fiber)\n- **Why this works**: Coconut provides healthy fats, while pumpkin seeds add protein, fitting paleo guidelines with Karnataka’s coconut-centric flavors.\n\nTip: Enjoy this as a mid-afternoon snack, and avoid non-paleo ingredients like grains or dairy."
+  },
+  {
+    "instruction": "Suggest a meal plan for a Delhi resident doing a 12:12 intermittent fasting schedule during Holi.",
+    "input": "I’m from Delhi doing a 12:12 intermittent fasting schedule during Holi and need a meal plan for my eating window. I like festive foods like gujiya and paneer.",
+    "output": "Here’s a Holi-inspired meal plan for your 12:12 intermittent fasting eating window (e.g., 8 AM to 8 PM) in Delhi:\n\n- **8 AM (First Meal)**: Paneer tikka (100g, marinated with turmeric and cumin) with 1/2 cup cucumber raita. (Approx. 300 kcal)\n- **1 PM (Snack)**: 1 small gujiya (baked, made with whole wheat flour and minimal jaggery filling). (Approx. 150 kcal)\n- **6 PM (Main Meal)**: Paneer bhurji (100g) with 1/2 cup steamed veggies (carrots, beans) and 1 small whole wheat roti. (Approx. 400 kcal)\n- **Why this works**: These meals incorporate Delhi’s love for paneer and festive gujiya, providing balanced nutrition within your eating window.\n\nTip: Stay hydrated with water or thandai (without nuts if allergic), and avoid deep-fried festive snacks."
+  },
+  {
+    "instruction": "Suggest a low-FODMAP dinner for a Keralite with IBS.",
+    "input": "I’m from Kerala with IBS and need a low-FODMAP dinner. I like fish and rice.",
+    "output": "Here’s a low-FODMAP Kerala-inspired dinner for IBS management:\n\n- **Dinner**: Grilled fish (120g, marinated with turmeric and cumin) with 1/2 cup cooked white rice and 1/2 cup steamed beans thoran (made without onion/garlic). (Approx. 400 kcal, 35g carbs, 30g protein, 10g fat)\n- **Why this works**: Fish, rice, and beans are low-FODMAP, making this meal gentle on your gut while reflecting Kerala’s coastal flavors.\n\nTip: Avoid high-FODMAP ingredients like garlic or onion, and chew slowly to aid digestion."
+  },
+  {
+    "instruction": "What’s a good dairy-free substitute for paneer in a Punjabi recipe?",
+    "input": "I’m from Punjab, dairy-free due to an allergy, and need a substitute for paneer in my curry. I like tofu.",
+    "output": "Here’s a dairy-free substitute for paneer in your Punjabi curry:\n\n- **Substitute**: Use firm tofu instead of paneer. Cube 100g firm tofu and lightly pan-fry with turmeric and garam masala to mimic paneer’s texture in your curry. (Approx. 80 kcal per 100g)\n- **Why this works**: Tofu provides a similar texture and protein content, absorbing Punjabi spices like paneer would, while being dairy-free.\n\nTip: Add the tofu towards the end of cooking to maintain its texture, and pair with a tomato-based curry for a classic Punjabi taste."
+  },
+  {
+    "instruction": "Generate a pre-workout snack for a Karnataka yoga practitioner focusing on flexibility.",
+    "input": "I’m from Karnataka, practicing yoga, and need a pre-workout snack for flexibility before my session. I like bananas and seeds.",
+    "output": "Here’s a pre-workout snack to support flexibility for your yoga session in Karnataka:\n\n- **Snack**: 1 small banana (100g) with 1 tbsp roasted sunflower seeds, sprinkled with a pinch of cardamom. (Approx. 150 kcal, 20g carbs, 3g protein, 5g fat)\n- **Why this works**: Bananas provide potassium to support muscle function and flexibility, while sunflower seeds offer protein for energy, with a Karnataka-inspired spice.\n\nTip: Eat this 30-60 minutes before your session to allow for digestion, and sip water to stay hydrated."
+  },
+  {
+    "instruction": "Suggest a dinner for a Delhi breastfeeding mom focusing on energy.",
+    "input": "I’m from Delhi, a breastfeeding mom, and need a dinner to boost my energy. I like chicken and greens.",
+    "output": "Here’s an energy-boosting dinner for a breastfeeding mom in Delhi:\n\n- **Dinner**: Chicken kebab (120g, marinated with turmeric, cumin, and yogurt) with 1/2 cup cooked quinoa and 1 cup sautéed palak (spinach). (Approx. 450 kcal, 30g carbs, 35g protein, 15g fat)\n- **Why this works**: Chicken provides protein for sustained energy, quinoa offers carbs, and spinach adds iron, supporting your needs as a breastfeeding mom with Delhi’s kebab tradition.\n\nTip: Stay hydrated with water or a glass of jeera water, as hydration is key for energy and milk production."
+  },
+  {
+    "instruction": "Create a grocery list for a budget-conscious Keralite low-carb meal plan for one day.",
+    "input": "I’m from Kerala on a low-carb diet and on a tight budget. I need a grocery list for a one-day meal plan. I like fish and coconut.",
+    "output": "Here’s a budget-friendly grocery list for a one-day low-carb Kerala meal plan:\n\n- **Grocery List**: 300g fish ($2), 1 small coconut ($1), 1 bunch spinach ($1), 1 small bottle coconut oil ($1 for a portion). Total: ~$5\n- **Meal Plan**: Breakfast – fish fry (100g) with grated coconut; Lunch – fish curry (100g) with spinach thoran; Dinner – grilled fish (100g) with coconut and spinach stir-fry.\n\nTip: Buy fish in bulk to save more, and use spices like turmeric or curry leaves you already have to enhance flavor."
+  },
+  {
+    "instruction": "Suggest a snack for a Punjabi child with a nut allergy looking for a treat during Lohri.",
+    "input": "My Punjabi child has a nut allergy and needs a Lohri snack that feels like a treat. They like jaggery and popcorn.",
+    "output": "Here’s a nut-free Lohri snack for your child in Punjab:\n\n- **Snack**: Jaggery popcorn (1/2 cup popcorn mixed with 1 tbsp melted jaggery and a pinch of cardamom). (Approx. 150 kcal, 25g carbs, 2g protein, 2g fat)\n- **Why this works**: Popcorn and jaggery create a festive treat without nuts, perfect for Lohri celebrations in Punjab.\n\nTip: Ensure the popcorn is plain and not mixed with nuts, and let it cool before serving to avoid stickiness."
+  },
+  {
+    "instruction": "What should a Keralite eat after a workout to reduce inflammation?",
+    "input": "I’m from Kerala, just finished a HIIT workout, and need a post-workout meal to reduce inflammation. I like fish and turmeric.",
+    "output": "Here’s a post-workout meal to reduce inflammation for a Keralite:\n\n- **Meal**: Fish curry (120g fish cooked with 1/2 tsp turmeric, cumin, and coconut milk) with 1/2 cup steamed beans thoran (made with coconut). (Approx. 350 kcal, 10g carbs, 30g protein, 20g fat)\n- **Why this works**: Fish provides omega-3s, and turmeric offers anti-inflammatory curcumin, while beans thoran adds hydration, all in a Kerala style.\n\nTip: Eat within 30 minutes of your session to optimize recovery, and drink water to rehydrate."
+  },
+  {
+    "instruction": "Generate a gluten-free dinner for a Delhi resident following a paleo diet.",
+    "input": "I’m from Delhi on a paleo diet and need a gluten-free dinner idea. I like chicken and greens.",
+    "output": "Here’s a gluten-free, paleo-friendly dinner for a Delhi resident:\n\n- **Dinner**: Chicken kebab (120g, marinated with turmeric, cumin, and olive oil) with 1 cup sautéed palak (spinach) and 1/2 cup steamed sweet potato. (Approx. 400 kcal, 20g carbs, 35g protein, 15g fat)\n- **Why this works**: Chicken and spinach provide protein and nutrients, while sweet potato offers paleo-friendly carbs, all with Delhi’s kebab flair.\n\nTip: Grill the chicken to keep it light, and avoid non-paleo ingredients like grains or dairy."
+  },
+  {
+    "instruction": "Suggest a high-protein vegetarian breakfast for a Karnataka resident aiming for weight maintenance.",
+    "input": "I’m from Karnataka, vegetarian, trying to maintain my weight, and need a high-protein breakfast. I like dosa and dal.",
+    "output": "Here’s a high-protein vegetarian breakfast for weight maintenance in Karnataka:\n\n- **Breakfast**: Moong dal dosa (1 dosa made with moong dal batter, served with 1 tbsp coconut chutney) with a side of 1/4 cup boiled chana. (Approx. 250 kcal, 30g carbs, 15g protein, 5g fat)\n- **Why this works**: Moong dal provides 15g of protein to keep you full, while chana adds more protein, balancing your calorie intake with Karnataka’s dosa tradition.\n\nTip: Use minimal oil to keep calories in check, and pair with a glass of water to stay hydrated."
+  },
+  {
+    "instruction": "What’s a good hydration strategy for a Punjabi training for a marathon in hot weather?",
+    "input": "I’m from Punjab, training for a marathon in hot weather, and need a hydration strategy. I sweat heavily during runs.",
+    "output": "Here’s a hydration strategy for your marathon training in hot weather in Punjab:\n\n- **Strategy**: Drink 20-24 oz of water with a pinch of rock salt 2 hours before your run. During your run, sip 7-10 oz of coconut water every 15 minutes to replenish electrolytes. Post-run, drink 20 oz of water with a squeeze of lime within 30 minutes to rehydrate.\n- **Why this works**: Pre-hydration prepares you, coconut water replaces electrolytes lost through heavy sweating, and lime water aids recovery in hot conditions.\n\nTip: Monitor your urine color—it should be pale yellow—and adjust intake based on humidity levels."
+  },
+  {
+    "instruction": "Generate a meal prep plan for a busy Delhi professional aiming for weight loss.",
+    "input": "I’m a busy professional from Delhi trying to lose weight and need a meal prep plan for 3 days. I like paneer and roti.",
+    "output": "Here’s a 3-day meal prep plan for weight loss for a busy Delhi professional:\n\n- **Meal**: Cook 3 cups paneer sabzi (paneer with tomato, cumin, and coriander) and prepare 6 small whole wheat rotis with 6 cups of mixed veggie sabzi (zucchini, spinach, cooked with minimal oil). Divide into 3 portions: each with 1 cup paneer sabzi, 2 rotis, and 2 cups veggie sabzi. (Approx. 450 kcal per meal, 60g carbs, 20g protein, 10g fat)\n- **Why this works**: Paneer provides protein to keep you full, while rotis and veggies offer balanced carbs for a calorie deficit, with Delhi’s paneer love.\n\nTip: Store in airtight containers, reheat gently, and eat one portion daily with a side of water to stay hydrated."
+  },
+  {
+    "instruction": "Suggest a snack for sustained energy during a Keralite trekking trip in Munnar.",
+    "input": "I’m from Kerala going on a trekking trip in Munnar and need a snack for sustained energy. I like dried fruit and seeds.",
+    "output": "Here’s an energizing snack for your trekking trip in Munnar, Kerala:\n\n- **Snack**: A small handful of dried bananas (30g) mixed with 1 tbsp roasted pumpkin seeds, sprinkled with a pinch of cardamom. (Approx. 150 kcal, 20g carbs, 3g protein, 5g fat)\n- **Why this works**: Dried bananas provide quick-digesting carbs for energy, while pumpkin seeds offer healthy fats and protein, with a Kerala-inspired spice.\n\nTip: Pack in a small container to avoid overeating, and sip water to stay hydrated at high altitudes."
+  },
+  {
+    "instruction": "What supplements should a Punjabi consider for muscle endurance during Bhangra dance practice?",
+    "input": "I’m from Punjab, practicing Bhangra dance, and want to know what supplements might help with muscle endurance. I eat a balanced diet.",
+    "output": "Here are some supplements to consider for muscle endurance during Bhangra practice in Punjab:\n\n- **Supplements**: 1) Ashwagandha (300-600mg daily) to reduce stress and improve stamina. 2) L-carnitine (1-2g daily) to enhance fat metabolism. 3) Electrolyte tablets (as needed during practice) to maintain hydration.\n- **Why this works**: Ashwagandha, a traditional Indian herb, supports endurance, L-carnitine aids energy production, and electrolytes prevent cramps during intense dance sessions.\n\nTip: Consult a healthcare professional before starting supplements, and prioritize hydration during practice."
+  },
+  {
+    "instruction": "Generate a one-day meal plan for a Karnataka resident following a Mediterranean diet.",
+    "input": "I’m from Karnataka on a Mediterranean diet and need a one-day meal plan. I like fish and whole grains.",
+    "output": "Here’s a one-day Mediterranean diet meal plan with a Karnataka twist:\n\n- **Breakfast**: 1/2 cup cooked ragi porridge with 1/4 cup chopped dates and a pinch of cardamom. (Approx. 250 kcal)\n- **Lunch**: Grilled fish (120g, marinated with olive oil and turmeric) with 1/2 cup cooked foxtail millet and 1/2 cup sautéed spinach. (Approx. 400 kcal)\n- **Snack**: A small pear (100g) with a handful of olives (50g). (Approx. 150 kcal)\n- **Dinner**: Baked fish (150g) with 1/2 cup foxtail millet and 1/2 cup steamed beans in olive oil. (Approx. 450 kcal)\n- **Why this works**: This plan emphasizes whole grains, fish, and veggies, aligning with Mediterranean principles while using Karnataka’s millets and spices.\n\nTip: Use extra virgin olive oil for cooking, and stay hydrated with water throughout the day."
+  },
+  {
+    "instruction": "Suggest a keto snack for a Delhi resident aiming for weight loss.",
+    "input": "I’m from Delhi on a keto diet to lose weight and need a snack idea. I like paneer and greens.",
+    "output": "Here’s a keto-friendly snack for weight loss in Delhi:\n\n- **Snack**: Paneer tikka (50g, marinated with turmeric and cumin) with 1/4 cup sautéed palak (spinach). (Approx. 150 kcal, 3g carbs, 10g protein, 12g fat)\n- **Why this works**: Paneer and spinach provide healthy fats to keep you in ketosis, with minimal carbs to support fat burning, in a Delhi style.\n\nTip: Keep portions small to stay within your calorie goals, and pair with water to stay hydrated."
+  },
+  {
+    "instruction": "What should a Keralite eat for breakfast to support gut health?",
+    "input": "I’m from Kerala focusing on gut health and need a breakfast idea. I like curd and bananas.",
+    "output": "Here’s a gut-healthy breakfast for a Keralite:\n\n- **Breakfast**: 1 cup plain curd with 1 small banana (100g) and 1 tbsp roasted flaxseeds, sprinkled with a pinch of cardamom. (Approx. 250 kcal, 30g carbs, 10g protein, 10g fat)\n- **Why this works**: Curd provides probiotics, bananas offer prebiotic fiber, and flaxseeds add omega-3s, supporting gut health with Kerala’s curd tradition.\n\nTip: Choose unsweetened curd to avoid added sugars, and eat slowly to aid digestion."
+  },
+  {
+    "instruction": "Generate a high-protein vegan dinner for a Punjabi aiming for muscle gain.",
+    "input": "I’m from Punjab, vegan, trying to build muscle, and need a high-protein dinner idea. I like chana and greens.",
+    "output": "Here’s a high-protein vegan dinner for muscle gain in Punjab:\n\n- **Dinner**: Chana masala (1 cup cooked chickpeas with tomato, cumin, and coriander) with 1 cup sautéed mustard greens (sarson) and 1 small makki ki roti. (Approx. 450 kcal, 50g carbs, 20g protein, 15g fat)\n- **Why this works**: Chickpeas provide 15g of protein for muscle repair, while makki roti offers carbs for energy, and mustard greens add iron, all in a Punjabi style.\n\nTip: Eat this within an hour after your workout to maximize muscle protein synthesis."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for a low-FODMAP Karnataka lunch.",
+    "input": "I’m from Karnataka on a low-FODMAP diet and need a lunch with a macronutrient breakdown. I like rice and greens.",
+    "output": "Here’s a low-FODMAP Karnataka lunch with a macronutrient breakdown:\n\n- **Lunch**: 1/2 cup cooked white rice with 1 cup steamed beans sabzi (made with minimal spices, no onion/garlic) and 1 boiled egg. (Approx. 300 kcal, 35g carbs, 10g protein, 10g fat, 3g fiber)\n- **Why this works**: Rice, beans, and egg are low-FODMAP, providing balanced nutrition with Karnataka’s simple sabzi style.\n\nTip: Avoid high-FODMAP ingredients like garlic or onion, and drink water to aid digestion."
+  },
+  {
+    "instruction": "Suggest a meal plan for a Delhi resident doing a 20:4 intermittent fasting schedule during Diwali.",
+    "input": "I’m from Delhi doing a 20:4 intermittent fasting schedule during Diwali and need a meal plan for my eating window. I like paneer and festive sweets.",
+    "output": "Here’s a Diwali-inspired meal plan for your 20:4 intermittent fasting eating window (e.g., 7 PM to 11 PM) in Delhi:\n\n- **7 PM (First Meal)**: Paneer tikka (120g, marinated with turmeric and cumin) with 1/2 cup cucumber raita. (Approx. 350 kcal)\n- **9 PM (Main Meal)**: Paneer bhurji (120g) with 1/2 cup steamed veggies (carrots, beans) and 1 small baked kaju katli (made with minimal sugar). (Approx. 450 kcal)\n- **Why this works**: Paneer provides protein to keep you full, while a small festive sweet satisfies cravings, tailored for Diwali celebrations in Delhi.\n\nTip: Stay hydrated with water between meals, and avoid fried festive foods to prevent bloating during fasting."
+  },
+  {
+    "instruction": "Suggest a gluten-free breakfast for a Keralite with celiac disease.",
+    "input": "I’m from Kerala with celiac disease and need a gluten-free breakfast. I like coconut and eggs.",
+    "output": "Here’s a gluten-free breakfast for a Keralite with celiac disease:\n\n- **Breakfast**: Egg appam (1 appam made with coconut milk and rice flour, topped with 1 scrambled egg) with 1/4 cup grated coconut. (Approx. 200 kcal, 15g carbs, 10g protein, 10g fat)\n- **Why this works**: Eggs and coconut are naturally gluten-free, providing a balanced breakfast with Kerala’s appam tradition, safe for celiac disease.\n\nTip: Use a non-stick pan to cook your appam, and double-check spices for gluten-containing additives."
+  },
+  {
+    "instruction": "What’s a good dairy-free substitute for curd in a Karnataka recipe?",
+    "input": "I’m from Karnataka, dairy-free due to an allergy, and need a substitute for curd in my raita. I like coconut flavors.",
+    "output": "Here’s a dairy-free substitute for curd in your Karnataka raita:\n\n- **Substitute**: Use coconut yogurt instead of curd. Mix 1/2 cup coconut yogurt with cucumber, cumin, and a pinch of rock salt to make a dairy-free raita. (Approx. 100 kcal per 1/2 cup)\n- **Why this works**: Coconut yogurt provides a creamy texture and tangy flavor, mimicking curd while adding a coconut taste, perfect for Karnataka dishes.\n\nTip: Chill the raita before serving for a refreshing side, and pair with a spicy sabzi."
+  },
+  {
+    "instruction": "Generate a post-workout meal for a Punjabi runner focusing on glycogen replenishment.",
+    "input": "I’m from Punjab, a runner, and need a post-workout meal for glycogen replenishment after a speed session. I like chicken and roti.",
+    "output": "Here’s a post-workout meal for glycogen replenishment for a Punjabi runner:\n\n- **Meal**: Chicken curry (120g chicken with tomato, cumin, and coriander) with 1 small whole wheat roti and 1/2 cup steamed peas. (Approx. 450 kcal, 40g carbs, 35g protein, 15g fat)\n- **Why this works**: Chicken provides protein to repair muscles, while roti and peas offer carbs to replenish glycogen stores, with Punjabi flavors.\n\nTip: Eat within 30 minutes of your session to optimize recovery, and drink water to rehydrate."
+  },
+  {
+    "instruction": "Suggest a lunch for a Delhi pregnant woman in her third trimester focusing on iron.",
+    "input": "I’m from Delhi in my third trimester of pregnancy and need a lunch to boost iron. I like paneer and greens.",
+    "output": "Here’s an iron-rich lunch for a Delhi pregnant woman in her third trimester:\n\n- **Lunch**: Paneer palak (100g paneer cooked with 1 cup spinach, cumin, and coriander) with 1/2 cup cooked amaranth (rajgira) and 1/2 cup cucumber raita. (Approx. 400 kcal, 30g carbs, 20g protein, 20g fat)\n- **Why this works**: Paneer and spinach provide iron and calcium, while amaranth adds more iron, essential for you and your baby, with Delhi’s paneer love.\n\nTip: Stay hydrated with water, and consider a prenatal vitamin if recommended by your doctor."
+  },
+  {
+    "instruction": "Create a grocery list for a budget-conscious Karnataka vegan meal plan for one day.",
+    "input": "I’m from Karnataka, vegan, on a tight budget, and need a grocery list for a one-day meal plan. I like ragi and greens.",
+    "output": "Here’s a budget-friendly grocery list for a one-day Karnataka vegan meal plan:\n\n- **Grocery List**: 1 lb ragi flour ($1), 1 bunch spinach ($1), 1 lb chana ($1), 1 small bottle mustard oil ($1 for a portion). Total: ~$4\n- **Meal Plan**: Breakfast – ragi dosa with spinach chutney; Lunch – chana sabzi with 1/2 cup cooked ragi mudde; Dinner – spinach sabzi with chana and ragi mudde.\n\nTip: Buy in bulk to save more, and use spices like cumin or coriander you already have to add flavor."
+  },
+  {
+    "instruction": "Suggest a snack for recovery after a Keralite Kathakali dance session.",
+    "input": "I’m from Kerala, just finished a Kathakali session, and need a snack for recovery. I like bananas and coconut.",
+    "output": "Here’s a snack for recovery after your Kathakali session in Kerala:\n\n- **Snack**: 1 small banana (100g) with 1/4 cup grated coconut, sprinkled with a pinch of cardamom. (Approx. 150 kcal, 20g carbs, 2g protein, 5g fat)\n- **Why this works**: Bananas provide quick-digesting carbs to replenish energy, while coconut offers healthy fats for recovery, with Kerala’s coconut tradition.\n\nTip: Eat this within 30 minutes of your session to support recovery, and drink water to rehydrate."
+  },
+  {
+    "instruction": "What supplements should a Delhi resident consider for recovery after intense yoga sessions?",
+    "input": "I’m from Delhi, doing intense yoga 5 days a week, and want to know what supplements might help with recovery. I eat a balanced diet.",
+    "output": "Here are some supplements to consider for recovery after intense yoga sessions in Delhi:\n\n- **Supplements**: 1) Ashwagandha (300-600mg daily) to reduce stress and aid recovery. 2) Turmeric with black pepper (500mg daily) to reduce inflammation. 3) Vitamin C (500-1000mg daily) to support tissue repair.\n- **Why this works**: Ashwagandha and turmeric help with stress and inflammation, while vitamin C aids recovery, supporting your intense yoga routine.\n\nTip: Consult a healthcare professional before starting supplements, and prioritize hydration for optimal recovery."
+  },
+  {
+    "instruction": "Generate a one-day meal plan for a Punjabi following a low-FODMAP diet.",
+    "input": "I’m from Punjab on a low-FODMAP diet for IBS and need a one-day meal plan. I like chicken and roti.",
+    "output": "Here’s a one-day low-FODMAP meal plan for a Punjabi with IBS:\n\n- **Breakfast**: 2 boiled eggs with 1 small whole wheat roti (made without onion/garlic). (Approx. 250 kcal)\n- **Lunch**: Grilled chicken (120g, marinated with turmeric and cumin) with 1/2 cup cooked rice and 1/2 cup steamed carrots. (Approx. 400 kcal)\n- **Snack**: 1/2 cup cucumber slices with a pinch of rock salt. (Approx. 50 kcal)\n- **Dinner**: Chicken stir-fry (120g) with 1/2 cup rice and 1/2 cup steamed zucchini (no onion/garlic). (Approx. 400 kcal)\n- **Why this works**: All ingredients are low-FODMAP, minimizing IBS symptoms while providing Punjabi flavors with chicken and roti.\n\nTip: Keep a food diary to track how your body responds, and avoid high-FODMAP foods like garlic or onion."
+  },
+  {
+    "instruction": "Suggest a keto lunch for a Keralite aiming for weight loss.",
+    "input": "I’m from Kerala on a keto diet to lose weight and need a lunch idea. I like fish and coconut.",
+    "output": "Here’s a keto-friendly lunch for weight loss in Kerala:\n\n- **Lunch**: Fish curry (120g fish cooked with coconut milk, turmeric, and curry leaves) with 1/2 cup coconut-based spinach thoran. (Approx. 400 kcal, 5g carbs, 30g protein, 30g fat)\n- **Why this works**: Fish and coconut provide healthy fats to keep you in ketosis, with minimal carbs to support fat burning, in a Kerala style.\n\nTip: Use minimal seasoning to avoid hidden carbs, and drink water to stay hydrated."
+  },
+  {
+    "instruction": "What should a Delhi resident with type 1 diabetes eat for dinner?",
+    "input": "I’m from Delhi with type 1 diabetes and need a dinner that helps manage my blood sugar. I like paneer and greens.",
+    "output": "Here’s a diabetes-friendly dinner for a Delhi resident with type 1 diabetes:\n\n- **Dinner**: Paneer tikka (120g, marinated with turmeric and cumin) with 1/2 cup cooked millet and 1 cup sautéed palak (spinach). (Approx. 400 kcal, 30g carbs, 25g protein, 20g fat)\n- **Why this works**: Millet has a low glycemic index to stabilize blood sugar, while paneer and spinach provide protein and fiber for satiety, with Delhi’s paneer flair.\n\nTip: Monitor your blood sugar and adjust your insulin as needed, and avoid high-carb sides like naan."
+  },
+  {
+    "instruction": "Generate a high-protein vegetarian lunch for a Karnataka resident aiming for muscle maintenance.",
+    "input": "I’m from Karnataka, vegetarian, trying to maintain muscle, and need a high-protein lunch idea. I like dal and greens.",
+    "output": "Here’s a high-protein vegetarian lunch for muscle maintenance in Karnataka:\n\n- **Lunch**: Toor dal (1/2 cup, cooked with cumin and coriander) with 1 cup sautéed spinach and 1 small ragi roti. (Approx. 350 kcal, 40g carbs, 15g protein, 10g fat)\n- **Why this works**: Toor dal and spinach provide 15g of protein for muscle maintenance, while ragi roti offers carbs for energy, in a Karnataka style.\n\nTip: Pair with a glass of water to stay hydrated, and eat after your workout for best results."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for a Punjabi paleo breakfast.",
+    "input": "I’m from Punjab on a paleo diet and need a breakfast with a macronutrient breakdown. I like eggs and greens.",
+    "output": "Here’s a Punjabi paleo breakfast with a macronutrient breakdown:\n\n- **Breakfast**: Egg bhurji (2 eggs scrambled with 1 tsp ghee, turmeric, and 1 cup spinach) with 1/4 cup grilled tomatoes. (Approx. 200 kcal, 5g carbs, 15g protein, 15g fat, 2g fiber)\n- **Why this works**: Eggs provide protein, while spinach and tomatoes offer nutrients, fitting the paleo framework with Punjabi flavors.\n\nTip: Use ghee for authenticity, and pair with a glass of water to start your day."
+  },
+  {
+    "instruction": "Suggest a meal plan for a Keralite doing a 16:8 intermittent fasting schedule.",
+    "input": "I’m from Kerala doing a 16:8 intermittent fasting schedule and need a meal plan for my eating window. I like fish and rice.",
+    "output": "Here’s a meal plan for your 16:8 intermittent fasting eating window (e.g., 12 PM to 8 PM) in Kerala:\n\n- **12 PM (First Meal)**: Fish curry (120g fish cooked with coconut milk, turmeric, and curry leaves) with 1/2 cup cooked red rice and 1/2 cup beans thoran. (Approx. 400 kcal)\n- **3 PM (Snack)**: 1/4 cup grated coconut with a pinch of cumin. (Approx. 100 kcal)\n- **6 PM (Main Meal)**: Grilled fish (150g, marinated with turmeric and chili) with 1/2 cup red rice and 1/2 cup steamed spinach. (Approx. 450 kcal)\n- **Why this works**: This plan provides balanced nutrients within your eating window, with protein and carbs to keep you full, tailored to Kerala’s coastal tastes.\n\nTip: Stay hydrated during your fasting window with water or coconut water, and avoid snacking outside your eating hours."
+  },
+  {
+    "instruction": "Suggest a low-FODMAP snack for a Delhi resident with IBS.",
+    "input": "I’m from Delhi with IBS and need a low-FODMAP snack. I like seeds and greens.",
+    "output": "Here’s a low-FODMAP snack for a Delhi resident with IBS:\n\n- **Snack**: 1 tbsp roasted pumpkin seeds with 1/2 cup cucumber slices, sprinkled with a pinch of chaat masala. (Approx. 100 kcal, 5g carbs, 3g protein, 5g fat)\n- **Why this works**: Pumpkin seeds and cucumber are low-FODMAP, making this snack gentle on your gut with Delhi’s chaat flair.\n\nTip: Stick to small portions to avoid overloading your system, and eat slowly to aid digestion."
+  },
+  {
+    "instruction": "What’s a good soy-free substitute for soya chunks in a Karnataka vegan recipe?",
+    "input": "I’m from Karnataka, vegan, allergic to soy, and need a substitute for soya chunks in my curry. I like jackfruit.",
+    "output": "Here’s a soy-free substitute for soya chunks in your Karnataka vegan curry:\n\n- **Substitute**: Use young jackfruit instead of soya chunks. Cube 1/2 cup young jackfruit (canned, rinsed) and cook with your curry spices for a meaty texture. (Approx. 50 kcal per 1/2 cup)\n- **Why this works**: Jackfruit mimics the texture of soya chunks, absorbing Karnataka spices well while being soy-free and plant-based.\n\nTip: Cook jackfruit until tender, and pair with a coconut-based curry for a traditional Karnataka taste."
+  },
+  {
+    "instruction": "Generate a pre-workout meal for a Punjabi weightlifter focusing on strength.",
+    "input": "I’m from Punjab, a weightlifter, and need a pre-workout meal for strength training. I like paneer and roti.",
+    "output": "Here’s a pre-workout meal for strength training for a Punjabi weightlifter:\n\n- **Meal**: Paneer paratha (1 small whole wheat paratha stuffed with 50g paneer, cumin, and coriander) with 1/4 cup curd. (Approx. 300 kcal, 35g carbs, 15g protein, 10g fat)\n- **Why this works**: Paneer provides protein to support muscle performance, while the paratha offers carbs for energy, with Punjabi flavors.\n\nTip: Eat this 1-2 hours before your session to allow for digestion, and sip water to stay hydrated."
+  },
+  {
+    "instruction": "Suggest a breakfast for a Keralite postpartum mom focusing on nutrient density.",
+    "input": "I’m from Kerala, a postpartum mom, and need a breakfast to support recovery. I like fish and greens.",
+    "output": "Here’s a nutrient-dense breakfast for a Keralite postpartum mom:\n\n- **Breakfast**: Fish fry (100g fish marinated with turmeric, chili, and coconut oil, pan-fried) with 1 cup steamed spinach thoran and 1/4 cup grated coconut. (Approx. 300 kcal, 10g carbs, 25g protein, 15g fat)\n- **Why this works**: Fish provides protein and omega-3s, while spinach thoran offers iron and lactation support, with coconut adding healthy fats, all in a Kerala style.\n\nTip: Stay hydrated with water or a glass of coconut water, and take short rests to recharge."
+  },
+  {
+    "instruction": "Create a grocery list for a budget-conscious Delhi paleo meal plan for one day.",
+    "input": "I’m from Delhi on a paleo diet and on a tight budget. I need a grocery list for a one-day meal plan. I like chicken and greens.",
+    "output": "Here’s a budget-friendly grocery list for a one-day Delhi paleo meal plan:\n\n- **Grocery List**: 1 lb chicken ($2), 1 bunch spinach ($1), 1 lb sweet potatoes ($1), 1 small bottle olive oil ($1 for a portion). Total: ~$5\n- **Meal Plan**: Breakfast – chicken stir-fry (100g) with spinach; Lunch – grilled chicken (150g) with roasted sweet potatoes; Dinner – chicken kebab (150g) with spinach and sweet potato mash.\n\nTip: Buy in bulk to save more, and use spices like cumin or turmeric you already have to add flavor."
+  },
+  {
+    "instruction": "Suggest a snack for energy during a Karnataka festival preparation for Ugadi.",
+    "input": "I’m from Karnataka preparing for Ugadi and need a snack for energy during the day. I like jaggery and seeds.",
+    "output": "Here’s an energizing snack for your Ugadi preparations in Karnataka:\n\n- **Snack**: Jaggery and seed laddoo (1 small laddoo made with 1 tbsp melted jaggery, 1 tbsp roasted sunflower seeds, and a pinch of cardamom). (Approx. 150 kcal, 15g carbs, 3g protein, 5g fat)\n- **Why this works**: Jaggery provides quick-digesting carbs for energy, while sunflower seeds offer healthy fats and protein, with a Karnataka festive touch.\n\nTip: Keep a bottle of water nearby to stay hydrated while you work on Ugadi rituals."
+  },
+  {
+    "instruction": "What supplements should a Keralite consider for bone health during a weight loss journey?",
+    "input": "I’m from Kerala on a weight loss journey and want to know what supplements might help with bone health. I eat a balanced diet.",
+    "output": "Here are some supplements to consider for bone health during your weight loss journey in Kerala:\n\n- **Supplements**: 1) Calcium (1000-1200mg daily) to support bone density. 2) Vitamin D (1000-2000 IU daily) to enhance calcium absorption. 3) Shatavari (300-500mg daily), an Ayurvedic herb, to support overall health.\n- **Why this works**: Calcium and vitamin D maintain bone strength, while Shatavari supports hormonal balance during weight loss, complementing a Keralite diet.\n\nTip: Consult a healthcare professional before starting supplements, and include weight-bearing exercises to support bone health."
+  },
+  {
+    "instruction": "Generate a one-day meal plan for a Delhi resident following a high-protein vegan diet.",
+    "input": "I’m from Delhi on a high-protein vegan diet and need a one-day meal plan. I like chana and greens.",
+    "output": "Here’s a one-day high-protein vegan meal plan for a Delhi resident:\n\n- **Breakfast**: Chana chaat (1/2 cup cooked chickpeas with cucumber, tomato, and chaat masala). (Approx. 200 kcal)\n- **Lunch**: Chana masala (1 cup chickpeas with tomato, cumin, and coriander) with 1/2 cup cooked quinoa and 1/2 cup sautéed spinach. (Approx. 450 kcal)\n- **Snack**: 1/2 cup roasted chana with a pinch of rock salt. (Approx. 150 kcal)\n- **Dinner**: Chana sabzi (1 cup chickpeas) with 1/2 cup quinoa and 1/2 cup steamed bottle gourd (lauki). (Approx. 450 kcal)\n- **Why this works**: This plan provides over 70g of protein from chana, supporting your high-protein goals with Delhi’s chaat-inspired flavors.\n\nTip: Stay hydrated with water, and vary your protein sources to ensure a range of nutrients."
+  },
+  {
+    "instruction": "Suggest a keto breakfast for a Punjabi aiming for weight loss.",
+    "input": "I’m from Punjab on a keto diet to lose weight and need a breakfast idea. I like eggs and greens.",
+    "output": "Here’s a keto-friendly breakfast for weight loss in Punjab:\n\n- **Breakfast**: Egg bhurji (2 eggs scrambled with 1 tsp ghee, turmeric, and 1 cup spinach) with 1/4 avocado. (Approx. 200 kcal, 5g carbs, 15g protein, 15g fat)\n- **Why this works**: Eggs and spinach provide protein and healthy fats to keep you in ketosis, with minimal carbs to support fat burning, in a Punjabi style.\n\nTip: Pair with a glass of water to stay hydrated, and avoid high-carb additives like paratha."
+  },
+  {
+    "instruction": "What should a Karnataka resident with type 2 diabetes eat for lunch?",
+    "input": "I’m from Karnataka with type 2 diabetes and need a lunch that won’t spike my blood sugar. I like ragi and greens.",
+    "output": "Here’s a diabetes-friendly lunch for a Karnataka resident with type 2 diabetes:\n\n- **Lunch**: Ragi mudde (1/2 cup cooked ragi) with 1/2 cup steamed spinach sabzi and 1 boiled egg. (Approx. 300 kcal, 30g carbs, 10g protein, 10g fat)\n- **Why this works**: Ragi has a low glycemic index to prevent blood sugar spikes, while spinach and egg provide protein and fiber, in a Karnataka style.\n\nTip: Check your blood sugar 1-2 hours after eating to ensure this meal works for you, and avoid sugary drinks."
+  },
+  {
+    "instruction": "Generate a high-protein vegetarian dinner for a Keralite aiming for muscle gain.",
+    "input": "I’m from Kerala, vegetarian, trying to build muscle, and need a high-protein dinner idea. I like dal and greens.",
+    "output": "Here’s a high-protein vegetarian dinner for muscle gain in Kerala:\n\n- **Dinner**: Moong dal (1/2 cup, cooked with cumin and coriander) with 1 cup spinach thoran and 1/2 cup grilled paneer. (Approx. 400 kcal, 30g carbs, 25g protein, 15g fat)\n- **Why this works**: Moong dal and paneer provide 25g of protein for muscle repair, while spinach thoran adds nutrients, in a Kerala style.\n\nTip: Eat this within an hour after your workout to maximize muscle protein synthesis."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for a Delhi heart-healthy lunch.",
+    "input": "I’m from Delhi focusing on heart health and need a lunch with a macronutrient breakdown. I like chicken and greens.",
+    "output": "Here’s a heart-healthy lunch for a Delhi resident with a macronutrient breakdown:\n\n- **Lunch**: Chicken kebab (120g, marinated with turmeric and olive oil) with 1/2 cup cooked quinoa and 1 cup sautéed palak (spinach). (Approx. 400 kcal, 30g carbs, 35g protein, 15g fat, 5g fiber)\n- **Why this works**: Chicken provides lean protein, while quinoa and spinach offer fiber to support cholesterol levels, with Delhi’s kebab tradition.\n\nTip: Use minimal salt to keep sodium low, and pair with a glass of water."
+  },
+  {
+    "instruction": "Suggest a meal plan for a Punjabi doing a 14:10 intermittent fasting schedule.",
+    "input": "I’m from Punjab doing a 14:10 intermittent fasting schedule and need a meal plan for my eating window. I like paneer and greens.",
+    "output": "Here’s a meal plan for your 14:10 intermittent fasting eating window (e.g., 10 AM to 8 PM) in Punjab:\n\n- **10 AM (First Meal)**: Paneer tikka (120g, marinated with turmeric and cumin) with 1/2 cup cooked millet and 1/2 cup sarson ka saag. (Approx. 400 kcal)\n- **2 PM (Snack)**: 1/2 cup cucumber slices with a pinch of chaat masala. (Approx. 50 kcal)\n- **6 PM (Main Meal)**: Paneer sabzi (120g paneer with tomato, cumin, and coriander) with 1 cup sautéed spinach and 1/2 cup steamed bottle gourd (lauki). (Approx. 450 kcal)\n- **Why this works**: This plan balances protein, carbs, and veggies to keep you satisfied within your eating window, with Punjabi flavors.\n\nTip: Stay hydrated during fasting with water or jeera water, and avoid snacking outside your window."
+  },
+  {
+    "instruction": "Suggest a low-FODMAP breakfast for a Karnataka resident with digestive issues.",
+    "input": "I’m from Karnataka with digestive issues and need a low-FODMAP breakfast. I like eggs and greens.",
+    "output": "Here’s a low-FODMAP breakfast for a Karnataka resident with digestive issues:\n\n- **Breakfast**: Egg bhurji (2 eggs scrambled with 1 tsp coconut oil, turmeric, and 1 cup spinach) with 1/2 cup cooked ragi porridge (no onion/garlic). (Approx. 250 kcal, 20g carbs, 15g protein, 10g fat)\n- **Why this works**: Eggs, spinach, and ragi are low-FODMAP, making this meal gentle on your gut with Karnataka flavors.\n\nTip: Avoid high-FODMAP ingredients like garlic or onion, and eat slowly to aid digestion."
+  },
+  {
+    "instruction": "What’s a good nut-free substitute for cashew paste in a Keralite curry?",
+    "input": "I’m from Kerala, allergic to nuts, and need a substitute for cashew paste in my curry. I like seeds.",
+    "output": "Here’s a nut-free substitute for cashew paste in your Keralite curry:\n\n- **Substitute**: Use sunflower seed paste instead of cashew paste. Blend 2 tbsp sunflower seeds with water to make a smooth paste, and use in your curry for creaminess. (Approx. 100 kcal per 2 tbsp)\n- **Why this works**: Sunflower seed paste provides a similar creamy texture and is nut-free, making it safe for your allergy while fitting Kerala curries.\n\nTip: Add the paste towards the end of cooking to maintain its texture, and adjust spices to balance the flavor."
+  },
+  {
+    "instruction": "Generate a post-workout meal for a Delhi swimmer focusing on muscle repair.",
+    "input": "I’m from Delhi, a swimmer, and need a post-workout meal for muscle repair after a long swim. I like chicken and greens.",
+    "output": "Here’s a post-workout meal for muscle repair for a Delhi swimmer:\n\n- **Meal**: Chicken kebab (120g, marinated with turmeric, cumin, and olive oil) with 1/2 cup cooked quinoa and 1 cup sautéed palak (spinach). (Approx. 400 kcal, 30g carbs, 35g protein, 15g fat)\n- **Why this works**: Chicken provides 30g of protein to repair muscles, while quinoa offers carbs to replenish glycogen stores, with Delhi’s kebab flair.\n\nTip: Eat within 30 minutes of your session to maximize recovery, and drink water to rehydrate."
+  },
+  {
+    "instruction": "Suggest a lunch for a Keralite pregnant woman in her second trimester focusing on calcium.",
+    "input": "I’m from Kerala in my second trimester of pregnancy and need a lunch to boost calcium. I like fish and greens.",
+    "output": "Here’s a calcium-rich lunch for a Keralite pregnant woman in her second trimester:\n\n- **Lunch**: Fish curry (120g fish cooked with coconut milk, turmeric, and curry leaves) with 1/2 cup cooked red rice and 1 cup steamed spinach thoran. (Approx. 400 kcal, 35g carbs, 30g protein, 15g fat)\n- **Why this works**: Fish provides protein and omega-3s, while spinach thoran offers calcium and vitamin K, essential for you and your baby, with Kerala flavors.\n\nTip: Stay hydrated with water, and consider a prenatal vitamin if recommended by your doctor."
+  },
+  {
+    "instruction": "Create a grocery list for a budget-conscious Punjabi high-protein meal plan for one day.",
+    "input": "I’m from Punjab on a high-protein diet and on a tight budget. I need a grocery list for a one-day meal plan. I like paneer and eggs.",
+    "output": "Here’s a budget-friendly grocery list for a one-day Punjabi high-protein meal plan:\n\n- **Grocery List**: 200g paneer ($1.50), 6 eggs ($1.50), 1 bunch spinach ($1), 1 small bottle mustard oil ($1 for a portion). Total: ~$5\n- **Meal Plan**: Breakfast – three-egg omelet with spinach; Lunch – paneer tikka (100g) with sautéed spinach; Dinner – paneer bhurji (100g) with spinach and a boiled egg.\n\nTip: Buy in bulk to save more, and use spices like cumin or turmeric you already have to add flavor."
+  },
+  {
+    "instruction": "Suggest a snack for focus during a Karnataka wedding planning session.",
+    "input": "I’m from Karnataka planning a wedding and need a snack to help me focus. I like fruit and seeds.",
+    "output": "Here’s a snack to boost focus during your wedding planning session in Karnataka:\n\n- **Snack**: 1 small guava (100g) with 1 tbsp roasted sunflower seeds, sprinkled with a pinch of cardamom. (Approx. 150 kcal, 15g carbs, 3g protein, 5g fat)\n- **Why this works**: Guava provides natural sugars for a quick energy boost, while sunflower seeds offer healthy fats and protein for sustained focus, with a Karnataka twist.\n\nTip: Keep a bottle of water nearby to stay hydrated, as dehydration can affect concentration."
+  },
+  {
+    "instruction": "What supplements should a Delhi resident consider for energy during a triathlon training cycle?",
+    "input": "I’m from Delhi training for a triathlon and want to know what supplements might help with energy. I eat a balanced diet.",
+    "output": "Here are some supplements to consider for energy during your triathlon training in Delhi:\n\n- **Supplements**: 1) Ashwagandha (300-600mg daily) to boost stamina and reduce stress. 2) CoQ10 (100-200mg daily) to enhance mitochondrial function. 3) Electrolyte powder (as needed during sessions) to maintain hydration.\n- **Why this works**: Ashwagandha improves endurance, CoQ10 supports energy production, and electrolytes prevent fatigue, supporting your training in Delhi’s climate.\n\nTip: Consult a healthcare professional before starting supplements, and prioritize carbs in your diet for energy."
+  },
+  {
+    "instruction": "Generate a one-day meal plan for a Keralite following a keto diet.",
+    "input": "I’m from Kerala on a keto diet and need a one-day meal plan. I like fish and coconut.",
+    "output": "Here’s a one-day keto meal plan for a Keralite:\n\n- **Breakfast**: Fish fry (100g fish marinated with turmeric, chili, and coconut oil, pan-fried) with 1/4 cup grated coconut. (Approx. 300 kcal)\n- **Lunch**: Fish curry (120g fish with coconut milk, turmeric, and curry leaves) with 1/2 cup coconut-based spinach thoran. (Approx. 400 kcal)\n- **Snack**: 1/4 avocado with a pinch of rock salt. (Approx. 80 kcal)\n- **Dinner**: Grilled fish (150g, marinated with turmeric and chili) with 1 cup steamed spinach. (Approx. 450 kcal)\n- **Why this works**: All meals are low-carb (under 20g total), high in healthy fats, and protein-focused to keep you in ketosis, with Kerala flavors.\n\nTip: Stay hydrated with water, and monitor your carb intake to ensure you stay in ketosis."
+  },
+  {
+    "instruction": "Suggest a keto dinner for a Punjabi aiming for weight loss.",
+    "input": "I’m from Punjab on a keto diet to lose weight and need a dinner idea. I like chicken and greens.",
+    "output": "Here’s a keto-friendly dinner for weight loss in Punjab:\n\n- **Dinner**: Chicken tikka (120g, marinated with turmeric, cumin, and ghee) with 1 cup sautéed sarson ka saag (made without onion/garlic). (Approx. 400 kcal, 5g carbs, 35g protein, 25g fat)\n- **Why this works**: Chicken and sarson ka saag provide healthy fats to keep you in ketosis, with minimal carbs to support fat burning, in a Punjabi style.\n\nTip: Use minimal ghee to avoid excess calories, and drink water to stay hydrated."
+  },
+  {
+    "instruction": "What should a Delhi resident with type 2 diabetes eat for breakfast?",
+    "input": "I’m from Delhi with type 2 diabetes and need a breakfast that won’t spike my blood sugar. I like eggs and greens.",
+    "output": "Here’s a diabetes-friendly breakfast for a Delhi resident with type 2 diabetes:\n\n- **Breakfast**: Egg bhurji (2 eggs scrambled with 1 tsp ghee, turmeric, and 1 cup spinach) with 1/4 avocado. (Approx. 200 kcal, 5g carbs, 15g protein, 15g fat)\n- **Why this works**: Eggs and spinach provide protein and fiber with minimal carbs to prevent blood sugar spikes, with a Delhi-inspired bhurji style.\n\nTip: Check your blood sugar 1-2 hours after eating to ensure this meal works for you, and avoid sugary drinks."
+  },
+  {
+    "instruction": "Generate a high-protein vegan breakfast for a Karnataka resident aiming for muscle gain.",
+    "input": "I’m from Karnataka, vegan, trying to build muscle, and need a high-protein breakfast idea. I like chana and greens.",
+    "output": "Here’s a high-protein vegan breakfast for muscle gain in Karnataka:\n\n- **Breakfast**: Chana chaat (1/2 cup cooked chickpeas with 1 cup spinach, cucumber, and chaat masala) with 1 tbsp roasted flaxseeds. (Approx. 250 kcal, 30g carbs, 15g protein, 5g fat)\n- **Why this works**: Chickpeas provide 15g of protein for muscle repair, while spinach and flaxseeds add nutrients and healthy fats, with a Karnataka twist.\n\nTip: Eat this within an hour after your workout to maximize muscle protein synthesis."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for a Keralite heart-healthy dinner.",
+    "input": "I’m from Kerala focusing on heart health and need a dinner with a macronutrient breakdown. I like fish and greens.",
+    "output": "Here’s a heart-healthy dinner for a Keralite with a macronutrient breakdown:\n\n- **Dinner**: Grilled fish (120g, marinated with turmeric and olive oil) with 1/2 cup cooked red rice and 1 cup steamed spinach thoran. (Approx. 400 kcal, 35g carbs, 30g protein, 15g fat, 5g fiber)\n- **Why this works**: Fish provides omega-3s to reduce inflammation, while red rice and spinach thoran offer fiber to support cholesterol levels, with Kerala flavors.\n\nTip: Use minimal salt to keep sodium low, and pair with a glass of water."
+  },
+  {
+    "instruction": "Suggest a meal plan for a Delhi resident doing a 16:8 intermittent fasting schedule.",
+    "input": "I’m from Delhi doing a 16:8 intermittent fasting schedule and need a meal plan for my eating window. I like paneer and greens.",
+    "output": "Here’s a meal plan for your 16:8 intermittent fasting eating window (e.g., 12 PM to 8 PM) in Delhi:\n\n- **12 PM (First Meal)**: Paneer tikka (120g, marinated with turmeric and cumin) with 1/2 cup cooked millet and 1/2 cup sautéed palak (spinach). (Approx. 400 kcal)\n- **3 PM (Snack)**: 1/2 cup cucumber slices with a pinch of chaat masala. (Approx. 50 kcal)\n- **6 PM (Main Meal)**: Paneer sabzi (120g paneer with tomato, cumin, and coriander) with 1 cup sautéed spinach and 1/2 cup steamed bottle gourd (lauki). (Approx. 450 kcal)\n- **Why this works**: This plan provides balanced nutrients within your eating window, with protein and veggies to keep you full, tailored to Delhi tastes.\n\nTip: Stay hydrated during your fasting window with water or jeera water, and avoid snacking outside your eating hours."
+  },
+  {
+    "instruction": "Suggest a low-FODMAP dinner for a Punjabi with IBS.",
+    "input": "I’m from Punjab with IBS and need a low-FODMAP dinner. I like chicken and greens.",
+    "output": "Here’s a low-FODMAP dinner for a Punjabi with IBS:\n\n- **Dinner**: Grilled chicken (120g, marinated with turmeric and cumin) with 1/2 cup cooked rice and 1/2 cup steamed bottle gourd (lauki). (Approx. 400 kcal, 35g carbs, 35g protein, 10g fat)\n- **Why this works**: Chicken, rice, and lauki are low-FODMAP, making this meal gentle on your gut with Punjabi flavors.\n\nTip: Avoid high-FODMAP ingredients like garlic or onion, and eat slowly to aid digestion."
+  },
+  {
+    "instruction": "What’s a good dairy-free substitute for ghee in a Karnataka recipe?",
+    "input": "I’m from Karnataka, dairy-free due to an allergy, and need a substitute for ghee in my cooking. I like coconut flavors.",
+    "output": "Here’s a dairy-free substitute for ghee in your Karnataka cooking:\n\n- **Substitute**: Use coconut oil instead of ghee. Replace ghee with an equal amount of coconut oil (e.g., 1 tbsp coconut oil for 1 tbsp ghee) for a similar rich flavor. (Approx. 120 kcal per tbsp)\n- **Why this works**: Coconut oil provides a rich, nutty flavor similar to ghee, with a coconut taste you enjoy, while being dairy-free.\n\nTip: Use refined coconut oil if you prefer a less coconutty flavor, and adjust spices to balance the dish."
+  },
+  {
+    "instruction": "Generate a pre-workout meal for a Keralite cyclist focusing on endurance.",
+    "input": "I’m from Kerala, a cyclist, and need a pre-workout meal for endurance before a long ride. I like rice and dal.",
+    "output": "Here’s a pre-workout meal for endurance for a Keralite cyclist:\n\n- **Meal**: 1/2 cup cooked red rice with 1/2 cup moong dal (seasoned with cumin and coriander) and a side of 1/4 cup coconut chutney. (Approx. 300 kcal, 40g carbs, 10g protein, 5g fat)\n- **Why this works**: Red rice and dal provide complex carbs for sustained energy, while coconut chutney adds healthy fats, fueling your long ride in a Kerala style.\n\nTip: Eat this 1-2 hours before your ride to allow for digestion, and sip water to stay hydrated."
+  },
+  {
+    "instruction": "Suggest a breakfast for a Punjabi postpartum mom focusing on healing.",
+    "input": "I’m from Punjab, a postpartum mom, and need a breakfast to support healing. I like eggs and greens.",
+    "output": "Here’s a breakfast for healing for a Punjabi postpartum mom:\n\n- **Breakfast**: Egg bhurji (2 eggs scrambled with 1 tsp ghee, turmeric, and 1 cup spinach) with 1 small makki ki roti. (Approx. 250 kcal, 20g carbs, 15g protein, 15g fat)\n- **Why this works**: Eggs provide protein and choline, while spinach offers iron and lactation support, with makki ki roti adding Punjabi comfort.\n\nTip: Stay hydrated with water or a glass of jeera water, and take short rests to recharge."
+  },
+  {
+    "instruction": "Create a grocery list for a budget-conscious Keralite keto meal plan for one day.",
+    "input": "I’m from Kerala on a keto diet and on a tight budget. I need a grocery list for a one-day meal plan. I like fish and greens.",
+    "output": "Here’s a budget-friendly grocery list for a one-day Keralite keto meal plan:\n\n- **Grocery List**: 300g fish ($2), 1 bunch spinach ($1), 1 small coconut ($1), 1 small bottle coconut oil ($1 for a portion). Total: ~$5\n- **Meal Plan**: Breakfast – fish fry (100g) with grated coconut; Lunch – fish curry (100g) with spinach thoran; Dinner – grilled fish (100g) with spinach and coconut stir-fry.\n\nTip: Buy in bulk to save more, and use spices like turmeric or curry leaves you already have to add flavor."
+  },
+  {
+    "instruction": "Suggest a snack for energy during a Delhi road trip to a pilgrimage site.",
+    "input": "I’m from Delhi on a road trip to Vaishno Devi and need a snack for sustained energy. I like jaggery and seeds.",
+    "output": "Here’s an energizing snack for your road trip to Vaishno Devi from Delhi:\n\n- **Snack**: Jaggery and seed laddoo (1 small laddoo made with 1 tbsp melted jaggery, 1 tbsp roasted pumpkin seeds, and a pinch of cardamom). (Approx. 150 kcal, 15g carbs, 3g protein, 5g fat)\n- **Why this works**: Jaggery provides quick-digesting carbs for energy, while pumpkin seeds offer healthy fats and protein, with a Delhi-inspired laddoo style.\n\nTip: Pack in a small container to avoid overeating, and sip water to stay hydrated on the road."
+  },
+  {
+    "instruction": "What supplements should a Karnataka resident consider for immune support during monsoon season?",
+    "input": "I’m from Karnataka in the monsoon season and want to know what supplements might help with immune support. I eat a balanced diet.",
+    "output": "Here are some supplements to consider for immune support during the monsoon season in Karnataka:\n\n- **Supplements**: 1) Vitamin C (500-1000mg daily) to boost immune function. 2) Tulsi extract (300-500mg daily), an Ayurvedic herb, to support immunity. 3) Probiotics (10-20 billion CFU daily) to support gut health.\n- **Why this works**: Vitamin C and tulsi help fight infections common in monsoon, while probiotics support gut health, which is key for immunity.\n\nTip: Consult a healthcare professional before starting supplements, and prioritize hygiene to avoid monsoon-related illnesses."
+  },
+  {
+    "instruction": "Generate a one-day meal plan for a Punjabi following a paleo diet.",
+    "input": "I’m from Punjab on a paleo diet and need a one-day meal plan. I like chicken and greens.",
+    "output": "Here’s a one-day paleo meal plan for a Punjabi:\n\n- **Breakfast**: Egg bhurji (2 eggs scrambled with 1 tsp ghee, turmeric, and 1 cup spinach). (Approx. 200 kcal)\n- **Lunch**: Chicken tikka (120g, marinated with turmeric and cumin) with 1 cup sautéed sarson ka saag (made without onion/garlic). (Approx. 400 kcal)\n- **Snack**: 1/2 cup cucumber slices with a pinch of rock salt. (Approx. 50 kcal)\n- **Dinner**: Chicken curry (150g chicken with tomato, turmeric, and spices) with 1 cup steamed spinach. (Approx. 450 kcal)\n- **Why this works**: All meals are grain-free, dairy-free, and focused on whole foods, aligning with paleo principles while providing Punjabi flavors.\n\nTip: Use ghee and fresh spices for flavor, and stay hydrated with water throughout the day."
+  },
+  {
+    "instruction": "Suggest a keto breakfast for a Keralite aiming for weight loss.",
+    "input": "I’m from Kerala on a keto diet to lose weight and need a breakfast idea. I like fish and coconut.",
+    "output": "Here’s a keto-friendly breakfast for weight loss in Kerala:\n\n- **Breakfast**: Fish fry (100g fish marinated with turmeric, chili, and coconut oil, pan-fried) with 1/4 cup grated coconut mixed with a pinch of cumin. (Approx. 300 kcal, 5g carbs, 25g protein, 20g fat)\n- **Why this works**: Fish and coconut provide healthy fats to keep you in ketosis, with minimal carbs to support fat burning, in a Kerala style.\n\nTip: Pair with a glass of water to stay hydrated, and avoid high-carb additives."
+  },
+  {
+    "instruction": "What should a Delhi resident with type 2 diabetes eat for dinner?",
+    "input": "I’m from Delhi with type 2 diabetes and need a dinner that won’t spike my blood sugar. I like chicken and greens.",
+    "output": "Here’s a diabetes-friendly dinner for a Delhi resident with type 2 diabetes:\n\n- **Dinner**: Chicken kebab (120g, marinated with turmeric and cumin) with 1/2 cup cooked millet and 1 cup sautéed palak (spinach). (Approx. 400 kcal, 30g carbs, 35g protein, 15g fat)\n- **Why this works**: Millet has a low glycemic index to prevent blood sugar spikes, while chicken and spinach provide protein and fiber, with Delhi’s kebab flair.\n\nTip: Check your blood sugar 1-2 hours after eating to ensure this meal works for you, and avoid sugary drinks."
+  },
+  {
+    "instruction": "Generate a high-protein vegetarian breakfast for a Punjabi aiming for muscle maintenance.",
+    "input": "I’m from Punjab, vegetarian, trying to maintain muscle, and need a high-protein breakfast idea. I like paneer and greens.",
+    "output": "Here’s a high-protein vegetarian breakfast for muscle maintenance in Punjab:\n\n- **Breakfast**: Paneer bhurji (100g paneer scrambled with 1 tsp ghee, turmeric, and 1 cup spinach) with 1 small makki ki roti. (Approx. 300 kcal, 20g carbs, 20g protein, 15g fat)\n- **Why this works**: Paneer provides 20g of protein for muscle maintenance, while makki ki roti offers carbs for energy, in a Punjabi style.\n\nTip: Pair with a glass of water to stay hydrated, and eat after your workout for best results."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for a Karnataka heart-healthy breakfast.",
+    "input": "I’m from Karnataka focusing on heart health and need a breakfast with a macronutrient breakdown. I like ragi and greens.",
+    "output": "Here’s a heart-healthy breakfast for a Karnataka resident with a macronutrient breakdown:\n\n- **Breakfast**: Ragi dosa (1 dosa made with ragi flour, served with 1 tbsp coconut chutney) with 1 cup steamed spinach sabzi. (Approx. 250 kcal, 35g carbs, 5g protein, 5g fat, 5g fiber)\n- **Why this works**: Ragi provides fiber to support cholesterol levels, while spinach offers heart-healthy nutrients, with Karnataka’s dosa tradition.\n\nTip: Use minimal oil to keep calories low, and pair with a glass of water."
+  },
+  {
+    "instruction": "Suggest a meal plan for a Keralite doing a 14:10 intermittent fasting schedule.",
+    "input": "I’m from Kerala doing a 14:10 intermittent fasting schedule and need a meal plan for my eating window. I like fish and greens.",
+    "output": "Here’s a meal plan for your 14:10 intermittent fasting eating window (e.g., 10 AM to 8 PM) in Kerala:\n\n- **10 AM (First Meal)**: Fish curry (120g fish cooked with coconut milk, turmeric, and curry leaves) with 1/2 cup cooked red rice and 1/2 cup steamed spinach thoran. (Approx. 400 kcal)\n- **2 PM (Snack)**: 1/4 cup grated coconut with a pinch of cumin. (Approx. 100 kcal)\n- **6 PM (Main Meal)**: Grilled fish (150g, marinated with turmeric and chili) with 1 cup sautéed spinach and 1/2 cup steamed beans thoran. (Approx. 450 kcal)\n- **Why this works**: This plan balances protein, carbs, and veggies to keep you satisfied within your eating window, with Kerala flavors.\n\nTip: Stay hydrated during fasting with water or coconut water, and avoid snacking outside your window."
+  },
+  {
+    "instruction": "Suggest a low-FODMAP snack for a Delhi resident with digestive issues.",
+    "input": "I’m from Delhi with digestive issues and need a low-FODMAP snack. I like fruit and seeds.",
+    "output": "Here’s a low-FODMAP snack for a Delhi resident with digestive issues:\n\n- **Snack**: 1/2 cup papaya with 1 tbsp roasted pumpkin seeds, sprinkled with a pinch of chaat masala. (Approx. 100 kcal, 10g carbs, 2g protein, 5g fat)\n- **Why this works**: Papaya (in small portions) and pumpkin seeds are low-FODMAP, making this snack gentle on your gut with Delhi’s chaat flair.\n\nTip: Stick to small portions of fruit to avoid FODMAP overload, and eat slowly to aid digestion."
+  },
+  {
+    "instruction": "What’s a good soy-free substitute for tofu in a Punjabi vegan recipe?",
+    "input": "I’m from Punjab, vegan, allergic to soy, and need a substitute for tofu in my sabzi. I like jackfruit.",
+    "output": "Here’s a soy-free substitute for tofu in your Punjabi vegan sabzi:\n\n- **Substitute**: Use young jackfruit instead of tofu. Cube 1/2 cup young jackfruit (canned, rinsed) and cook with your sabzi spices for a meaty texture. (Approx. 50 kcal per 1/2 cup)\n- **Why this works**: Jackfruit mimics the texture of tofu, absorbing Punjabi spices well while being soy-free and plant-based.\n\nTip: Cook jackfruit until tender, and pair with a tomato-based sabzi for a classic Punjabi taste."
+  },
+  {
+    "instruction": "Generate a post-workout meal for a Karnataka gym-goer focusing on muscle recovery.",
+    "input": "I’m from Karnataka, a gym-goer, and need a post-workout meal for muscle recovery. I like ragi and dal.",
+    "output": "Here’s a post-workout meal for muscle recovery for a Karnataka gym-goer:\n\n- **Meal**: Ragi mudde (1/2 cup cooked ragi) with 1/2 cup toor dal (cooked with cumin and coriander) and 1/2 cup steamed spinach sabzi. (Approx. 350 kcal, 40g carbs, 15g protein, 10g fat)\n- **Why this works."
+  }
+]

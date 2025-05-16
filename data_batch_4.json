@@ -1,0 +1,397 @@
+[
+  {
+    "instruction": "Suggest a low-carb breakfast for an Assamese with type 2 diabetes.",
+    "input": "I’m from Assam with type 2 diabetes and need a low-carb breakfast. I like fish and greens.",
+    "output": "Here’s a low-carb Assamese breakfast to manage your type 2 diabetes:\n\n- **Breakfast**: Grilled fish (100g, marinated with turmeric and mustard oil) with 1/2 cup steamed lai xaak (mustard greens). (Approx. 200 kcal, 5g carbs, 25g protein, 10g fat)\n- **Why this works**: Fish provides protein to stabilize blood sugar, and lai xaak adds fiber with minimal carbs, fitting a low-carb Assamese profile.\n\nTip: Monitor your blood sugar after eating, and avoid high-carb sides like rice."
+  },
+  {
+    "instruction": "Generate a high-fiber vegetarian lunch for a Meghalayan aiming for weight loss.",
+    "input": "I’m from Meghalaya, vegetarian, trying to lose weight, and need a high-fiber lunch. I like dal and greens.",
+    "output": "Here’s a high-fiber vegetarian lunch for weight loss in Meghalaya:\n\n- **Lunch**: Dal (1/2 cup, made with red lentils, turmeric, and cumin) with 1/2 cup cooked sticky rice and 1 cup dohkhlieh (salad with tomatoes, cucumber, and greens). (Approx. 350 kcal, 45g carbs, 10g protein, 5g fat, 10g fiber)\n- **Why this works**: Dal and dohkhlieh are fiber-rich to keep you full, while sticky rice provides energy in moderation for a calorie deficit.\n\nTip: Use minimal oil in cooking, and drink water to stay hydrated."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for a Naga paleo snack.",
+    "input": "I’m from Nagaland on a paleo diet and need a snack with a macronutrient breakdown. I like pork and bamboo shoots.",
+    "output": "Here’s a Nagaland-inspired paleo snack with a macronutrient breakdown:\n\n- **Snack**: Pork with bamboo shoots (50g pork stir-fried with 1/4 cup bamboo shoots, turmeric, and chili). (Approx. 150 kcal, 3g carbs, 15g protein, 8g fat, 2g fiber)\n- **Why this works**: Pork provides protein, and bamboo shoots add fiber, fitting paleo guidelines with Nagaland’s traditional flavors.\n\nTip: Enjoy as a mid-afternoon snack, and avoid non-paleo ingredients like rice or soy."
+  },
+  {
+    "instruction": "Suggest a meal plan for a Sikkimese resident doing a 12:12 intermittent fasting schedule during Losar.",
+    "input": "I’m from Sikkim doing a 12:12 intermittent fasting schedule during Losar and need a meal plan for my eating window. I like momos and thukpa.",
+    "output": "Here’s a Losar-inspired meal plan for your 12:12 intermittent fasting eating window (e.g., 8 AM to 8 PM) in Sikkim:\n\n- **8 AM (First Meal)**: 2 steamed chicken momos (made with cabbage and minimal spices). (Approx. 200 kcal)\n- **1 PM (Snack)**: 1 small bowl of thukpa broth (made with veggies, no noodles). (Approx. 100 kcal)\n- **6 PM (Main Meal)**: Chicken thukpa (1 cup, with chicken, veggies, and minimal noodles) with 1/2 cup steamed broccoli. (Approx. 400 kcal)\n- **Why this works**: These meals incorporate Sikkim’s festive momos and thukpa, providing balanced nutrition within your eating window.\n\nTip: Stay hydrated with water or yak butter tea, and avoid deep-fried festive snacks."
+  },
+  {
+    "instruction": "Suggest a low-FODMAP dinner for a Manipuri with IBS.",
+    "input": "I’m from Manipur with IBS and need a low-FODMAP dinner. I like fish and greens.",
+    "output": "Here’s a low-FODMAP Manipuri dinner for IBS management:\n\n- **Dinner**: Grilled fish (120g, marinated with turmeric and mustard oil) with 1/2 cup cooked sticky rice and 1/2 cup steamed morok metpa (greens with chili). (Approx. 400 kcal, 35g carbs, 30g protein, 10g fat)\n- **Why this works**: Fish, sticky rice, and greens (without onion/garlic) are low-FODMAP, making this meal gentle on your gut with Manipuri flavors.\n\nTip: Avoid high-FODMAP ingredients like garlic or onion, and chew slowly to aid digestion."
+  },
+  {
+    "instruction": "What’s a good dairy-free substitute for yak butter in a Sikkimese recipe?",
+    "input": "I’m from Sikkim, dairy-free due to an allergy, and need a substitute for yak butter in my cooking. I like coconut flavors.",
+    "output": "Here’s a dairy-free substitute for yak butter in your Sikkimese cooking:\n\n- **Substitute**: Use coconut oil instead of yak butter. Replace yak butter with an equal amount of coconut oil (e.g., 1 tbsp coconut oil for 1 tbsp yak butter) for a similar rich flavor. (Approx. 120 kcal per tbsp)\n- **Why this works**: Coconut oil provides a rich, nutty flavor similar to yak butter, with a coconut taste you enjoy, while being dairy-free.\n\nTip: Use refined coconut oil if you prefer a less coconutty flavor, and adjust spices to balance the dish."
+  },
+  {
+    "instruction": "Generate a pre-workout snack for a Naga martial artist focusing on agility.",
+    "input": "I’m from Nagaland, practicing martial arts, and need a pre-workout snack for agility. I like pork and greens.",
+    "output": "Here’s a pre-workout snack to support agility for your martial arts session in Nagaland:\n\n- **Snack**: Pork stir-fry (50g pork with 1/4 cup bamboo shoots and a pinch of chili). (Approx. 150 kcal, 3g carbs, 15g protein, 8g fat)\n- **Why this works**: Pork provides protein for muscle performance, and bamboo shoots offer fiber for light energy, with Naga flavors.\n\nTip: Eat this 30-60 minutes before your session to allow for digestion, and sip water to stay hydrated."
+  },
+  {
+    "instruction": "Suggest a dinner for an Assamese breastfeeding mom focusing on energy.",
+    "input": "I’m from Assam, a breastfeeding mom, and need a dinner to boost my energy. I like fish and greens.",
+    "output": "Here’s an energy-boosting dinner for a breastfeeding mom in Assam:\n\n- **Dinner**: Fish tenga (120g fish cooked with tomato, turmeric, and mustard oil) with 1/2 cup cooked sticky rice and 1 cup steamed lai xaak (mustard greens). (Approx. 450 kcal, 40g carbs, 30g protein, 15g fat)\n- **Why this works**: Fish provides protein for sustained energy, sticky rice offers carbs, and lai xaak adds iron, supporting your needs as a breastfeeding mom.\n\nTip: Stay hydrated with water or a glass of lemon water, as hydration is key for energy and milk production."
+  },
+  {
+    "instruction": "Create a grocery list for a budget-conscious Manipuri low-carb meal plan for one day.",
+    "input": "I’m from Manipur on a low-carb diet and on a tight budget. I need a grocery list for a one-day meal plan. I like fish and greens.",
+    "output": "Here’s a budget-friendly grocery list for a one-day low-carb Manipuri meal plan:\n\n- **Grocery List**: 300g fish ($2), 1 bunch morok (greens) ($1), 1 small bottle mustard oil ($1 for a portion), 1 small pack bamboo shoots ($1). Total: ~$5\n- **Meal Plan**: Breakfast – fish fry (100g) with morok; Lunch – fish curry (100g) with bamboo shoots; Dinner – grilled fish (100g) with morok metpa.\n\nTip: Buy fish in bulk to save more, and use spices like turmeric or chili you already have to enhance flavor."
+  },
+  {
+    "instruction": "Suggest a snack for a Sikkimese child with a nut allergy during Losar.",
+    "input": "My Sikkimese child has a nut allergy and needs a Losar snack that feels like a treat. They like rice and jaggery.",
+    "output": "Here’s a nut-free Losar snack for your child in Sikkim:\n\n- **Snack**: Sticky rice and jaggery laddoo (1 small laddoo made with 1/4 cup sticky rice and 1 tbsp melted jaggery). (Approx. 150 kcal, 25g carbs, 2g protein, 2g fat)\n- **Why this works**: Sticky rice and jaggery create a festive treat without nuts, perfect for Losar celebrations in Sikkim.\n\nTip: Ensure no nut-based ingredients are used, and let it cool before serving to avoid stickiness."
+  },
+  {
+    "instruction": "What should a Naga eat after a workout to reduce inflammation?",
+    "input": "I’m from Nagaland, just finished a HIIT workout, and need a post-workout meal to reduce inflammation. I like pork and bamboo shoots.",
+    "output": "Here’s a post-workout meal to reduce inflammation for a Naga:\n\n- **Meal**: Pork with bamboo shoots (120g pork cooked with turmeric, chili, and 1/2 cup bamboo shoots) with 1/2 cup steamed lai xaak (mustard greens). (Approx. 350 kcal, 5g carbs, 30g protein, 20g fat)\n- **Why this works**: Pork provides protein, bamboo shoots offer fiber, and turmeric has anti-inflammatory properties, with Naga flavors.\n\nTip: Eat within 30 minutes of your session to optimize recovery, and drink water to rehydrate."
+  },
+  {
+    "instruction": "Generate a gluten-free dinner for an Assamese resident following a paleo diet.",
+    "input": "I’m from Assam on a paleo diet and need a gluten-free dinner idea. I like fish and greens.",
+    "output": "Here’s a gluten-free, paleo-friendly dinner for an Assamese resident:\n\n- **Dinner**: Fish tenga (120g fish cooked with tomato, turmeric, and mustard oil) with 1 cup steamed lai xaak (mustard greens). (Approx. 350 kcal, 5g carbs, 30g protein, 15g fat)\n- **Why this works**: Fish and lai xaak provide protein and nutrients, fitting paleo guidelines with Assam’s tangy tenga flavors.\n\nTip: Avoid non-paleo ingredients like rice or dairy, and use mustard oil for authenticity."
+  },
+  {
+    "instruction": "Suggest a high-protein vegetarian breakfast for a Meghalayan aiming for weight maintenance.",
+    "input": "I’m from Meghalaya, vegetarian, trying to maintain my weight, and need a high-protein breakfast. I like dal and greens.",
+    "output": "Here’s a high-protein vegetarian breakfast for weight maintenance in Meghalaya:\n\n- **Breakfast**: Dal (1/2 cup, made with red lentils, turmeric, and cumin) with 1/4 cup steamed dohkhlieh (salad with greens) and 1 boiled egg. (Approx. 250 kcal, 20g carbs, 15g protein, 5g fat)\n- **Why this works**: Dal and egg provide 15g of protein to keep you full, balancing your calorie intake with Meghalaya’s fresh greens.\n\nTip: Use minimal oil to keep calories in check, and pair with a glass of water to stay hydrated."
+  },
+  {
+    "instruction": "What’s a good hydration strategy for a Manipuri training for a marathon in humid weather?",
+    "input": "I’m from Manipur, training for a marathon in humid weather, and need a hydration strategy. I sweat heavily during runs.",
+    "output": "Here’s a hydration strategy for your marathon training in humid weather in Manipur:\n\n- **Strategy**: Drink 20-24 oz of water with a pinch of rock salt 2 hours before your run. During your run, sip 7-10 oz of tender coconut water every 15 minutes to replenish electrolytes. Post-run, drink 20 oz of water with a squeeze of lemon within 30 minutes to rehydrate.\n- **Why this works**: Pre-hydration prepares you, coconut water replaces electrolytes lost through heavy sweating, and lemon water aids recovery in humid conditions.\n\nTip: Monitor your urine color—it should be pale yellow—and adjust intake based on humidity levels."
+  },
+  {
+    "instruction": "Generate a meal prep plan for a busy Sikkimese professional aiming for weight loss.",
+    "input": "I’m a busy professional from Sikkim trying to lose weight and need a meal prep plan for 3 days. I like momos and greens.",
+    "output": "Here’s a 3-day meal prep plan for weight loss for a busy Sikkimese professional:\n\n- **Meal**: Prepare 6 steamed chicken momos (made with cabbage, minimal spices) and cook 6 cups of steamed mixed veggies (broccoli, carrots). Divide into 3 portions: each with 2 momos and 2 cups veggies. (Approx. 350 kcal per meal, 20g carbs, 25g protein, 10g fat)\n- **Why this works**: Chicken momos provide protein to keep you full, while veggies offer fiber for a calorie deficit, with Sikkim’s momo tradition.\n\nTip: Store in airtight containers, reheat gently, and eat one portion daily with a side of water to stay hydrated."
+  },
+  {
+    "instruction": "Suggest a snack for sustained energy during a Naga trekking trip in Dzukou Valley.",
+    "input": "I’m from Nagaland going on a trekking trip in Dzukou Valley and need a snack for sustained energy. I like pork and bamboo shoots.",
+    "output": "Here’s an energizing snack for your trekking trip in Dzukou Valley, Nagaland:\n\n- **Snack**: Pork and bamboo shoot jerky (50g dried pork mixed with 1/4 cup dried bamboo shoots). (Approx. 150 kcal, 3g carbs, 15g protein, 8g fat)\n- **Why this works**: Pork provides protein for sustained energy, and bamboo shoots add fiber, with a portable Naga-inspired jerky style.\n\nTip: Pack in a small container to avoid overeating, and sip water to stay hydrated at high altitudes."
+  },
+  {
+    "instruction": "What supplements should an Assamese consider for muscle endurance during Bihu dance practice?",
+    "input": "I’m from Assam, practicing Bihu dance, and want to know what supplements might help with muscle endurance. I eat a balanced diet.",
+    "output": "Here are some supplements to consider for muscle endurance during Bihu practice in Assam:\n\n- **Supplements**: 1) Ashwagandha (300-600mg daily) to reduce stress and improve stamina. 2) L-carnitine (1-2g daily) to enhance fat metabolism. 3) Electrolyte tablets (as needed during practice) to maintain hydration.\n- **Why this works**: Ashwagandha supports endurance, L-carnitine aids energy production, and electrolytes prevent cramps during intense dance sessions.\n\nTip: Consult a healthcare professional before starting supplements, and prioritize hydration during practice."
+  },
+  {
+    "instruction": "Generate a one-day meal plan for a Manipuri resident following a Mediterranean diet.",
+    "input": "I’m from Manipur on a Mediterranean diet and need a one-day meal plan. I like fish and greens.",
+    "output": "Here’s a one-day Mediterranean diet meal plan with a Manipuri twist:\n\n- **Breakfast**: 1/2 cup cooked sticky rice with 1/4 cup chopped tomatoes and a pinch of cumin. (Approx. 200 kcal)\n- **Lunch**: Grilled fish (120g, marinated with olive oil and turmeric) with 1/2 cup cooked quinoa and 1/2 cup steamed morok metpa (greens). (Approx. 400 kcal)\n- **Snack**: A small orange (100g) with a handful of olives (50g). (Approx. 150 kcal)\n- **Dinner**: Baked fish (150g) with 1/2 cup quinoa and 1/2 cup steamed beans in olive oil. (Approx. 450 kcal)\n- **Why this works**: This plan emphasizes whole grains, fish, and veggies, aligning with Mediterranean principles while using Manipuri greens and flavors.\n\nTip: Use extra virgin olive oil for cooking, and stay hydrated with water throughout the day."
+  },
+  {
+    "instruction": "Suggest a keto snack for a Sikkimese resident aiming for weight loss.",
+    "input": "I’m from Sikkim on a keto diet to lose weight and need a snack idea. I like chicken and greens.",
+    "output": "Here’s a keto-friendly snack for weight loss in Sikkim:\n\n- **Snack**: Chicken stir-fry (50g chicken with 1/4 cup steamed broccoli, cooked in mustard oil). (Approx. 150 kcal, 3g carbs, 15g protein, 8g fat)\n- **Why this works**: Chicken and broccoli provide protein and healthy fats to keep you in ketosis, with minimal carbs to support fat burning.\n\nTip: Keep portions small to stay within your calorie goals, and pair with water to stay hydrated."
+  },
+  {
+    "instruction": "What should a Naga eat for breakfast to support gut health?",
+    "input": "I’m from Nagaland focusing on gut health and need a breakfast idea. I like fermented foods and greens.",
+    "output": "Here’s a gut-healthy breakfast for a Naga:\n\n- **Breakfast**: 1/4 cup axone (fermented soybean) with 1/2 cup steamed lai xaak (mustard greens) and 1 boiled egg. (Approx. 200 kcal, 10g carbs, 15g protein, 10g fat)\n- **Why this works**: Axone provides probiotics, greens offer prebiotic fiber, and egg adds protein, supporting gut health with Naga flavors.\n\nTip: Start with a small portion of axone to test tolerance, and eat slowly to aid digestion."
+  },
+  {
+    "instruction": "Generate a high-protein vegan dinner for an Assamese aiming for muscle gain.",
+    "input": "I’m from Assam, vegan, trying to build muscle, and need a high-protein dinner idea. I like dal and greens.",
+    "output": "Here’s a high-protein vegan dinner for muscle gain in Assam:\n\n- **Dinner**: Red lentil dal (1 cup, cooked with turmeric and cumin) with 1 cup steamed lai xaak (mustard greens) and 1/2 cup cooked black gram. (Approx. 400 kcal, 50g carbs, 20g protein, 5g fat)\n- **Why this works**: Lentils and black gram provide 20g of protein for muscle repair, while greens add nutrients, in an Assamese style.\n\nTip: Eat this within an hour after your workout to maximize muscle protein synthesis."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for a low-FODMAP Meghalayan lunch.",
+    "input": "I’m from Meghalaya on a low-FODMAP diet and need a lunch with a macronutrient breakdown. I like rice and greens.",
+    "output": "Here’s a low-FODMAP Meghalayan lunch with a macronutrient breakdown:\n\n- **Lunch**: 1/2 cup cooked sticky rice with 1 cup steamed dohkhlieh (salad with greens, no onion/garlic) and 1 boiled egg. (Approx. 300 kcal, 35g carbs, 10g protein, 5g fat, 3g fiber)\n- **Why this works**: Sticky rice, greens, and egg are low-FODMAP, providing balanced nutrition with Meghalaya’s fresh salad style.\n\nTip: Avoid high-FODMAP ingredients like garlic or onion, and drink water to aid digestion."
+  },
+  {
+    "instruction": "Suggest a meal plan for a Manipuri resident doing a 20:4 intermittent fasting schedule during Ema Keithel market preparations.",
+    "input": "I’m from Manipur doing a 20:4 intermittent fasting schedule while preparing for Ema Keithel market and need a meal plan for my eating window. I like fish and greens.",
+    "output": "Here’s a meal plan for your 20:4 intermittent fasting eating window (e.g., 7 PM to 11 PM) in Manipur:\n\n- **7 PM (First Meal)**: Fish curry (120g fish with turmeric, mustard oil, and chili) with 1/2 cup steamed morok metpa (greens). (Approx. 350 kcal)\n- **9 PM (Main Meal)**: Grilled fish (120g, marinated with turmeric) with 1/2 cup bamboo shoots and 1/2 cup steamed greens. (Approx. 400 kcal)\n- **Why this works**: These meals provide protein and fiber to keep you full, with Manipuri flavors suited for your busy market preparations.\n\nTip: Stay hydrated with water between meals, and avoid snacking outside your eating window."
+  },
+  {
+    "instruction": "Suggest a gluten-free breakfast for a Sikkimese with celiac disease.",
+    "input": "I’m from Sikkim with celiac disease and need a gluten-free breakfast. I like eggs and greens.",
+    "output": "Here’s a gluten-free breakfast for a Sikkimese with celiac disease:\n\n- **Breakfast**: Egg stir-fry (2 eggs scrambled with 1 tsp mustard oil, turmeric, and 1/2 cup steamed broccoli). (Approx. 200 kcal, 5g carbs, 15g protein, 10g fat)\n- **Why this works**: Eggs and broccoli are naturally gluten-free, providing a balanced breakfast safe for celiac disease, with Sikkimese simplicity.\n\nTip: Double-check spices for gluten-containing additives, and use a non-stick pan to avoid cross-contamination."
+  },
+  {
+    "instruction": "What’s a good dairy-free substitute for curd in an Assamese recipe?",
+    "input": "I’m from Assam, dairy-free due to an allergy, and need a substitute for curd in my tenga. I like tangy flavors.",
+    "output": "Here’s a dairy-free substitute for curd in your Assamese tenga:\n\n- **Substitute**: Use tamarind paste instead of curd. Mix 1 tbsp tamarind paste with water to create a tangy base for your tenga. (Approx. 20 kcal per tbsp)\n- **Why this works**: Tamarind paste provides a similar tangy flavor to curd, fitting the sour profile of Assamese tenga while being dairy-free.\n\nTip: Adjust the tamarind quantity to control sourness, and pair with fish for a classic tenga taste."
+  },
+  {
+    "instruction": "Generate a post-workout meal for a Naga runner focusing on glycogen replenishment.",
+    "input": "I’m from Nagaland, a runner, and need a post-workout meal for glycogen replenishment after a speed session. I like pork and greens.",
+    "output": "Here’s a post-workout meal for glycogen replenishment for a Naga runner:\n\n- **Meal**: Pork stir-fry (120g pork with 1/2 cup bamboo shoots, turmeric, and chili) with 1/2 cup cooked sticky rice and 1/2 cup steamed lai xaak (mustard greens). (Approx. 450 kcal, 40g carbs, 30g protein, 15g fat)\n- **Why this works**: Pork provides protein to repair muscles, while sticky rice offers carbs to replenish glycogen stores, with Naga flavors.\n\nTip: Eat within 30 minutes of your session to optimize recovery, and drink water to rehydrate."
+  },
+  {
+    "instruction": "Suggest a lunch for a Manipuri pregnant woman in her third trimester focusing on iron.",
+    "input": "I’m from Manipur in my third trimester of pregnancy and need a lunch to boost iron. I like fish and greens.",
+    "output": "Here’s an iron-rich lunch for a Manipuri pregnant woman in her third trimester:\n\n- **Lunch**: Fish curry (120g fish cooked with turmeric, mustard oil, and chili) with 1/2 cup cooked sticky rice and 1 cup steamed morok metpa (greens). (Approx. 400 kcal, 35g carbs, 30g protein, 15g fat)\n- **Why this works**: Fish and greens provide iron and protein, while sticky rice offers carbs, essential for you and your baby, with Manipuri flavors.\n\nTip: Stay hydrated with water, and consider a prenatal vitamin if recommended by your doctor."
+  },
+  {
+    "instruction": "Create a grocery list for a budget-conscious Naga vegan meal plan for one day.",
+    "input": "I’m from Nagaland, vegan, on a tight budget, and need a grocery list for a one-day meal plan. I like bamboo shoots and greens.",
+    "output": "Here’s a budget-friendly grocery list for a one-day Naga vegan meal plan:\n\n- **Grocery List**: 1 lb bamboo shoots ($1), 1 bunch lai xaak (mustard greens) ($1), 1 lb red lentils ($1), 1 small bottle mustard oil ($1 for a portion). Total: ~$4\n- **Meal Plan**: Breakfast – bamboo shoot stir-fry with greens; Lunch – red lentil dal with bamboo shoots; Dinner – greens sabzi with bamboo shoots.\n\nTip: Buy in bulk to save more, and use spices like turmeric or chili you already have to add flavor."
+  },
+  {
+    "instruction": "Suggest a snack for recovery after an Assamese Bihu dance session.",
+    "input": "I’m from Assam, just finished a Bihu dance session, and need a snack for recovery. I like rice and jaggery.",
+    "output": "Here’s a snack for recovery after your Bihu dance session in Assam:\n\n- **Snack**: Sticky rice and jaggery balls (1 small ball made with 1/4 cup sticky rice and 1 tbsp melted jaggery). (Approx. 150 kcal, 25g carbs, 2g protein, 2g fat)\n- **Why this works**: Sticky rice provides quick-digesting carbs to replenish energy, and jaggery adds natural sweetness, with Assamese flavors.\n\nTip: Eat this within 30 minutes of your session to support recovery, and drink water to rehydrate."
+  },
+  {
+    "instruction": "What supplements should a Sikkimese consider for recovery after intense trekking sessions?",
+    "input": "I’m from Sikkim, trekking 5 days a week, and want to know what supplements might help with recovery. I eat a balanced diet.",
+    "output": "Here are some supplements to consider for recovery after intense trekking sessions in Sikkim:\n\n- **Supplements**: 1) Ashwagandha (300-600mg daily) to reduce stress and aid recovery. 2) Turmeric with black pepper (500mg daily) to reduce inflammation. 3) Vitamin C (500-1000mg daily) to support tissue repair.\n- **Why this works**: Ashwagandha and turmeric help with stress and inflammation, while vitamin C aids recovery, supporting your intense trekking routine.\n\nTip: Consult a healthcare professional before starting supplements, and prioritize hydration for optimal recovery."
+  },
+  {
+    "instruction": "Generate a one-day meal plan for a Meghalayan following a low-FODMAP diet.",
+    "input": "I’m from Meghalaya on a low-FODMAP diet for IBS and need a one-day meal plan. I like chicken and greens.",
+    "output": "Here’s a one-day low-FODMAP meal plan for a Meghalayan with IBS:\n\n- **Breakfast**: 2 boiled eggs with 1/4 cup steamed dohkhlieh (salad with greens, no onion/garlic). (Approx. 200 kcal)\n- **Lunch**: Grilled chicken (120g, marinated with turmeric and mustard oil) with 1/2 cup cooked sticky rice and 1/2 cup steamed carrots. (Approx. 400 kcal)\n- **Snack**: 1/2 cup cucumber slices with a pinch of rock salt. (Approx. 50 kcal)\n- **Dinner**: Chicken stir-fry (120g) with 1/2 cup sticky rice and 1/2 cup steamed zucchini (no onion/garlic). (Approx. 400 kcal)\n- **Why this works**: All ingredients are low-FODMAP, minimizing IBS symptoms while providing Meghalaya’s fresh flavors.\n\nTip: Keep a food diary to track how your body responds, and avoid high-FODMAP foods like garlic or onion."
+  },
+  {
+    "instruction": "Suggest a keto lunch for a Naga aiming for weight loss.",
+    "input": "I’m from Nagaland on a keto diet to lose weight and need a lunch idea. I like pork and bamboo shoots.",
+    "output": "Here’s a keto-friendly lunch for weight loss in Nagaland:\n\n- **Lunch**: Pork with bamboo shoots (120g pork cooked with 1/2 cup bamboo shoots, turmeric, and chili) with 1/2 cup steamed lai xaak (mustard greens). (Approx. 400 kcal, 5g carbs, 30g protein, 25g fat)\n- **Why this works**: Pork and bamboo shoots provide healthy fats to keep you in ketosis, with minimal carbs to support fat burning, in a Naga style.\n\nTip: Use minimal oil to avoid excess calories, and drink water to stay hydrated."
+  },
+  {
+    "instruction": "What should an Assamese with type 1 diabetes eat for dinner?",
+    "input": "I’m from Assam with type 1 diabetes and need a dinner that helps manage my blood sugar. I like fish and greens.",
+    "output": "Here’s a diabetes-friendly dinner for an Assamese with type 1 diabetes:\n\n- **Dinner**: Fish tenga (120g fish cooked with tomato, turmeric, and mustard oil) with 1/2 cup cooked sticky rice and 1 cup steamed lai xaak (mustard greens). (Approx. 400 kcal, 35g carbs, 30g protein, 15g fat)\n- **Why this works**: Sticky rice has a moderate glycemic index, while fish and greens provide protein and fiber for satiety, with Assam’s tangy flavors.\n\nTip: Monitor your blood sugar and adjust your insulin as needed, and avoid high-carb sides like extra rice."
+  },
+  {
+    "instruction": "Generate a high-protein vegetarian lunch for a Sikkimese aiming for muscle maintenance.",
+    "input": "I’m from Sikkim, vegetarian, trying to maintain muscle, and need a high-protein lunch idea. I like dal and greens.",
+    "output": "Here’s a high-protein vegetarian lunch for muscle maintenance in Sikkim:\n\n- **Lunch**: Red lentil dal (1/2 cup, cooked with turmeric and cumin) with 1/2 cup cooked sticky rice and 1 cup steamed broccoli. (Approx. 350 kcal, 40g carbs, 15g protein, 5g fat)\n- **Why this works**: Dal provides 15g of protein for muscle maintenance, while sticky rice offers carbs for energy, with Sikkim’s simple flavors.\n\nTip: Pair with a glass of water to stay hydrated, and eat after your workout for best results."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for a Manipuri paleo breakfast.",
+    "input": "I’m from Manipur on a paleo diet and need a breakfast with a macronutrient breakdown. I like fish and greens.",
+    "output": "Here’s a Manipuri paleo breakfast with a macronutrient breakdown:\n\n- **Breakfast**: Grilled fish (100g, marinated with turmeric and mustard oil) with 1/2 cup steamed morok metpa (greens). (Approx. 200 kcal, 3g carbs, 25g protein, 10g fat, 2g fiber)\n- **Why this works**: Fish provides protein, while greens offer nutrients, fitting the paleo framework with Manipuri flavors.\n\nTip: Use mustard oil for authenticity, and pair with a glass of water to start your day."
+  },
+  {
+    "instruction": "Suggest a meal plan for a Naga doing a 16:8 intermittent fasting schedule.",
+    "input": "I’m from Nagaland doing a 16:8 intermittent fasting schedule and need a meal plan for my eating window. I like pork and greens.",
+    "output": "Here’s a meal plan for your 16:8 intermittent fasting eating window (e.g., 12 PM to 8 PM) in Nagaland:\n\n- **12 PM (First Meal)**: Pork with bamboo shoots (120g pork cooked with 1/2 cup bamboo shoots, turmeric, and chili) with 1/2 cup steamed lai xaak (mustard greens). (Approx. 400 kcal)\n- **3 PM (Snack)**: 1/4 cup steamed bamboo shoots with a pinch of chili. (Approx. 50 kcal)\n- **6 PM (Main Meal)**: Pork stir-fry (150g pork with 1/2 cup greens and bamboo shoots). (Approx. 450 kcal)\n- **Why this works**: This plan provides balanced nutrients within your eating window, with protein to keep you full, tailored to Naga tastes.\n\nTip: Stay hydrated during your fasting window with water, and avoid snacking outside your eating hours."
+  },
+  {
+    "instruction": "Suggest a low-FODMAP snack for an Assamese with IBS.",
+    "input": "I’m from Assam with IBS and need a low-FODMAP snack. I like seeds and greens.",
+    "output": "Here’s a low-FODMAP snack for an Assamese with IBS:\n\n- **Snack**: 1 tbsp roasted pumpkin seeds with 1/2 cup steamed lai xaak (mustard greens). (Approx. 100 kcal, 5g carbs, 3g protein, 5g fat)\n- **Why this works**: Pumpkin seeds and lai xaak are low-FODMAP, making this snack gentle on your gut with Assamese flavors.\n\nTip: Stick to small portions to avoid overloading your system, and eat slowly to aid digestion."
+  },
+  {
+    "instruction": "What’s a good soy-free substitute for axone in a Naga vegan recipe?",
+    "input": "I’m from Nagaland, vegan, allergic to soy, and need a substitute for axone in my curry. I like fermented flavors.",
+    "output": "Here’s a soy-free substitute for axone in your Naga vegan curry:\n\n- **Substitute**: Use fermented bamboo shoots instead of axone. Use 1/4 cup fermented bamboo shoots (check for soy-free preparation) to add a tangy, fermented flavor to your curry. (Approx. 30 kcal per 1/4 cup)\n- **Why this works**: Fermented bamboo shoots mimic axone’s tangy profile, fitting Naga curries while being soy-free and plant-based.\n\nTip: Adjust the quantity to control tanginess, and pair with greens for a traditional Naga taste."
+  },
+  {
+    "instruction": "Generate a pre-workout meal for a Sikkimese weightlifter focusing on strength.",
+    "input": "I’m from Sikkim, a weightlifter, and need a pre-workout meal for strength training. I like chicken and rice.",
+    "output": "Here’s a pre-workout meal for strength training for a Sikkimese weightlifter:\n\n- **Meal**: Chicken stir-fry (100g chicken with 1 tsp mustard oil, turmeric, and cumin) with 1/2 cup cooked sticky rice. (Approx. 300 kcal, 35g carbs, 25g protein, 5g fat)\n- **Why this works**: Chicken provides protein to support muscle performance, while sticky rice offers carbs for energy, with Sikkimese simplicity.\n\nTip: Eat this 1-2 hours before your session to allow for digestion, and sip water to stay hydrated."
+  },
+  {
+    "instruction": "Suggest a breakfast for a Manipuri postpartum mom focusing on nutrient density.",
+    "input": "I’m from Manipur, a postpartum mom, and need a breakfast to support recovery. I like fish and greens.",
+    "output": "Here’s a nutrient-dense breakfast for a Manipuri postpartum mom:\n\n- **Breakfast**: Fish fry (100g fish marinated with turmeric, chili, and mustard oil, pan-fried) with 1/2 cup steamed morok metpa (greens). (Approx. 250 kcal, 5g carbs, 25g protein, 10g fat)\n- **Why this works**: Fish provides protein and omega-3s, while greens offer iron and lactation support, with Manipuri flavors.\n\nTip: Stay hydrated with water or a glass of tender coconut water, and take short rests to recharge."
+  },
+  {
+    "instruction": "Create a grocery list for a budget-conscious Assamese paleo meal plan for one day.",
+    "input": "I’m from Assam on a paleo diet and on a tight budget. I need a grocery list for a one-day meal plan. I like fish and greens.",
+    "output": "Here’s a budget-friendly grocery list for a one-day Assamese paleo meal plan:\n\n- **Grocery List**: 300g fish ($2), 1 bunch lai xaak (mustard greens) ($1), 1 small bottle mustard oil ($1 for a portion), 1 small pack bamboo shoots ($1). Total: ~$5\n- **Meal Plan**: Breakfast – fish fry (100g) with lai xaak; Lunch – fish tenga (100g) with bamboo shoots; Dinner – grilled fish (100g) with lai xaak.\n\nTip: Buy in bulk to save more, and use spices like turmeric or chili you already have to add flavor."
+  },
+  {
+    "instruction": "Suggest a snack for energy during a Meghalayan festival preparation for Wangala.",
+    "input": "I’m from Meghalaya preparing for Wangala and need a snack for energy during the day. I like rice and jaggery.",
+    "output": "Here’s an energizing snack for your Wangala preparations in Meghalaya:\n\n- **Snack**: Sticky rice and jaggery balls (1 small ball made with 1/4 cup sticky rice and 1 tbsp melted jaggery). (Approx. 150 kcal, 25g carbs, 2g protein, 2g fat)\n- **Why this works**: Sticky rice provides quick-digesting carbs for energy, and jaggery adds natural sweetness, with a Meghalayan festive touch.\n\nTip: Keep a bottle of water nearby to stay hydrated while you work on Wangala rituals."
+  },
+  {
+    "instruction": "What supplements should a Naga consider for bone health during a weight loss journey?",
+    "input": "I’m from Nagaland on a weight loss journey and want to know what supplements might help with bone health. I eat a balanced diet.",
+    "output": "Here are some supplements to consider for bone health during your weight loss journey in Nagaland:\n\n- **Supplements**: 1) Calcium (1000-1200mg daily) to support bone density. 2) Vitamin D (1000-2000 IU daily) to enhance calcium absorption. 3) Shatavari (300-500mg daily), an Ayurvedic herb, to support overall health.\n- **Why this works**: Calcium and vitamin D maintain bone strength, while Shatavari supports hormonal balance during weight loss, complementing a Naga diet.\n\nTip: Consult a healthcare professional before starting supplements, and include weight-bearing exercises to support bone health."
+  },
+  {
+    "instruction": "Generate a one-day meal plan for a Sikkimese following a high-protein vegan diet.",
+    "input": "I’m from Sikkim on a high-protein vegan diet and need a one-day meal plan. I like dal and greens.",
+    "output": "Here’s a one-day high-protein vegan meal plan for a Sikkimese:\n\n- **Breakfast**: Red lentil dal (1/2 cup, cooked with turmeric and cumin) with 1/2 cup steamed broccoli. (Approx. 200 kcal)\n- **Lunch**: Black gram dal (1 cup, cooked with spices) with 1/2 cup cooked sticky rice and 1/2 cup steamed greens. (Approx. 450 kcal)\n- **Snack**: 1/2 cup roasted chickpeas with a pinch of rock salt. (Approx. 150 kcal)\n- **Dinner**: Dal (1 cup) with 1/2 cup sticky rice and 1/2 cup steamed zucchini. (Approx. 450 kcal)\n- **Why this works**: This plan provides over 60g of protein from dals, supporting your high-protein goals with Sikkimese simplicity.\n\nTip: Stay hydrated with water, and vary your protein sources to ensure a range of nutrients."
+  },
+  {
+    "instruction": "Suggest a keto breakfast for an Assamese aiming for weight loss.",
+    "input": "I’m from Assam on a keto diet to lose weight and need a breakfast idea. I like fish and greens.",
+    "output": "Here’s a keto-friendly breakfast for weight loss in Assam:\n\n- **Breakfast**: Fish fry (100g fish marinated with turmeric, chili, and mustard oil, pan-fried) with 1/2 cup steamed lai xaak (mustard greens). (Approx. 250 kcal, 5g carbs, 25g protein, 15g fat)\n- **Why this works**: Fish and greens provide healthy fats to keep you in ketosis, with minimal carbs to support fat burning, in an Assamese style.\n\nTip: Pair with a glass of water to stay hydrated, and avoid high-carb additives."
+  },
+  {
+    "instruction": "What should a Meghalayan with type 2 diabetes eat for lunch?",
+    "input": "I’m from Meghalaya with type 2 diabetes and need a lunch that won’t spike my blood sugar. I like rice and greens.",
+    "output": "Here’s a diabetes-friendly lunch for a Meghalayan with type 2 diabetes:\n\n- **Lunch**: 1/2 cup cooked sticky rice with 1 cup steamed dohkhlieh (salad with greens) and 1 boiled egg. (Approx. 300 kcal, 35g carbs, 10g protein, 5g fat)\n- **Why this works**: Sticky rice in moderation has a moderate glycemic index, while greens and egg provide protein and fiber, with Meghalaya’s fresh flavors.\n\nTip: Check your blood sugar 1-2 hours after eating to ensure this meal works for you, and avoid sugary drinks."
+  },
+  {
+    "instruction": "Generate a high-protein vegetarian dinner for a Naga aiming for muscle gain.",
+    "input": "I’m from Nagaland, vegetarian, trying to build muscle, and need a high-protein dinner idea. I like dal and greens.",
+    "output": "Here’s a high-protein vegetarian dinner for muscle gain in Nagaland:\n\n- **Dinner**: Red lentil dal (1 cup, cooked with turmeric and cumin) with 1/2 cup cooked sticky rice and 1 cup steamed lai xaak (mustard greens). (Approx. 400 kcal, 50g carbs, 20g protein, 5g fat)\n- **Why this works**: Dal provides 20g of protein for muscle repair, while sticky rice offers carbs for energy, with Naga greens.\n\nTip: Eat this within an hour after your workout to maximize muscle protein synthesis."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for an Assamese heart-healthy lunch.",
+    "input": "I’m from Assam focusing on heart health and need a lunch with a macronutrient breakdown. I like fish and greens.",
+    "output": "Here’s a heart-healthy lunch for an Assamese with a macronutrient breakdown:\n\n- **Lunch**: Fish tenga (120g fish cooked with tomato, turmeric, and mustard oil) with 1/2 cup cooked sticky rice and 1 cup steamed lai xaak (mustard greens). (Approx. 400 kcal, 40g carbs, 30g protein, 15g fat, 5g fiber)\n- **Why this works**: Fish provides omega-3s to reduce inflammation, while sticky rice and greens offer fiber to support cholesterol levels, with Assam’s tangy flavors.\n\nTip: Use minimal salt to keep sodium low, and pair with a glass of water."
+  },
+  {
+    "instruction": "Suggest a meal plan for a Sikkimese doing a 16:8 intermittent fasting schedule.",
+    "input": "I’m from Sikkim doing a 16:8 intermittent fasting schedule and need a meal plan for my eating window. I like chicken and greens.",
+    "output": "Here’s a meal plan for your 16:8 intermittent fasting eating window (e.g., 12 PM to 8 PM) in Sikkim:\n\n- **12 PM (First Meal)**: Chicken stir-fry (120g chicken with 1/2 cup steamed broccoli, turmeric, and mustard oil). (Approx. 350 kcal)\n- **3 PM (Snack)**: 1/2 cup steamed broccoli with a pinch of rock salt. (Approx. 50 kcal)\n- **6 PM (Main Meal)**: Chicken thukpa (1 cup, with chicken, veggies, minimal noodles) with 1/2 cup steamed greens. (Approx. 400 kcal)\n- **Why this works**: This plan provides balanced nutrients within your eating window, with protein to keep you full, tailored to Sikkimese tastes.\n\nTip: Stay hydrated during your fasting window with water, and avoid snacking outside your eating hours."
+  },
+  {
+    "instruction": "Suggest a low-FODMAP breakfast for a Manipuri with digestive issues.",
+    "input": "I’m from Manipur with digestive issues and need a low-FODMAP breakfast. I like eggs and greens.",
+    "output": "Here’s a low-FODMAP breakfast for a Manipuri with digestive issues:\n\n- **Breakfast**: Egg stir-fry (2 eggs scrambled with 1 tsp mustard oil, turmeric, and 1/2 cup steamed morok metpa, no onion/garlic). (Approx. 200 kcal, 5g carbs, 15g protein, 10g fat)\n- **Why this works**: Eggs and greens are low-FODMAP, making this meal gentle on your gut with Manipuri flavors.\n\nTip: Avoid high-FODMAP ingredients like garlic or onion, and eat slowly to aid digestion."
+  },
+  {
+    "instruction": "What’s a good nut-free substitute for cashew paste in a Naga curry?",
+    "input": "I’m from Nagaland, allergic to nuts, and need a substitute for cashew paste in my curry. I like seeds.",
+    "output": "Here’s a nut-free substitute for cashew paste in your Naga curry:\n\n- **Substitute**: Use sunflower seed paste instead of cashew paste. Blend 2 tbsp sunflower seeds with water to make a smooth paste, and use in your curry for creaminess. (Approx. 100 kcal per 2 tbsp)\n- **Why this works**: Sunflower seed paste provides a similar creamy texture and is nut-free, making it safe for your allergy while fitting Naga curries.\n\nTip: Add the paste towards the end of cooking to maintain its texture, and adjust spices to balance the flavor."
+  },
+  {
+    "instruction": "Generate a post-workout meal for an Assamese swimmer focusing on muscle repair.",
+    "input": "I’m from Assam, a swimmer, and need a post-workout meal for muscle repair after a long swim. I like fish and greens.",
+    "output": "Here’s a post-workout meal for muscle repair for an Assamese swimmer:\n\n- **Meal**: Fish tenga (120g fish cooked with tomato, turmeric, and mustard oil) with 1/2 cup cooked sticky rice and 1 cup steamed lai xaak (mustard greens). (Approx. 400 kcal, 40g carbs, 30g protein, 15g fat)\n- **Why this works**: Fish provides 30g of protein to repair muscles, while sticky rice offers carbs to replenish glycogen stores, with Assam’s tangy flavors.\n\nTip: Eat within 30 minutes of your session to maximize recovery, and drink water to rehydrate."
+  },
+  {
+    "instruction": "Suggest a lunch for a Sikkimese pregnant woman in her second trimester focusing on calcium.",
+    "input": "I’m from Sikkim in my second trimester of pregnancy and need a lunch to boost calcium. I like chicken and greens.",
+    "output": "Here’s a calcium-rich lunch for a Sikkimese pregnant woman in her second trimester:\n\n- **Lunch**: Chicken stir-fry (120g chicken with 1 tsp mustard oil, turmeric, and cumin) with 1/2 cup cooked sticky rice and 1 cup steamed broccoli. (Approx. 400 kcal, 35g carbs, 30g protein, 15g fat)\n- **Why this works**: Chicken provides protein, while broccoli offers calcium and vitamin K, essential for you and your baby, with Sikkimese simplicity.\n\nTip: Stay hydrated with water, and consider a prenatal vitamin if recommended by your doctor."
+  },
+  {
+    "instruction": "Create a grocery list for a budget-conscious Manipuri high-protein meal plan for one day.",
+    "input": "I’m from Manipur on a high-protein diet and on a tight budget. I need a grocery list for a one-day meal plan. I like fish and eggs.",
+    "output": "Here’s a budget-friendly grocery list for a one-day Manipuri high-protein meal plan:\n\n- **Grocery List**: 300g fish ($2), 6 eggs ($1.50), 1 bunch morok (greens) ($1), 1 small bottle mustard oil ($1 for a portion). Total: ~$5.50\n- **Meal Plan**: Breakfast – three-egg omelet with morok; Lunch – fish curry (150g) with greens; Dinner – grilled fish (150g) with a boiled egg and morok.\n\nTip: Buy in bulk to save more, and use spices like turmeric or chili you already have to add flavor."
+  },
+  {
+    "instruction": "Suggest a snack for focus during a Naga wedding planning session.",
+    "input": "I’m from Nagaland planning a wedding and need a snack to help me focus. I like bamboo shoots and greens.",
+    "output": "Here’s a snack to boost focus during your wedding planning session in Nagaland:\n\n- **Snack**: Bamboo shoot salad (1/4 cup bamboo shoots with 1/2 cup steamed lai xaak, sprinkled with chili). (Approx. 100 kcal, 5g carbs, 2g protein, 2g fat)\n- **Why this works**: Bamboo shoots and greens provide light energy and fiber for sustained focus, with Naga flavors.\n\nTip: Keep a bottle of water nearby to stay hydrated, as dehydration can affect concentration."
+  },
+  {
+    "instruction": "What supplements should an Assamese consider for energy during a triathlon training cycle?",
+    "input": "I’m from Assam training for a triathlon and want to know what supplements might help with energy. I eat a balanced diet.",
+    "output": "Here are some supplements to consider for energy during your triathlon training in Assam:\n\n- **Supplements**: 1) Ashwagandha (300-600mg daily) to boost stamina and reduce stress. 2) CoQ10 (100-200mg daily) to enhance mitochondrial function. 3) Electrolyte powder (as needed during sessions) to maintain hydration.\n- **Why this works**: Ashwagandha improves endurance, CoQ10 supports energy production, and electrolytes prevent fatigue, supporting your training in Assam’s climate.\n\nTip: Consult a healthcare professional before starting supplements, and prioritize carbs in your diet for energy."
+  },
+  {
+    "instruction": "Generate a one-day meal plan for a Meghalayan following a keto diet.",
+    "input": "I’m from Meghalaya on a keto diet and need a one-day meal plan. I like chicken and greens.",
+    "output": "Here’s a one-day keto meal plan for a Meghalayan:\n\n- **Breakfast**: Chicken stir-fry (100g chicken with 1 tsp mustard oil, turmeric, and 1/2 cup steamed dohkhlieh greens). (Approx. 250 kcal)\n- **Lunch**: Chicken curry (120g chicken with 1/2 cup bamboo shoots, turmeric, and chili) with 1/2 cup steamed greens. (Approx. 400 kcal)\n- **Snack**: 1/4 avocado with a pinch of rock salt. (Approx. 80 kcal)\n- **Dinner**: Grilled chicken (150g, marinated with turmeric and chili) with 1 cup steamed greens. (Approx. 450 kcal)\n- **Why this works**: All meals are low-carb (under 20g total), high in healthy fats, and protein-focused to keep you in ketosis, with Meghalaya flavors.\n\nTip: Stay hydrated with water, and monitor your carb intake to ensure you stay in ketosis."
+  },
+  {
+    "instruction": "Suggest a keto dinner for a Sikkimese aiming for weight loss.",
+    "input": "I’m from Sikkim on a keto diet to lose weight and need a dinner idea. I like chicken and greens.",
+    "output": "Here’s a keto-friendly dinner for weight loss in Sikkim:\n\n- **Dinner**: Chicken stir-fry (120g chicken with 1 tsp mustard oil, turmeric, and 1 cup steamed broccoli). (Approx. 400 kcal, 5g carbs, 35g protein, 25g fat)\n- **Why this works**: Chicken and broccoli provide healthy fats to keep you in ketosis, with minimal carbs to support fat burning, in a Sikkimese style.\n\nTip: Use minimal oil to avoid excess calories, and drink water to stay hydrated."
+  },
+  {
+    "instruction": "What should a Naga with type 2 diabetes eat for breakfast?",
+    "input": "I’m from Nagaland with type 2 diabetes and need a breakfast that won’t spike my blood sugar. I like eggs and greens.",
+    "output": "Here’s a diabetes-friendly breakfast for a Naga with type 2 diabetes:\n\n- **Breakfast**: Egg stir-fry (2 eggs scrambled with 1 tsp mustard oil, turmeric, and 1/2 cup steamed lai xaak, no onion/garlic). (Approx. 200 kcal, 5g carbs, 15g protein, 10g fat)\n- **Why this works**: Eggs and greens provide protein and fiber with minimal carbs to prevent blood sugar spikes, with Naga flavors.\n\nTip: Check your blood sugar 1-2 hours after eating to ensure this meal works for you, and avoid sugary drinks."
+  },
+  {
+    "instruction": "Generate a high-protein vegan breakfast for an Assamese aiming for muscle gain.",
+    "input": "I’m from Assam, vegan, trying to build muscle, and need a high-protein breakfast idea. I like dal and greens.",
+    "output": "Here’s a high-protein vegan breakfast for muscle gain in Assam:\n\n- **Breakfast**: Red lentil dal (1/2 cup, cooked with turmeric and cumin) with 1/2 cup steamed lai xaak and 1 tbsp roasted flaxseeds. (Approx. 250 kcal, 30g carbs, 15g protein, 5g fat)\n- **Why this works**: Dal provides 15g of protein for muscle repair, while greens and flaxseeds add nutrients and healthy fats, with Assamese flavors.\n\nTip: Eat this within an hour after your workout to maximize muscle protein synthesis."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for a Sikkimese heart-healthy dinner.",
+    "input": "I’m from Sikkim focusing on heart health and need a dinner with a macronutrient breakdown. I like chicken and greens.",
+    "output": "Here’s a heart-healthy dinner for a Sikkimese with a macronutrient breakdown:\n\n- **Dinner**: Chicken thukpa (120g chicken with 1/2 cup veggies, minimal noodles, in broth) with 1/2 cup steamed broccoli. (Approx. 400 kcal, 20g carbs, 35g protein, 15g fat, 5g fiber)\n- **Why this works**: Chicken provides lean protein, while veggies offer fiber to support cholesterol levels, with Sikkim’s thukpa tradition.\n\nTip: Use minimal salt to keep sodium low, and pair with a glass of water."
+  },
+  {
+    "instruction": "Suggest a meal plan for a Manipuri doing a 14:10 intermittent fasting schedule.",
+    "input": "I’m from Manipur doing a 14:10 intermittent fasting schedule and need a meal plan for my eating window. I like fish and greens.",
+    "output": "Here’s a meal plan for your 14:10 intermittent fasting eating window (e.g., 10 AM to 8 PM) in Manipur:\n\n- **10 AM (First Meal)**: Fish curry (120g fish with turmeric, mustard oil, and chili) with 1/2 cup steamed morok metpa (greens). (Approx. 350 kcal)\n- **2 PM (Snack)**: 1/4 cup steamed bamboo shoots with a pinch of chili. (Approx. 50 kcal)\n- **6 PM (Main Meal)**: Grilled fish (150g, marinated with turmeric) with 1 cup steamed greens and 1/2 cup bamboo shoots. (Approx. 400 kcal)\n- **Why this works**: This plan balances protein and fiber to keep you satisfied within your eating window, with Manipuri flavors.\n\nTip: Stay hydrated during fasting with water or tender coconut water, and avoid snacking outside your window."
+  },
+  {
+    "instruction": "Suggest a low-FODMAP dinner for a Naga with IBS.",
+    "input": "I’m from Nagaland with IBS and need a low-FODMAP dinner. I like pork and greens.",
+    "output": "Here’s a low-FODMAP dinner for a Naga with IBS:\n\n- **Dinner**: Pork stir-fry (120g pork with 1/2 cup steamed lai xaak, turmeric, and chili, no onion/garlic). (Approx. 350 kcal, 5g carbs, 30g protein, 20g fat)\n- **Why this works**: Pork and greens are low-FODMAP, making this meal gentle on your gut with Naga flavors.\n\nTip: Avoid high-FODMAP ingredients like garlic or onion, and eat slowly to aid digestion."
+  },
+  {
+    "instruction": "What’s a good dairy-free substitute for ghee in a Meghalayan recipe?",
+    "input": "I’m from Meghalaya, dairy-free due to an allergy, and need a substitute for ghee in my cooking. I like mustard oil flavors.",
+    "output": "Here’s a dairy-free substitute for ghee in your Meghalayan cooking:\n\n- **Substitute**: Use mustard oil instead of ghee. Replace ghee with an equal amount of mustard oil (e.g., 1 tbsp mustard oil for 1 tbsp ghee) for a pungent, rich flavor. (Approx. 120 kcal per tbsp)\n- **Why this works**: Mustard oil provides a strong, authentic flavor you enjoy, while being dairy-free and fitting Meghalayan dishes.\n\nTip: Heat the mustard oil until it smokes lightly to reduce its pungency, and adjust spices to balance the dish."
+  },
+  {
+    "instruction": "Generate a pre-workout meal for an Assamese cyclist focusing on endurance.",
+    "input": "I’m from Assam, a cyclist, and need a pre-workout meal for endurance before a long ride. I like rice and dal.",
+    "output": "Here’s a pre-workout meal for endurance for an Assamese cyclist:\n\n- **Meal**: 1/2 cup cooked sticky rice with 1/2 cup red lentil dal (seasoned with turmeric and cumin). (Approx. 300 kcal, 50g carbs, 10g protein, 5g fat)\n- **Why this works**: Sticky rice and dal provide complex carbs for sustained energy, fueling your long ride in an Assamese style.\n\nTip: Eat this 1-2 hours before your ride to allow for digestion, and sip water to stay hydrated."
+  },
+  {
+    "instruction": "Suggest a breakfast for a Sikkimese postpartum mom focusing on healing.",
+    "input": "I’m from Sikkim, a postpartum mom, and need a breakfast to support healing. I like eggs and greens.",
+    "output": "Here’s a breakfast for healing for a Sikkimese postpartum mom:\n\n- **Breakfast**: Egg stir-fry (2 eggs scrambled with 1 tsp mustard oil, turmeric, and 1/2 cup steamed broccoli). (Approx. 200 kcal, 5g carbs, 15g protein, 10g fat)\n- **Why this works**: Eggs provide protein and choline, while broccoli offers nutrients for healing, with Sikkimese simplicity.\n\nTip: Stay hydrated with water or a glass of yak butter tea (if not dairy-free), and take short rests to recharge."
+  },
+  {
+    "instruction": "Create a grocery list for a budget-conscious Naga keto meal plan for one day.",
+    "input": "I’m from Nagaland on a keto diet and on a tight budget. I need a grocery list for a one-day meal plan. I like pork and greens.",
+    "output": "Here’s a budget-friendly grocery list for a one-day Naga keto meal plan:\n\n- **Grocery List**: 300g pork ($2), 1 bunch lai xaak (mustard greens) ($1), 1 small pack bamboo shoots ($1), 1 small bottle mustard oil ($1 for a portion). Total: ~$5\n- **Meal Plan**: Breakfast – pork stir-fry (100g) with lai xaak; Lunch – pork with bamboo shoots (100g); Dinner – pork (100g) with greens and bamboo shoots.\n\nTip: Buy in bulk to save more, and use spices like turmeric or chili you already have to add flavor."
+  },
+  {
+    "instruction": "Suggest a snack for energy during a Manipuri road trip to Loktak Lake.",
+    "input": "I’m from Manipur on a road trip to Loktak Lake and need a snack for sustained energy. I like bamboo shoots and greens.",
+    "output": "Here’s an energizing snack for your road trip to Loktak Lake from Manipur:\n\n- **Snack**: Bamboo shoot salad (1/4 cup bamboo shoots with 1/2 cup steamed morok metpa, sprinkled with chili). (Approx. 100 kcal, 5g carbs, 2g protein, 2g fat)\n- **Why this works**: Bamboo shoots and greens provide light energy and fiber for sustained focus, with Manipuri flavors.\n\nTip: Pack in a small container to avoid overeating, and sip water to stay hydrated on the road."
+  },
+  {
+    "instruction": "What supplements should an Assamese consider for immune support during monsoon season?",
+    "input": "I’m from Assam in the monsoon season and want to know what supplements might help with immune support. I eat a balanced diet.",
+    "output": "Here are some supplements to consider for immune support during the monsoon season in Assam:\n\n- **Supplements**: 1) Vitamin C (500-1000mg daily) to boost immune function. 2) Tulsi extract (300-500mg daily), an Ayurvedic herb, to support immunity. 3) Probiotics (10-20 billion CFU daily) to support gut health.\n- **Why this works**: Vitamin C and tulsi help fight infections common in monsoon, while probiotics support gut health, which is key for immunity.\n\nTip: Consult a healthcare professional before starting supplements, and prioritize hygiene to avoid monsoon-related illnesses."
+  },
+  {
+    "instruction": "Generate a one-day meal plan for a Naga following a paleo diet.",
+    "input": "I’m from Nagaland on a paleo diet and need a one-day meal plan. I like pork and greens.",
+    "output": "Here’s a one-day paleo meal plan for a Naga:\n\n- **Breakfast**: Pork stir-fry (100g pork with 1 tsp mustard oil, turmeric, and 1/2 cup steamed lai xaak). (Approx. 250 kcal)\n- **Lunch**: Pork with bamboo shoots (120g pork with 1/2 cup bamboo shoots, turmeric, and chili). (Approx. 400 kcal)\n- **Snack**: 1/4 cup steamed bamboo shoots with a pinch of chili. (Approx. 50 kcal)\n- **Dinner**: Pork stir-fry (150g pork with 1/2 cup greens and bamboo shoots). (Approx. 450 kcal)\n- **Why this works**: All meals are grain-free, dairy-free, and focused on whole foods, aligning with paleo principles while providing Naga flavors.\n\nTip: Use mustard oil and fresh spices for flavor, and stay hydrated with water throughout the day."
+  },
+  {
+    "instruction": "Suggest a keto breakfast for a Manipuri aiming for weight loss.",
+    "input": "I’m from Manipur on a keto diet to lose weight and need a breakfast idea. I like fish and greens.",
+    "output": "Here’s a keto-friendly breakfast for weight loss in Manipur:\n\n- **Breakfast**: Fish fry (100g fish marinated with turmeric, chili, and mustard oil, pan-fried) with 1/2 cup steamed morok metpa (greens). (Approx. 250 kcal, 5g carbs, 25g protein, 15g fat)\n- **Why this works**: Fish and greens provide healthy fats to keep you in ketosis, with minimal carbs to support fat burning, in a Manipuri style.\n\nTip: Pair with a glass of water to stay hydrated, and avoid high-carb additives."
+  },
+  {
+    "instruction": "What should a Sikkimese with type 2 diabetes eat for dinner?",
+    "input": "I’m from Sikkim with type 2 diabetes and need a dinner that won’t spike my blood sugar. I like chicken and greens.",
+    "output": "Here’s a diabetes-friendly dinner for a Sikkimese with type 2 diabetes:\n\n- **Dinner**: Chicken thukpa (120g chicken with 1/2 cup veggies, minimal noodles, in broth) with 1/2 cup steamed broccoli. (Approx. 400 kcal, 20g carbs, 35g protein, 15g fat)\n- **Why this works**: Chicken and broccoli provide protein and fiber with minimal carbs to prevent blood sugar spikes, with Sikkim’s thukpa flavors.\n\nTip: Check your blood sugar 1-2 hours after eating to ensure this meal works for you, and avoid sugary drinks."
+  },
+  {
+    "instruction": "Generate a high-protein vegetarian breakfast for a Naga aiming for muscle maintenance.",
+    "input": "I’m from Nagaland, vegetarian, trying to maintain muscle, and need a high-protein breakfast idea. I like dal and greens.",
+    "output": "Here’s a high-protein vegetarian breakfast for muscle maintenance in Nagaland:\n\n- **Breakfast**: Red lentil dal (1/2 cup, cooked with turmeric and cumin) with 1/2 cup steamed lai xaak and 1 boiled egg. (Approx. 250 kcal, 20g carbs, 15g protein, 5g fat)\n- **Why this works**: Dal and egg provide 15g of protein for muscle maintenance, while greens offer nutrients, with Naga flavors.\n\nTip: Pair with a glass of water to stay hydrated, and eat after your workout for best results."
+  },
+  {
+    "instruction": "Provide a macronutrient breakdown for a Meghalayan heart-healthy breakfast.",
+    "input": "I’m from Meghalaya focusing on heart health and need a breakfast with a macronutrient breakdown. I like rice and greens.",
+    "output": "Here’s a heart-healthy breakfast for a Meghalayan with a macronutrient breakdown:\n\n- **Breakfast**: 1/2 cup cooked sticky rice with 1/2 cup steamed dohkhlieh (salad with greens) and 1 boiled egg. (Approx. 250 kcal, 35g carbs, 10g protein, 5g fat, 5g fiber)\n- **Why this works**: Sticky rice provides fiber to support cholesterol levels, while greens and egg offer heart-healthy nutrients, with Meghalaya’s fresh flavors.\n\nTip: Use minimal oil to keep calories low, and pair with a glass of water."
+  },
+  {
+    "instruction": "Suggest a meal plan for an Assamese doing a 14:10 intermittent fasting schedule.",
+    "input": "I’m from Assam doing a 14:10 intermittent fasting schedule and need a meal plan for my eating window. I like fish and greens.",
+    "output": "Here’s a meal plan for your 14:10 intermittent fasting eating window (e.g., 10 AM to 8 PM) in Assam:\n\n- **10 AM (First Meal)**: Fish tenga (120g fish cooked with tomato, turmeric, and mustard oil) with 1/2 cup cooked sticky rice and 1/2 cup steamed lai xaak. (Approx. 400 kcal)\n- **2 PM (Snack)**: 1/4 cup steamed lai xaak with a pinch of chili. (Approx. 50 kcal)\n- **6 PM (Main Meal)**: Grilled fish (150g, marinated with turmeric) with 1 cup steamed greens and 1/2 cup bamboo shoots. (Approx. 400 kcal)\n- **Why this works**: This plan balances protein and fiber to keep you satisfied within your eating window, with Assamese flavors.\n\nTip: Stay hydrated during fasting with water or lemon water, and avoid snacking outside your window."
+  },
+  {
+    "instruction": "Suggest a low-FODMAP snack for a Sikkimese with digestive issues.",
+    "input": "I’m from Sikkim with digestive issues and need a low-FODMAP snack. I like fruit and seeds.",
+    "output": "Here’s a low-FODMAP snack for a Sikkimese with digestive issues:\n\n- **Snack**: 1/2 cup papaya with 1 tbsp roasted pumpkin seeds. (Approx. 100 kcal, 10g carbs, 2g protein, 5g fat)\n- **Why this works**: Papaya (in small portions) and pumpkin seeds are low-FODMAP, making this snack gentle on your gut with Sikkimese simplicity.\n\nTip: Stick to small portions of fruit to avoid FODMAP overload, and eat slowly to aid digestion."
+  },
+  {
+    "instruction": "What’s a good soy-free substitute for tofu in a Manipuri vegan recipe?",
+    "input": "I’m from Manipur, vegan, allergic to soy, and need a substitute for tofu in my sabzi. I like bamboo shoots.",
+    "output": "Here’s a soy-free substitute for tofu in your Manipuri vegan sabzi:\n\n- **Substitute**: Use bamboo shoots instead of tofu. Cube 1/2 cup bamboo shoots and cook with your sabzi spices for a chewy texture. (Approx. 30 kcal per 1/2 cup)\n- **Why this works**: Bamboo shoots mimic the texture of tofu, absorbing Manipuri spices well while being soy-free and plant-based.\n\nTip: Cook bamboo shoots until tender, and pair with greens for a traditional Manipuri taste."
+  },
+  {
+    "instruction": "Generate a post-workout meal for a Naga gym-goer focusing on muscle recovery.",
+    "input": "I’m from Nagaland, a gym-goer, and need a post-workout meal for muscle recovery. I like pork and greens.",
+    "output": "Here’s a post-workout meal for muscle recovery for a Naga gym-goer:\n\n- **Meal**: Pork with bamboo shoots (120g pork cooked with 1/2 cup bamboo shoots, turmeric, and chili) with 1/2 cup steamed lai xaak (mustard greens). (Approx. 400 kcal, 5g carbs, 30g protein, 20g fat)\n- **Why this works**: Pork provides 30g of protein to repair muscles, while greens offer nutrients, with Naga flavors.\n\nTip: Eat within 30 minutes of your session to maximize recovery, and drink water to rehydrate."
+  },
+  {
+    "instruction": "Suggest a lunch for an Assamese pregnant woman in her second trimester focusing on calcium.",
+    "input": "I’m from Assam in my second trimester of pregnancy and need a lunch to boost calcium. I like fish and greens.",
+    "output": "Here’s a calcium-rich lunch for an Assamese pregnant woman in her second trimester:\n\n- **Lunch**: Fish tenga (120g fish cooked with tomato, turmeric, and mustard oil) with 1/2 cup cooked sticky rice and 1 cup steamed lai xaak (mustard greens). (Approx. 400 kcal, 40g carbs, 30g protein, 15g fat)\n- **Why this works**: Fish provides protein, while greens offer calcium and vitamin K, essential for you and your baby, with Assam’s tangy flavors.\n\nTip."
+  }
+]

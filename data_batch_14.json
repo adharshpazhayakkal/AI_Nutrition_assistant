@@ -1,0 +1,2502 @@
+[
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #0",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #0. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #1",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #1. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #2",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #2. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #3",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #3. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #4",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #4. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #5",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #5. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #6",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #6. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #7",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #7. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #8",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #8. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #9",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #9. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #10",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #10. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #11",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #11. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #12",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #12. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #13",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #13. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #14",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #14. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #15",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #15. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #16",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #16. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #17",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #17. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #18",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #18. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #19",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #19. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #20",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #20. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #21",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #21. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #22",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #22. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #23",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #23. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #24",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #24. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #25",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #25. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #26",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #26. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #27",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #27. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #28",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #28. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #29",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #29. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #30",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #30. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #31",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #31. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #32",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #32. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #33",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #33. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #34",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #34. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #35",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #35. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #36",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #36. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #37",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #37. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #38",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #38. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #39",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #39. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #40",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #40. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #41",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #41. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #42",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #42. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #43",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #43. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #44",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #44. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #45",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #45. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #46",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #46. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #47",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #47. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #48",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #48. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #49",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #49. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #50",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #50. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #51",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #51. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #52",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #52. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #53",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #53. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #54",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #54. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #55",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #55. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #56",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #56. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #57",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #57. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #58",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #58. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #59",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #59. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #60",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #60. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #61",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #61. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #62",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #62. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #63",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #63. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #64",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #64. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #65",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #65. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #66",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #66. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #67",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #67. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #68",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #68. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #69",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #69. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #70",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #70. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #71",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #71. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #72",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #72. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #73",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #73. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #74",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #74. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #75",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #75. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #76",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #76. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #77",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #77. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #78",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #78. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #79",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #79. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #80",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #80. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #81",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #81. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #82",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #82. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #83",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #83. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #84",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #84. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #85",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #85. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #86",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #86. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #87",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #87. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #88",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #88. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #89",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #89. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #90",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #90. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #91",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #91. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #92",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #92. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #93",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #93. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #94",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #94. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #95",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #95. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #96",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #96. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #97",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #97. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #98",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #98. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #99",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #99. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #100",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #100. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #101",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #101. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #102",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #102. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #103",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #103. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #104",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #104. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #105",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #105. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #106",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #106. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #107",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #107. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #108",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #108. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #109",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #109. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #110",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #110. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #111",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #111. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #112",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #112. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #113",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #113. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #114",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #114. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #115",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #115. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #116",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #116. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #117",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #117. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #118",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #118. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #119",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #119. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #120",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #120. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #121",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #121. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #122",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #122. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #123",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #123. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #124",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #124. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #125",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #125. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #126",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #126. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #127",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #127. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #128",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #128. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #129",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #129. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #130",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #130. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #131",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #131. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #132",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #132. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #133",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #133. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #134",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #134. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #135",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #135. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #136",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #136. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #137",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #137. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #138",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #138. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #139",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #139. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #140",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #140. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #141",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #141. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #142",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #142. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #143",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #143. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #144",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #144. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #145",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #145. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #146",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #146. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #147",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #147. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #148",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #148. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #149",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #149. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #150",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #150. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #151",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #151. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #152",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #152. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #153",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #153. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #154",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #154. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #155",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #155. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #156",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #156. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #157",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #157. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #158",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #158. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #159",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #159. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #160",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #160. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #161",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #161. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #162",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #162. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #163",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #163. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #164",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #164. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #165",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #165. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #166",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #166. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #167",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #167. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #168",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #168. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #169",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #169. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #170",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #170. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #171",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #171. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #172",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #172. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #173",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #173. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #174",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #174. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #175",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #175. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #176",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #176. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #177",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #177. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #178",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #178. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #179",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #179. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #180",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #180. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #181",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #181. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #182",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #182. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #183",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #183. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #184",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #184. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #185",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #185. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #186",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #186. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #187",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #187. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #188",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #188. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #189",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #189. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #190",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #190. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #191",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #191. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #192",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #192. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #193",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #193. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #194",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #194. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #195",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #195. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #196",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #196. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #197",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #197. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #198",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #198. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #199",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #199. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #200",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #200. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #201",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #201. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #202",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #202. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #203",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #203. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #204",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #204. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #205",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #205. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #206",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #206. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #207",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #207. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #208",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #208. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #209",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #209. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #210",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #210. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #211",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #211. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #212",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #212. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #213",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #213. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #214",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #214. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #215",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #215. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #216",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #216. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #217",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #217. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #218",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #218. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #219",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #219. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #220",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #220. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #221",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #221. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #222",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #222. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #223",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #223. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #224",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #224. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #225",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #225. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #226",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #226. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #227",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #227. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #228",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #228. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #229",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #229. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #230",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #230. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #231",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #231. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #232",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #232. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #233",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #233. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #234",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #234. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #235",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #235. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #236",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #236. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #237",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #237. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #238",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #238. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #239",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #239. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #240",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #240. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #241",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #241. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #242",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #242. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #243",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #243. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #244",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #244. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #245",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #245. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #246",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #246. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #247",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #247. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #248",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #248. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #249",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #249. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #250",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #250. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #251",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #251. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #252",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #252. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #253",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #253. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #254",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #254. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #255",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #255. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #256",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #256. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #257",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #257. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #258",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #258. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #259",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #259. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #260",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #260. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #261",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #261. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #262",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #262. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #263",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #263. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #264",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #264. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #265",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #265. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #266",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #266. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #267",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #267. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #268",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #268. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #269",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #269. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #270",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #270. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #271",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #271. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #272",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #272. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #273",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #273. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #274",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #274. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #275",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #275. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #276",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #276. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #277",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #277. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #278",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #278. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #279",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #279. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #280",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #280. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #281",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #281. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #282",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #282. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #283",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #283. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #284",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #284. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #285",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #285. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #286",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #286. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #287",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #287. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #288",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #288. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #289",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #289. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #290",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #290. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #291",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #291. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #292",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #292. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #293",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #293. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #294",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #294. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #295",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #295. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #296",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #296. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #297",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #297. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #298",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #298. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #299",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #299. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #300",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #300. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #301",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #301. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #302",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #302. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #303",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #303. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #304",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #304. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #305",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #305. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #306",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #306. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #307",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #307. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #308",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #308. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #309",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #309. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #310",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #310. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #311",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #311. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #312",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #312. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #313",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #313. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #314",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #314. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #315",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #315. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #316",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #316. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #317",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #317. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #318",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #318. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #319",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #319. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #320",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #320. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #321",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #321. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #322",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #322. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #323",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #323. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #324",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #324. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #325",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #325. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #326",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #326. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #327",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #327. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #328",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #328. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #329",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #329. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #330",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #330. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #331",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #331. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #332",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #332. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #333",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #333. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #334",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #334. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #335",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #335. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #336",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #336. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #337",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #337. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #338",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #338. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #339",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #339. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #340",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #340. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #341",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #341. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #342",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #342. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #343",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #343. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #344",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #344. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #345",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #345. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #346",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #346. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #347",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #347. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #348",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #348. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #349",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #349. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #350",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #350. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #351",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #351. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #352",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #352. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #353",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #353. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #354",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #354. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #355",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #355. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #356",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #356. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #357",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #357. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #358",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #358. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #359",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #359. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #360",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #360. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #361",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #361. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #362",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #362. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #363",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #363. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #364",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #364. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #365",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #365. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #366",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #366. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #367",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #367. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #368",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #368. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #369",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #369. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #370",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #370. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #371",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #371. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #372",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #372. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #373",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #373. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #374",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #374. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #375",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #375. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #376",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #376. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #377",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #377. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #378",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #378. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #379",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #379. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #380",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #380. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #381",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #381. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #382",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #382. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #383",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #383. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #384",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #384. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #385",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #385. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #386",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #386. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #387",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #387. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #388",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #388. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #389",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #389. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #390",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #390. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #391",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #391. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #392",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #392. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #393",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #393. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #394",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #394. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #395",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #395. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #396",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #396. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #397",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #397. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #398",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #398. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #399",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #399. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #400",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #400. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #401",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #401. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #402",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #402. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #403",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #403. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #404",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #404. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #405",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #405. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #406",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #406. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #407",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #407. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #408",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #408. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #409",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #409. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #410",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #410. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #411",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #411. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #412",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #412. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #413",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #413. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #414",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #414. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #415",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #415. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #416",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #416. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #417",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #417. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #418",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #418. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #419",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #419. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #420",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #420. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #421",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #421. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #422",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #422. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #423",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #423. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #424",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #424. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #425",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #425. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #426",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #426. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #427",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #427. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #428",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #428. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #429",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #429. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #430",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #430. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #431",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #431. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #432",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #432. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #433",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #433. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #434",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #434. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #435",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #435. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #436",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #436. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #437",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #437. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #438",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #438. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #439",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #439. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #440",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #440. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #441",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #441. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #442",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #442. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #443",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #443. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #444",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #444. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #445",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #445. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #446",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #446. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #447",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #447. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #448",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #448. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #449",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #449. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #450",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #450. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #451",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #451. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #452",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #452. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #453",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #453. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #454",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #454. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #455",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #455. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #456",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #456. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #457",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #457. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #458",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #458. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #459",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #459. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #460",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #460. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #461",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #461. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #462",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #462. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #463",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #463. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #464",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #464. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #465",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #465. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #466",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #466. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #467",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #467. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #468",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #468. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #469",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #469. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #470",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #470. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #471",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #471. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #472",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #472. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #473",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #473. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #474",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #474. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #475",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #475. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #476",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #476. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #477",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #477. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #478",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #478. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #479",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #479. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #480",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #480. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #481",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #481. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #482",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #482. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #483",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #483. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to intermittent fasting suggestions",
+    "input": "User context for intermittent fasting suggestions scenario #484",
+    "output": "This is a tailored suggestion for intermittent fasting suggestions, based on the user's context in example #484. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to low-fodmap, gluten-free, paleo, keto diets",
+    "input": "User context for low-fodmap, gluten-free, paleo, keto diets scenario #485",
+    "output": "This is a tailored suggestion for low-fodmap, gluten-free, paleo, keto diets, based on the user's context in example #485. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to food substitutes for allergies (e.g., nuts, dairy, soy)",
+    "input": "User context for food substitutes for allergies (e.g., nuts, dairy, soy) scenario #486",
+    "output": "This is a tailored suggestion for food substitutes for allergies (e.g., nuts, dairy, soy), based on the user's context in example #486. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to athlete and gym-goer nutrition",
+    "input": "User context for athlete and gym-goer nutrition scenario #487",
+    "output": "This is a tailored suggestion for athlete and gym-goer nutrition, based on the user's context in example #487. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to pregnancy/postpartum nutrition",
+    "input": "User context for pregnancy/postpartum nutrition scenario #488",
+    "output": "This is a tailored suggestion for pregnancy/postpartum nutrition, based on the user's context in example #488. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to nutrient timing around workouts",
+    "input": "User context for nutrient timing around workouts scenario #489",
+    "output": "This is a tailored suggestion for nutrient timing around workouts, based on the user's context in example #489. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to snacks for energy, focus, recovery",
+    "input": "User context for snacks for energy, focus, recovery scenario #490",
+    "output": "This is a tailored suggestion for snacks for energy, focus, recovery, based on the user's context in example #490. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to grocery list generation",
+    "input": "User context for grocery list generation scenario #491",
+    "output": "This is a tailored suggestion for grocery list generation, based on the user's context in example #491. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to meal prep tips",
+    "input": "User context for meal prep tips scenario #492",
+    "output": "This is a tailored suggestion for meal prep tips, based on the user's context in example #492. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to weight loss and muscle gain plans",
+    "input": "User context for weight loss and muscle gain plans scenario #493",
+    "output": "This is a tailored suggestion for weight loss and muscle gain plans, based on the user's context in example #493. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to supplements and hydration tips",
+    "input": "User context for supplements and hydration tips scenario #494",
+    "output": "This is a tailored suggestion for supplements and hydration tips, based on the user's context in example #494. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to budget-conscious nutrition",
+    "input": "User context for budget-conscious nutrition scenario #495",
+    "output": "This is a tailored suggestion for budget-conscious nutrition, based on the user's context in example #495. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to personalized meal planning",
+    "input": "User context for personalized meal planning scenario #496",
+    "output": "This is a tailored suggestion for personalized meal planning, based on the user's context in example #496. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to diabetic and heart-healthy diets",
+    "input": "User context for diabetic and heart-healthy diets scenario #497",
+    "output": "This is a tailored suggestion for diabetic and heart-healthy diets, based on the user's context in example #497. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to high-protein vegetarian/vegan meals",
+    "input": "User context for high-protein vegetarian/vegan meals scenario #498",
+    "output": "This is a tailored suggestion for high-protein vegetarian/vegan meals, based on the user's context in example #498. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  },
+  {
+    "instruction": "Generate a suggestion related to macronutrient breakdowns",
+    "input": "User context for macronutrient breakdowns scenario #499",
+    "output": "This is a tailored suggestion for macronutrient breakdowns, based on the user's context in example #499. Include proteins, carbs, hydration, or avoidance tips specific to the case."
+  }
+]
