@@ -1,0 +1,17 @@
+transformers
+datasets
+peft
+accelerate
+scipy
+torch
+scikit-learn
+evaluate
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+pdf2image
+faiss-cpu
+langchain_google_genai
